@@ -2,7 +2,6 @@
 title = "Minisymposium: Low-rank modelling in uncertainty quantification"
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 date = 2019-09-30
 date_end = 2019-10-04
 all_day = true

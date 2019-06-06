@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Mpi"
+
+# Is theme light or dark?
+light = true
+
+# colors
+# mpiblue: #33a5c3
+# mpired: #33a5c3
+# mpisand: #ece9d4
+# Primary
+primary = "#33a5c3"
+
+# Menu
+menu_primary = "#33a5c3" # 500
+menu_text = "#e1f0ee"
+menu_text_active = "#ece9d4" # A100
+menu_title = "#ece9d4"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
