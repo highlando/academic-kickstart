@@ -1,7 +1,7 @@
 ---
 title: "Convergence of Approximations to Riccati-based Boundary-feedback Stabilization of Laminar Flows"
 date: 2017-01-01
-publishDate: 2019-05-21T17:43:13.320112Z
+publishDate: 2019-06-28T11:10:34.528135Z
 authors: ["Peter Benner", "Jan Heiland"]
 publication_types: ["2"]
 abstract: ""

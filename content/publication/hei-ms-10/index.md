@@ -1,7 +1,7 @@
 ---
 title: "A New Discretization Framework for Input/Output Maps and its Application to Flow Control"
 date: 2010-01-01
-publishDate: 2019-05-21T17:43:13.324634Z
+publishDate: 2019-06-28T11:10:34.533232Z
 authors: ["J. Heiland", "V. Mehrmann", "M. Schmidt"]
 publication_types: ["1"]
 abstract: ""
