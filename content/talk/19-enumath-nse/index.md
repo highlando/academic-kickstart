@@ -1,5 +1,5 @@
 +++
-title = "Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective"
+title = "Talk: Stability Analysis of Time Stepping Schemes for Incompressible Flows from a DAE Perspective"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

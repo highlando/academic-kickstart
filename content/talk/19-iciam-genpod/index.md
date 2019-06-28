@@ -1,5 +1,5 @@
 +++
-title = "Tensor-space Galerkin POD for parametric flow equations"
+title = "Talk: Tensor-space Galerkin POD for parametric flow equations"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

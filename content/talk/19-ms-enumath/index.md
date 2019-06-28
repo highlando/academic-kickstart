@@ -1,5 +1,5 @@
 +++
-title = "Minisymposium: Low-rank modelling in uncertainty quantification"
+title = "MS: Low-rank modelling in uncertainty quantification"
 
 # Talk start and end times.
 date = 2019-09-30
@@ -67,7 +67,7 @@ url_code = ""
   focal_point = ""
 +++
 
-# Our Speakers
+# Mini Symposium
 
 ## Session 1
 
