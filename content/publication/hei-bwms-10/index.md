@@ -1,7 +1,6 @@
 ---
 title: "Simulation and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems"
 date: 2010-01-01
-publishDate: 2019-06-28T11:10:34.532296Z
 authors: ["Jan Heiland", "M. Baumann", "A. Walle", "V. Mehrmann", "M. Schäfer"]
 publication_types: ["1"]
 abstract: ""

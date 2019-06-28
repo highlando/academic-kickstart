@@ -1,7 +1,6 @@
 ---
 title: "Example Setups of Navier- Stokes Equations with Control and Observation: Spatial Discretization and Representation via Linear-quadratic Matrix Coefficients"
 date: 2017-07-01
-publishDate: 2019-06-28T11:10:34.527239Z
 authors: ["M. Behr", "P. Benner", "J. Heiland"]
 publication_types: ["4"]
 abstract: ""

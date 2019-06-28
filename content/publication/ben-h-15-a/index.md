@@ -1,7 +1,6 @@
 ---
 title: "Time-dependent Dirichlet Conditions in Finite Element Discretizations"
 date: 2015-01-01
-publishDate: 2019-06-28T11:10:34.530302Z
 authors: ["Peter Benner", "Jan Heiland"]
 publication_types: ["2"]
 abstract: ""

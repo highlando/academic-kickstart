@@ -1,7 +1,6 @@
 ---
 title: "Optimal Control of a Stefan Problem Fully Coupled with Navier-Stokes-Equations and Mesh Movement"
 date: 2018-01-01
-publishDate: 2019-06-28T11:10:34.525554Z
 authors: ["Björn Baran", "Peter Benner", "Jan Heiland", "Jens Saak"]
 publication_types: ["2"]
 abstract: ""

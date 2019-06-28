@@ -1,7 +1,6 @@
 ---
 title: "LQG-Balanced Truncation Low-Order Controller for Stabilization of Laminar Flows"
 date: 2015-01-01
-publishDate: 2019-06-28T11:10:34.527711Z
 authors: ["Peter Benner", "Jan Heiland"]
 publication_types: ["6"]
 abstract: ""

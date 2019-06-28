@@ -1,7 +1,6 @@
 ---
 title: "A Differential-Algebraic Riccati Equation for Applications in Flow Control"
 date: 2016-01-01
-publishDate: 2019-06-28T11:10:34.531115Z
 authors: ["Jan Heiland"]
 publication_types: ["2"]
 abstract: ""
