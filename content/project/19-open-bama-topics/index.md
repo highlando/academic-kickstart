@@ -45,6 +45,7 @@ url_poster = ""
   focal_point = ""
 +++
 
+
 All projects can be fitted to the needs in terms of complexity, quantity and theory to programming ratio. 
 
 If you are interested, just drop by...
