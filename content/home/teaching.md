@@ -62,11 +62,3 @@ subtitle = ""
 | Lecture: [*Funktionentheorie* (Complex Analysis)](http://janheiland.de/17-funktionentheorie-ovgu/) | Winter term 2017 at OVGU | |
 | Lecture: [*Differential-algebraic Equations*](http://janheiland.de/16-dae-course-ovgu/) | Summer term 2016 at OVGU | |
 | Short course: [*Model Reduction for Line Time Invariant Systems*](http://janheiland.de/mor-shortcourse-SH/) | Summer 2015 at Shanghai University | [Slides](https://github.com/highlando/mor-shortcourse-SH/raw/gh-pages/lecture_notes.pdf) |
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
