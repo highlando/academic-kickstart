@@ -6,6 +6,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Analele Stiintifice ale Universitatii Ovidius Constanta - Seria Matematica*"
-url_pdf: "https://www.emis.de/journals/ASUO/accepted-papers.html; https://www.degruyter.com/view/j/auom.2017.25.issue-2/issue-files/auom.2017.25.issue-2.xml"
+url_pdf: "https://content.sciendo.com/downloadpdf/journals/auom/26/2/article-p11.xml"
+doi: "10.2478/auom-2018-0016"
 ---
 
