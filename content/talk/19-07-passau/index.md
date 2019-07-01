@@ -2,7 +2,7 @@
 title = "Visit: University Passau"
 
 # Talk start and end times.
-date = 2019-07-02T17:11:02+02:00
+date = 2019-07-03T17:11:02+02:00
 # date_end = 2019-07-06T17:11:02+02:00
 all_day = true
 
@@ -74,4 +74,4 @@ I will give a talk on
 > Robust control for compensation of linearization and discretization
 errors in stabilization of incompressible flows
 
-in the seminar, 1PM, on July 2nd. 
+in the seminar, 1PM, on July 3rd. 
