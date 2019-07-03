@@ -6,7 +6,7 @@ profile = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BA/MA"]
+tags = ["BA-MA"]
 
 # Project summary to display on homepage.
 summary = "Bachelor thesis on *Modelling of the impact of multiple scattering on scalar measurements using luminescent particles*"

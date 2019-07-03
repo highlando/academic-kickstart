@@ -27,7 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "BA/MA"
-    tag = "BA/MA"
+    tag = "BA-MA"
+
+  [[content.filter_button]]
+    name = "Software"
+    tag = "software"
   
   # [[content.filter_button]]
   #   name = "Other"
