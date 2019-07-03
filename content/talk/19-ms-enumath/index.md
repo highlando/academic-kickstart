@@ -17,7 +17,7 @@ location = "Eegmond an Zee, The Netherlands"
 
 # Name of event and optional event URL.
 event = "Enumath @ TU Delft"
-event_url = "www.enumath2019.eu"
+event_url = "http://www.enumath2019.eu"
 
 # Abstract. What's your talk about?
 abstract = "Uncertainties in modelling and simulation of dynamical systems come from different sources: modelled or unmodelled external perturbations, unknown or stochastically changing model parameters, and measurement errors, to name a few. In any case, respecting these uncertainties in the model equations and their discretization means adding yet another model dimension. Thus, since the computational complexity grows exponentially with the dimensions, low-rank descriptions seem to be a promising way to arrive at feasible schemes for models that include PDEs. This mini symposium features suitably extended common approaches as well as newly developed methods that have the identification and exploitation of low-rank structures as the common denominator."
