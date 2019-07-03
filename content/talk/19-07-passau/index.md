@@ -5,6 +5,7 @@ title = "Visit: University Passau"
 date = 2019-07-03T17:11:02+02:00
 # date_end = 2019-07-06T17:11:02+02:00
 all_day = true
+share = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2019-06-06T17:11:02+02:00
@@ -16,8 +17,8 @@ authors = []
 location = "University of Passau"
 
 # Name of event and optional event URL.
-event = "Research Visit"
-event_url = ""
+event = "Research Visit at the Chair for Dynamical Systems"
+event_url = "http://www.fim.uni-passau.de/en/dynamical-systems/welcome/"
 
 # Abstract. What's your talk about?
 abstract = ""
