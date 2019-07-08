@@ -1,7 +1,7 @@
 ---
 title: "Nonlinear feedback stabilization of incompressible flows via updated Riccati-based gains"
 date: 2017-12-01
-authors: ["P. Benner", "J. Heiland"]
+authors: ["Peter Benner", "Jan Heiland"]
 publication_types: ["1"]
 abstract: ""
 featured: false

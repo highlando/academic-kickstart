@@ -1,7 +1,7 @@
 ---
 title: "Space-Time Galerkin POD with application in optimal control of semi-linear parabolic partial differential equations"
 date: 2016-11-01
-authors: ["M. Baumann", "P. Benner", "J. Heiland"]
+authors: ["Manuel Baumann", "Peter Benner", "Jan Heiland"]
 publication_types: ["2"]
 abstract: ""
 featured: false

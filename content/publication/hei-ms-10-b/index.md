@@ -1,7 +1,7 @@
 ---
 title: "Systematic Discretization of Input/Output Maps and Control of Partial Differential Equations"
 date: 2010-01-01
-authors: ["J. Heiland", "V. Mehrmann", "M. Schmidt"]
+authors: ["Jan Heiland", "Volker Mehrmann", "M. Schmidt"]
 publication_types: ["1"]
 abstract: ""
 featured: false

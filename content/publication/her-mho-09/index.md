@@ -1,7 +1,7 @@
 ---
 title: "Shape Optimization in Train Aerodynamics"
 date: 2009-01-01
-authors: ["A. Herbst", "J. Mauss", "J. Heiland", "A. Orellano"]
+authors: ["Astrid Herbst", "Johannes Mauss", "Jan Heiland", "Alexander Orellano"]
 publication_types: ["1"]
 abstract: ""
 featured: false
