@@ -1,7 +1,7 @@
 ---
 title: "Regularization and Rothe Discretization of Semi-Explicit Operator DAEs"
 date: 2017-01-01
-authors: ["Robert Altmann", "J. Heiland"]
+authors: ["Robert Altmann", "Jan Heiland"]
 publication_types: ["2"]
 abstract: ""
 featured: false

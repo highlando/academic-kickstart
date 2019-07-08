@@ -1,7 +1,7 @@
 ---
 title: "Exponential Stability and Stabilization of Extended Linearizations via Continuous Updates of Riccati Based Feedback"
 date: 2017-01-01
-authors: ["P. Benner", "J. Heiland"]
+authors: ["Peter Benner", "Jan Heiland"]
 publication_types: ["2"]
 abstract: ""
 featured: false
