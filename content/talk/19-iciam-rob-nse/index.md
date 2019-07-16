@@ -18,7 +18,7 @@ location = "Valencia"
 
 # Name of event and optional event URL.
 event = "ICIAM 2019: Stabilization of distributed parameter systems: design methods and applications"
-event_url = "www.iciam2019.com"
+event_url = "https://iciam2019.com/programa/sesiones.html?codSes=MS%20ME-1-4%207&fecha=17/07/2019&name=Heiland%20Jan&hora=17:00%20-%2019:00"
 
 # Abstract. What's your talk about?
 abstract = "The stabilization of laminar flows on the base of linearizations and feedback controllers has been the subject of many recent theoretical and computational studies. However, the applicability of the standard approaches is limited due to the inherent fragility of observer based controllers with respect to model uncertainties. We analyse how an uncertainty in the Oseen-linearization of the Navier-Stokes equations affects the controller design and show that H-infinity robustness can handle these perturbations."

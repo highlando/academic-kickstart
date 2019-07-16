@@ -18,7 +18,7 @@ location = "Valencia"
 
 # Name of event and optional event URL.
 event = "ICIAM 2019: MS -- Reduced Order Modeling for Parametric CFD Problems"
-event_url = "https://www.iciam2019.com"
+event_url = "https://iciam2019.com/programa/sesiones.html?codSes=MS%20FT-2-4%208&fecha=18/07/2019&name=Jan%20Heiland&hora=14:30%20-%2016:30"
 
 # Abstract. What's your talk about?
 abstract = "POD is a common and popular approach for order reduction of nonlinear models. Recently, we have extended the standard POD formulation such that the temporal dimension can be reduced by the same principles. In this talk, we illustrate how the tensor-space structure used for space-time POD extends to further dimensions to accommodate, e.g., a parameter dependency and how it applies to incompressible flow equations parametrized by the Reynolds number."
