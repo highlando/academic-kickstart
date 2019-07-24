@@ -2,9 +2,10 @@
 title: "Robust Stabilization of Laminar Flows in Varying Flow Regimes"
 date: 2016-01-01
 authors: ["Peter Benner", "Jan Heiland"]
-publication_types: ["0"]
+publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*2nd IFAC Workshop on Control of Systems Governed by Partial Differential Equations*"
+publication: "*IFAC-PapersOnLine*"
+doi: "10.1016/j.ifacol.2016.07.414"
 ---
 
