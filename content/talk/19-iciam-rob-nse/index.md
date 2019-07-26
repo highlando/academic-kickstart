@@ -1,5 +1,5 @@
 +++
-title = "Talk: Robust observer-based feedback for the incompressible Navier-Stokes equation"
+title = "Robust observer-based feedback for the incompressible Navier-Stokes equation"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

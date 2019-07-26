@@ -1,17 +1,17 @@
 +++
-title = "Visit: University Passau"
+title = "Robust control for compensation of linearization and discretization errors in stabilization of incompressible flows"
 
 # Talk start and end times.
-date = 2019-07-03T17:11:02+02:00
-# date_end = 2019-07-06T17:11:02+02:00
-all_day = true
+date = 2019-07-03T13:00:00+02:00
+date_end = 2019-07-03T14:00:00+02:00
+all_day = false
 share = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2019-06-06T17:11:02+02:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Jan Heiland"]
 
 # Location of event.
 location = "University of Passau"
@@ -31,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Visit"]
+tags = ["Robust Control", "NSE"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -67,12 +67,3 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-Meeting with the group of Fabian Wirth and Andrii Mironchenko. 
-
-I will give a talk on
-
-> Robust control for compensation of linearization and discretization
-errors in stabilization of incompressible flows
-
-in the seminar, 1PM, on July 3rd. 
