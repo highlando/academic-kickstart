@@ -1,7 +1,5 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
-
+# A Recent and Upcoming Talks section created with the Pages widget.  # This section displays recent talks from `content/talk/`.  
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -71,8 +69,8 @@ subtitle = "Workshops&Visits"
 
 | Date | Occasion | Location |
 | -----: | ------ | --- |
-| Oct 14 -- Oct 18 | Organizer of the Workshop *Machine Learning in Model Reduction and Control* | Shanghai, China |
-| Sep 30 -- Oct 4 | Organizer of the MS *Machine Learning in Model Reduction and Control* and talk on [time stepping for NSE]({{< ref "talk/19-enumath-nse/index.md" >}}) at the [Enumath 2019](http://www.enumath2019.eu/) | Eegmond an Zee, The Netherlands |
+| Oct 14 -- Oct 18 | Organizer of the Workshop [Machine Learning in Model Reduction and Control]({{< ref "events/19-ws-shanghai" >}}) | Shanghai, China |
+| Sep 30 -- Oct 4 | Organizer of the MS [Machine Learning in Model Reduction and Control]({{< ref "events/19-ms-enumath" >}}) and talk on [time stepping for NSE]({{< ref "talk/19-enumath-nse/index.md" >}}) at the [Enumath 2019](http://www.enumath2019.eu/) | Eegmond an Zee, The Netherlands |
 | Jul 15 -- Jul 19 | Talks at the [ICIAM2019](https://iciam2019.org) on [robust controllers]({{< ref "talk/19-iciam-rob-nse/index.md" >}}) and [tensor POD]({{< ref "talk/19-iciam-genpod/index.md" >}}) | Valencia, Spain |
 | Jul 02 -- Jul 04 | Visit of the [group](http://www.fim.uni-passau.de/en/dynamical-systems/welcome/) of Fabian Wirth and seminar talk on [robust controller design]({{< ref "talk/19-07-passau/index.md" >}}) | Passau, Germany |
 

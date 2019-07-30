@@ -1,8 +1,9 @@
 +++
-	# title = "MS: Low-rank modelling in uncertainty quantification"
+title = "MS: Low-rank modelling in uncertainty quantification"
+date = 2019-09-30
 	# 
 	# # Talk start and end times.
-	# date = 2019-09-30
+	# 
 	# date_end = 2019-10-04
 	# all_day = true
 	# 
