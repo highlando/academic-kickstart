@@ -1,5 +1,5 @@
 +++
-title = "MS: Low-rank modelling in uncertainty quantification"
+title = "Low-rank modelling in uncertainty quantification"
 +++
 
 # Mini Symposium
