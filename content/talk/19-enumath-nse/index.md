@@ -3,9 +3,9 @@ title = "Talk: Stability Analysis of Time Stepping Schemes for Incompressible Fl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-09-30
-date_end = 2019-10-04
-all_day = true
+date = 2019-10-02T15:45:00+02:00
+date_end = 2019-10-02T16:10:00+02:00
+all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2019-05-26T14:19:01+02:00
@@ -15,7 +15,7 @@ authors = ["Robert Altmann", "Jan Heiland"]
 location = "Eegmond an Zee, The Netherlands"
 
 event = "Enumath @ TU Delft"
-event_url = "http://www.enumath2019.eu"
+event_url = "https://www.enumath2019.eu/program/show_slot/103"
 
 # Abstract. What's your talk about?
 abstract = "By analysing the Kronecker index of the difference-algebraic equations, that represent commonly and successfully used time stepping schemes for the Navier-Stokes equations, we show that those time-integration schemes factually remove strangeness. The theoretical considerations are backed and illustrated by numerical examples."

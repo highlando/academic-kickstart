@@ -14,8 +14,8 @@ A 5 days workshop on *Machine Learning in Model Reduction and Control* that will
 Peter Benner (MPI Magdeburg), Jan Heiland (MPI Magdeburg), Xin Du (U Shanghai)
 #### Funding
 The workshop is financed by the *Chinesisch-Deutsches Zentrum f&uuml;r Wissenschaftsf&ouml;rderung* (CDZ) and U Shanghai
-#### Date
-October 14-18, 2019
+#### Date & Venue
+October 14-18, 2019 at the Lehu Hotel
 
 ### Participants
 #### From the *German* side
@@ -37,3 +37,8 @@ October 14-18, 2019
 * Quevedo, Daniel (U Paderborn)
 * Trimpe, Sebastian (MPI for Intelligent Systems)
 * Villanueva, Mario Eduardo (ShanghaiTech)
+
+### Practical Information
+
+#### Accomodation and 
+All participants will be provided a room in the conference hotel. This will be organized by the Chinese side. By default, rooms will be reserved from Sunday (October 13) till Friday (October 18). If your Please let us know.
