@@ -67,4 +67,16 @@ Everyone should book her own flight. The costs will be reimbursed via the MPI Ma
 
 ## Getting there
 
-Shanghai has two main airports *Pu Dong* and *Hong Qiao*. Both airports as well as the train stations are well connected by metro. 
+Shanghai has two main airports *Pu Dong* and *Hong Qiao*. Both airports as well as the train stations are well connected by subway. 
+
+### By Taxi
+
+tba
+
+
+### By Metro
+
+The university campus with the conference hotel is reached by the *red line* (Subway Line 1) at stop *Yan Chang Road* (延长路). There, take exit 2 (2口出), turn left so that you have the elevated road in your back, walk straight for 500m. Soon after the first traffic light, you will see the fence of the Shanghai University on the left side of the street. Walk on until the main gate.
+
+### In any case
+Enter the campus through the [main gate](https://en.wikipedia.org/wiki/Shanghai_University#/media/File:Shanghai_Universtiry_YanChang_Gate.jpg) which is around [here](https://www.bing.com/maps?osid=521cb239-8661-47b0-8115-969f62c9047f&cp=31.272888~121.458807&lvl=19&v=2&sV=2&form=S00027), turn left and the hotel is the second building on the left hand side.
