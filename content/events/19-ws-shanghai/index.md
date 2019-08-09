@@ -64,3 +64,7 @@ Everyone should book her own flight. The costs will be reimbursed via the MPI Ma
  * it is OK to go, e.g., to Beijing and use the train to Shanghai
  * make sure to keep your boarding passes
  * you will need an original invoice^[This was always a bit troublesome. It works well with Lufthansa or Hainan Airlines. We always managed somehow to reimburse the costs.]
+
+## Getting there
+
+Shanghai has two main airports *Pu Dong* and *Hong Qiao*. Both airports as well as the train stations are well connected by metro. 
