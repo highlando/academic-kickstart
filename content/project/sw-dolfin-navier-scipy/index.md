@@ -43,3 +43,9 @@ slides: ""
 ---
 
 A Python package that provides an interface between *scipy* and *FEniCS* in view of solving Navier-Stokes Equations. *FEniCS* is used to perform a Finite Element discretization of the equations. The assembled coefficients are exported as sparse matrices for use in *scipy*. Nonlinear and time-dependent parts are evaluated and assembled on demand. Visualization is done via the *FEniCS* interface to *paraview*. 
+
+# Features
+
+ * modelling of control and observation
+ * second order time integration with explicit treatment of the nonlinearities
+ * implementation of cylinder wake benchmark case (2D-1) by Sch&auml;fer/Turek^[[www.featflow.de/en/benchmarks/cfdbenchmarking/flow/dfg_benchmark1_re20.html](www.featflow.de/en/benchmarks/cfdbenchmarking/flow/dfg_benchmark1_re20.html)] as test case
