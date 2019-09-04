@@ -6,7 +6,6 @@ publication_types: ["4"]
 abstract: ""
 featured: false
 publication: "*ArXiv e-prints*"
-tags: ["Computer Science - Mathematical Software", "Mathematics - Dynamical Systems", "68U20"]
+tags: ["dns.py", "Computer Science - Mathematical Software", "Mathematics - Dynamical Systems", "68U20"]
 url_pdf: "http://arxiv.org/abs/1707.08711"
 ---
-
