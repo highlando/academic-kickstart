@@ -4,7 +4,7 @@
 title: "dolfin-navier-scipy"
 summary: "A Python package that provides an interface between *scipy* and *FEniCS* in view of solving Navier-Stokes Equations."
 authors: [Jan Heiland]
-tags: ["software", "dns.py"]
+tags: ["software"]
 categories: []
 date: 2019-07-03T18:53:50+02:00
 
@@ -48,8 +48,6 @@ A Python package that provides an interface between *scipy* and *FEniCS* in view
 
  * modelling of control and observation
  * second order time integration with explicit treatment of the nonlinearities
- * implementation of cylinder wake benchmark case (2D-1) by Sch&auml;fer/Turek^[[www.featflow.de/en/benchmarks/cfdbenchmarking/flow/dfg_benchmark1_re20.html](www.featflow.de/en/benchmarks/cfdbenchmarking/flow/dfg_benchmark1_re20.html)] as test case
 
 ## Related Publications
-
-[von Wahl et al. (2019): *Numerical benchmarking of fluid-rigid body interactions*]({{< ref "publication/wah-rlhm-19/index.md" >}})
+Check the tag [`dns.py`](../../tags/dns.py/) to see related content.
