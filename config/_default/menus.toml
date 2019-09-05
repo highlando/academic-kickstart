@@ -8,20 +8,21 @@
   url = "#about"
   weight = 10
 
+
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 25
 
 [[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
+
+[[main]]
   name = "Conferences"
   url = "#talks"
   weight = 35
-
-# [[main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 30
 
 [[main]]
   name = "Publications"
