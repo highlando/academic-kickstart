@@ -1,7 +1,7 @@
 ---
 title: "Best Practices for Replicability, Reproducibility and Reusability of Computer-Based Experiments Exemplified by Model Reduction Software"
 date: 2016-01-01
-authors: ["J. Fehr", "J. Heiland", "C. Himpe", "J. Saak"]
+authors: ["Jörg Fehr", "Jan Heiland", "Christian Himpe", "Jens Saak"]
 publication_types: ["2"]
 abstract: ""
 featured: false
