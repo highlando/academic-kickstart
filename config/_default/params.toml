@@ -7,9 +7,15 @@ color_theme = "mpi"
 # Enable users to switch between day and night mode?
 day_night = true
 
-# Font style.
-#   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "default"
+# Overrride the theme's font set (optional).
+#   Latest font sets (may require updating Academic): https://sourcethemes.com/academic/themes/
+#   Browse built-in font sets in `themes/academic/data/fonts/`
+#   Browse user installed font sets in `data/fonts/`
+font = ""
+
+# Choose a font size.
+# Sizes: s (small), m (medium), l (large)
+font_size = "m"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -20,7 +26,7 @@ sharing_image = ""
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "jnhlnd"
 
-# Diplay a logo in navigation bar rather than title (optional).
+# Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 # logo = "icon-192.png"
 logo = ""
