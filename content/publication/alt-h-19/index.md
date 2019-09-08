@@ -7,5 +7,10 @@ abstract: "The Navier--Stokes equations are commonly used to model and to simula
 featured: false
 publication: "*Applications of Differential-Algebraic Equations: Examples and Benchmarks*"
 doi: "10.1007/11221_2018_2"
+links:
+ - name: Preprint
+   url: 'https://arxiv.org/abs/1901.04002'
+ - name: Code
+   url: 'https://dx.doi.org/10.5281/zenodo.998909'
 ---
 
