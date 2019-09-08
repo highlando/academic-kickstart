@@ -1,9 +1,12 @@
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
-# Color theme.
-#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `rose`, `strawberry`, `mr_robot`.
-color_theme = "mpi"
+# Choose a theme.
+#   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
+#   Browse built-in themes in `themes/academic/data/themes/`
+#   Browse user installed themes in `data/themes/`
+theme = "mpi"
+
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -23,13 +26,12 @@ description = ""
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
-# Twitter username (without @). Used when a vistor shares your site on Twitter.
+# Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "jnhlnd"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-# logo = "icon-192.png"
-logo = ""
+logo = "icon-192.png"
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -73,16 +75,13 @@ address = "Office S2.13<br> Max Planck Institute, Sandtorstr. 1, 39106 Magdeburg
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jnhlnd"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/jnhlnd"},
+{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/jnhlnd"},
+{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jnhlnd"},
   ]
 
 # Display a map.
