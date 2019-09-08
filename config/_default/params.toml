@@ -1,20 +1,12 @@
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
-<<<<<<< HEAD
-# Color theme.
-#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "mpi"
-# color_theme = "strawberry"
-# color_theme = "default"
-=======
 # Choose a theme.
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 theme = "mpi"
 
->>>>>>> 741fb32... looks like fixed
 # Enable users to switch between day and night mode?
 day_night = true
 
