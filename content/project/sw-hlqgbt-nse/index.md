@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "dolfin-navier-scipy"
-summary: "A Python package that provides an interface between *scipy* and *FEniCS* in view of solving Navier-Stokes Equations."
+title: "hinf-lqgbt-nse"
+summary: "Python module for application of (Hinf-)LQG-balanced truncation for low-order controllers for the stabilization of Navier-Stokes equations"
 authors: [Jan Heiland]
-tags: ["software"]
+tags: ["software", "Navier-Stokes", "control"]
 categories: []
 date: 2019-07-03T18:53:50+02:00
 
@@ -25,9 +25,9 @@ links:
 - icon_pack: fab
   icon: github
   name: Github
-  url: 'https://github.com/highlando/dolfin_navier_scipy'
+  url: 'https://github.com/highlando/lqgbt-oseen'
 - name: Documentation
-  url: 'http://dolfin-navier-scipy.readthedocs.org/en/latest/index.html'
+  url: 'http://lqgbt-for-flow-stabilization.readthedocs.org/en/latest/'
 
 url_code: ""
 url_pdf: ""
@@ -42,12 +42,14 @@ url_video: ""
 slides: ""
 ---
 
-A Python package that provides an interface between *scipy* and *FEniCS* in view of solving Navier-Stokes Equations. *FEniCS* is used to perform a Finite Element discretization of the equations. The assembled coefficients are exported as sparse matrices for use in *scipy*. Nonlinear and time-dependent parts are evaluated and assembled on demand. Visualization is done via the *FEniCS* interface to *paraview*. 
+Python module for application of (Hinf-)LQG-balanced truncation for low-order controllers for the stabilization of Navier-Stokes equations.
 
-## Features
+As an example we consider the stabilization of the cylinder wake at moderate Reynoldsnumbers via boundary control and distributed observation.
 
- * modelling of control and observation
- * second order time integration with explicit treatment of the nonlinearities
+# Features
 
-## Related Publications
-Check the tag [`dns.py`](../../tags/dns.py/) to see related content.
+ * implementation of various Riccati-based feedback controllers
+   * static state feedback
+   * observer based LQGBT feedback
+   * robustified LQGBT feedback
+ * integration with M.E.S.S or my [homebrew Riccati solver](www.github.com/highlando/sadptprj_riclyap_adi) for flow related equations
