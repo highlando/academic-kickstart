@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Optimal Control Formulas from Pontryagin to Wikipedia"
+title: "Adjoint Systems for Optimal Control from Pontryagin to Wikipedia"
 subtitle: "Exemplified by the Single Pendulum"
 summary: ""
 authors: ["Jan Heiland"]
@@ -31,7 +31,9 @@ math: true
 projects: []
 ---
 
-While it seems common knowledge how to formulate *necessary optimality* conditions backed by the famous *Pontryagin's Maximum Principle*, the direct derivation from the **very general** original formulations is not obvious. Sometimes, authors like me^[my diss TODO] provide some plausibility like *obviously this term has to vanish*, refer to other sources that miss the derivation too, or attach the complete book by Pontryagin to a specific formula^[Ober-Bloebaum].
+While it seems common knowledge how to formulate *necessary optimality* conditions backed by the famous *Pontryagin's Maximum Principle*, the direct derivation from the **very general** original formulations is not obvious. Sometimes, authors like me^[
+  Lemma 6.5 in Heiland (2013) *Decoupling, Semi-Discretization, and Optimal Control of Semi-linear Semi-explicit Index-2 Abstract Differential-Algebraic Equations and Application in Optimal Flow Control*
+] provide some plausibility like *obviously this term has to vanish*, refer to other sources that miss the derivation too, or attach the complete book by Pontryagin to a specific formula^[cp. the text before Theorem 3.4 in Ober-Bl&ouml;baum, Junge, Marsden (2008) *Discrete Mechanics and Optimal Control: an Analysis*].
 
 {{% toc %}}
 
@@ -129,11 +131,11 @@ With consider two control setups:
 
 # The Maximum Principle 
 
-Classically, as treated in [Pontryagin, Ch. I.2] and [Bloch, Ch. 7.2], one seeks the minimum over all $u=(g_1, g_2)$ that *a-priori* ensure that $\theta(t_1)=0$ and $p(t_1)=0$. This, in a sense, means that suitable controls are known and that the optimization looks for those with the least magnitude. For people like me, that use optimization because they don't know a control, this seems not very feasible. But Pontryagin has the answer for that too:
+Classically, as treated by Pontryagin itself^[Ch. I.2 in his book], one seeks the minimum over all $u=(g_1, g_2)$ that *a-priori* ensure that $\theta(t_1)=0$ and $p(t_1)=0$. This, in a sense, means that suitable controls are known and that the optimization looks for those with the least magnitude. For people like me, that use optimization because they don't know a control, this seems not very feasible. But Pontryagin has the answer for that too:
 
 ## Maximum Principle with Variable Endpoints
 
-One can (partially) abandon the end conditions, see [Pontryagin, Ch. I.7]. Similarly, one can abandon the initial conditions which, again, seems odd from an application point of view. Also, simply omitting the end conditions will lead to trivial solutions. Certainly, we need to include them in the optimization. Which leads to the Wikipedia case.
+One can (partially) abandon the end conditions, see Chapter I.7 in Pontryagin's book. Similarly, one can abandon the initial conditions which, again, seems odd from an application point of view. Also, simply omitting the end conditions will lead to trivial solutions. Certainly, we need to include them in the optimization. Which leads to the Wikipedia case.
 
 ## The Wikipedia Case
 
@@ -271,7 +273,7 @@ $$
 S_1 = \{(\frac{1}{2(t_1-t_0)}(\theta^2 + p^2), \theta, p)\} \subset \mathbb R^3
 $$
 
-Then the *transversality condition*^[see Pontryagin et al., Ch. I.7] that $\psi(t_1)$ has to be *orthogonal* to the tangent plane to $S_1$ at $(\tilde x(t_1), \theta(t_1), p(t_1))$ gives the following boundary conditions for $\psi$:
+Then the *transversality condition*^[Pontryagin et al., Ch. I.7] that $\psi(t_1)$ has to be *orthogonal* to the tangent plane to $S_1$ at $(\tilde x(t_1), \theta(t_1), p(t_1))$ gives the following boundary conditions for $\psi$:
 
 \begin{align}
 \frac{1}{t_1-t_0}p(t_1)\psi_1(t_1) - \psi_3(t_1) &= 0, \\\\\\\\ 
@@ -296,3 +298,5 @@ $$
 of the tangent space and note that any other basis can be taken, or equivalently, any linear combination of the boundary conditions are feasible.
 
 # References
+
+:orange_book: Pontryagin, Boltyanski, Gamkrelidze, and Mishchenko (1962) *The Mathematical Theory of Optimal Processes*
