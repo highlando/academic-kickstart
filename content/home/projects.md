@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Software"
     tag = "software"
+
+  [[content.filter_button]]
+    name = "Industry"
+    tag = "Industry"
   
   # [[content.filter_button]]
   #   name = "Other"

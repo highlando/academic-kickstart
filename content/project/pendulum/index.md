@@ -4,7 +4,7 @@
 title: "Inverse Triple Pendulum"
 summary: "An inverted triple pendulum as a test bench and demonstrator for control routines."
 authors: []
-tags: ["BA-MA", "Industry"]
+tags: ["BA-MA", "Industry", "software"]
 categories: []
 date: 2019-09-17T11:56:57+02:00
 
