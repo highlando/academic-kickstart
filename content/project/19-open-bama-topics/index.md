@@ -65,7 +65,7 @@ As these projects base on numerical analysis and system and control theory, they
  
 These projects have a hardware component. They are particularly suited for control or electrical engineers, but also for students of mathematics that have a favor for engineering applications. 
 
-In cooperation with the Magdeburg company [*Hasomed*](www.hasomed.de).
+In cooperation with the Magdeburg company [*Hasomed*](https://www.hasomed.de).
 
 ## Modelling and Simulation
 
