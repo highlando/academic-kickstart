@@ -26,20 +26,17 @@ October 14--18, 2019 at the Lehu Hotel at the [*Yan Chang* Campus](https://en.wi
 
 * Antoulas, Athanasios (Jacobs U Bremen)
 * Benner, Peter (MPI for Dynamics of Complex Technical Systems)
-* Ebenbauer, Christian (U Stuttgart)
 * Findeisen, Rolf (OVGU Magdeburg)
 * Gosea, Victor (MPI for Dynamics of Complex Technical Systems)
 * Gräßle, Carmen (U Hamburg)
-* Grundel, Sara (MPI for Dynamics of Complex Technical Systems)
+* Goyal, Pawan (MPI for Dynamics of Complex Technical Systems)
 * Heiland, Jan (OVGU Magdeburg)
 * Houska, Boris (ShanghaiTech)
 * Manohar, Krithika (Cal Tech)
 * Mostaghim, Sanaz (OVGU Magdeburg)
 * Noack, Bernd (LIMSI-CNRS)
-* Peters, Jan (TU Darmstadt)
-* Ramaswamy, Arunselvan (U Paderborn)
 * Quevedo, Daniel (U Paderborn)
-* Trimpe, Sebastian (MPI for Intelligent Systems)
+* Worthmann, Karl (TU Ilmenau)
 * Villanueva, Mario Eduardo (ShanghaiTech)
 
 # Practical Information
@@ -71,7 +68,13 @@ Shanghai has two main airports *Pu Dong* and *Hong Qiao*. Both airports as well 
 
 ### By Taxi
 
-tba
+At any airport or train station just go to the official taxi stands. It might be very crowded but the access to the cars is well organized.
+
+The addresse is 上海市静安区延长路149号上海大学延长校区南门. (The south gate of the Shanghai University at the *Yan Chang* Campus). Walk on as indicated below.
+
+The picture below has the address and the request for a receipt on it. 
+
+![show the driver](showthetaxi.png)
 
 
 ### By Metro

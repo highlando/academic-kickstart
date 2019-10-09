@@ -3,8 +3,8 @@ title = "Talk: Stability Analysis of Time Stepping Schemes for Incompressible Fl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-10-02T15:45:00+02:00
-date_end = 2019-10-02T16:10:00+02:00
+date = 2019-10-02T16:10:00+02:00
+date_end = 2019-10-02T16:35:00+02:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -68,10 +68,15 @@ url_code = ""
 +++
 
 We consider the time discretization of the semi-discrete incompressible Navier-Stokes equations (NSE)
-\begin{align*}
-	M \dot v(t) &= N(v(t)) + J^Tp(t) + f(t), \\
+
+$
+\begin{aligned}
+	\quad \quad \quad M \dot v(t) &= N(v(t)) + J^Tp(t) + f(t), 
+    \\\\\\\\
 	0 &= Jv(t),
-\end{align*}
+\end{aligned}
+$
+
 formulated in the velocity $v(t) \in \mathbb R^{n_v}$ and pressure $p(t) \in \mathbb R^{n_p}$, with $M\in \mathbb R^{n_v, n_v}$ being the mass matrix from the spatial discretization, $N\colon \mathbb R^{n_v} \to \mathbb R^{n_v}$ modelling the discretized convection and diffusion, and with $J\in \mathbb R^{n_p, n_v}$ and $J^T$ representing the discrete divergence and gradient operators.
 
 It is commonly known that the semi-discrete incompressible Navier-Stokes equations can be classified as a differential-algebraic equation (DAE) of *differentiation index* $\nu=2$ so that a straight-forward time discretization, e.g. by the *implicit-Euler* method, will likely suffer from instabilities. To overcome these numerical difficulties, a large number of time stepping schemes, with *Chorin*'s projection or the *SIMPLE* scheme as notable examples, have been developed. 
