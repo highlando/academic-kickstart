@@ -21,7 +21,7 @@ The workshop is financed by the [*Chinesisch-Deutsches Zentrum f&uuml;r Wissensc
 ## Date & Venue
 October 14--18, 2019 at the Lehu Hotel at the [*Yan Chang* Campus](https://en.wikipedia.org/wiki/Shanghai_University#Yanchang_Campus) of the Shanghai University
 ## Program
-See [here]({{< ref "/events/19-ws-shanghai/program/index.md" >}})
+See [here]({{< ref "/events/19-ws-shanghai/program" >}})
 
 # Participants
 ## From the *German* side

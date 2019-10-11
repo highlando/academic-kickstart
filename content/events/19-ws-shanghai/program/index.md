@@ -50,7 +50,7 @@ Data-driven Model Reduction
 | Time | Speaker | Title |
 | ---- | ------------- | --------------------- | 
 | 09:00 -- 10:00 | Prof. Dr. **Athanasios Antoulas** Jacob University Bremen | Data driven model order reduction |
-| 10:00 -- 10:30 | Dr. **Victor Gosea** MPI Magdeburg | Modeling and reduction of systems with structured nonlinearities from measured data |
+| 15:00 -- 15:30 | Prof. Dr. **Xun-Lin Zhu** Zhengzhou University | Detection of abnormal data in TBM shield construction |
 | 10:30 | | Coffee |
 | 11:00 -- 11:30 | Associate Prof. Dr. **Zhihua Xiao** Yangtze University | Finite-time balanced truncation for linear and second-order systems via shifted Legendre polynomials |
 | 11:30 -- 12:00 | Assistant Prof. Dr. **Kai Luo** Beijing Institute of Technology | Model order reduction for flexible multibody systems |
@@ -59,15 +59,14 @@ Data-driven Model Reduction
 | 14:20 -- 14:40 | Prof. Dr. **Lijian Jiang** Tongji University | A model reduction for nonlinear multiscale dynamic systems |
 | 14:40 -- 15:00 | Dr. **Carmen Gräßle** MPI Magdeburg | POD model order reduction with offline adaptive strategies |
 | 15:00 -- 15:20 | Dr. **Zhenzhong Qi** Northwest University | Structure-preserving of MOR methods based on general orthogonal polynomials |
-| 15:20 -- 15:40 | JProf. Dr. **Jan Heiland** OvGU Magdeburg | Multidimensional Galerkin-POD for Optimal Control of PDEs with Uncertainties |
+| 15:20 -- 15:40 | Dr. **Yongjin Zhang** Henan Polytechnic University | Model order reduction for parametrized hyperbolic equations |
 | 15:40 | | Coffee |
 | 16:00 -- 16:20 | Prof. Dr. **Victor Sreeram** University of Western Australia | Finite-frequency power system reduction |
 | 16:20 -- 16:40 | Dr. **Pawan Goyal** MPI Magdeburg | Identification of Structured Dynamical Systems via Frequency Response Data |
+| 10:00 -- 10:30 | Dr. **Victor Gosea** MPI Magdeburg | Modeling and reduction of systems with structured nonlinearities from measured data |
 | 16:40 -- 17:00 | Assistant Prof. Dr. **Qifeng Liao** ShanghaiTech University | An adaptive reduced basis ANOVA method for high-dimensional Bayesian inverse problems |
 | 17:00 -- 17:20 | Associate Prof. Dr. **Xin Du** Shanghai University | Data driven realization and model order reduction for linear fractional order systems |
-| 17:20 -- 17:40 | Dr. **Yongjin Zhang** Henan Polytechnic University | Model order reduction for parametrized hyperbolic equations |
 | 18:00 | | Dinner |
-
 
 
 Thursday, October 17
@@ -81,16 +80,16 @@ Machine Learning and Control
 | 09:00 -- 10:00 | Prof. Dr. **Zhongsheng Hou** Qingdao University | PID and Its Puzzles------MFAC and Progress |
 | 10:00 -- 10:30 | Prof. Dr. **Peter Benner** MPI Magdeburg | Learning control systems from data - anything new here? |
 | 10:30 | | Coffee |
-| 11:00 -- 11:30 | Prof. Dr. **Li Jia** Shanghai University | The identification of block-oriented model |
+| 11:00 -- 11:30 | Prof. Dr. **Li Jia** Shanghai University | The optimization of batch processes |
 | 11:30 -- 12:00 | Dr. **Krithika Manohar** CalTech | Data-driven sensor-actuator placement and forecasting |
 | 12:00 | | Lunch |
 | 14:00 -- 15:00 | Prof. Dr. **Daniel Quevedo** University Paderborn | Deep Reinforcement Learning for Networked Estimation and Control |
-| 15:00 -- 15:30 | Prof. Dr. **Xun-Lin Zhu** Zhengzhou University | Detection of abnormal data in TBM shield construction |
+| 15:00 -- 15:30 | Prof. Dr. **Junmin Wang** Beijing Institute of Technology | Dynamic feedback control of infinite-dimensional systems |
 | 15:30 | | Coffee |
-| 16:00 -- 16:30 | Prof. Dr. **Junmin Wang** Beijing Institute of Technology | Dynamic feedback control of infinite-dimensional systems |
-| 16:30 -- 16:50 | Dr. **Zheng Wang** & Prof. Dr. **Guangda Hu** Shanghai University | Low-Order Controller Design using Model Order Reduction for Second-Order Systems |
-| 16:50 -- 17:10 | Dr. **Dan Zhang** Shanghai University | Dynamic and Kinetic Study for CVI densification of porous structures by the Lattice-Boltzmann Method |
-| 17:10 -- 17:30 | Dr. **Qiu Yue** ShanghaiTech | Randomized Low-rank Ensemble Kalman Filter for State Estimation of Nonlinear Networks |
+| 16:00 -- 16:20 | Dr. **Zheng Wang** & Prof. Dr. **Guangda Hu** Shanghai University | Low-Order Controller Design using Model Order Reduction for Second-Order Systems |
+| 16:20 -- 16:40 | JProf. Dr. **Jan Heiland** OvGU Magdeburg | Multidimensional Galerkin-POD for Optimal Control of PDEs with Uncertainties |
+| 16:40 -- 17:00 | Dr. **Dan Zhang** Shanghai University | Dynamic and Kinetic Study for CVI densification of porous structures by the Lattice-Boltzmann Method |
+| 17:00 -- 17:20 | Dr. **Qiu Yue** ShanghaiTech | Randomized Low-rank Ensemble Kalman Filter for State Estimation of Nonlinear Networks |
 
 
 Friday, October 18
