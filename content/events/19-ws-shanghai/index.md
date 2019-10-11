@@ -20,6 +20,8 @@ Peter Benner (MPI Magdeburg), Jan Heiland (MPI Magdeburg), Xin Du (U Shanghai)
 The workshop is financed by the [*Chinesisch-Deutsches Zentrum f&uuml;r Wissenschaftsf&ouml;rderung* (CDZ)](http://sinogermanscience.dfg.nsfc.cn/de/index.html) and the [Shanghai University](http://www.shu.edu.cn/)
 ## Date & Venue
 October 14--18, 2019 at the Lehu Hotel at the [*Yan Chang* Campus](https://en.wikipedia.org/wiki/Shanghai_University#Yanchang_Campus) of the Shanghai University
+## Program
+See [here]({{< ref "/events/19-ws-shanghai/program/index.md" >}})
 
 # Participants
 ## From the *German* side
