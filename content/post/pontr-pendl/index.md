@@ -203,9 +203,9 @@ $$
 \theta(t_0)=\pi, \quad p(t_0)=0.
 $$
 
-> In fact, since $\tilde x$ is constant and fixed by its end condition one obtains that 
+> In fact, since $\tilde x$ is constant and fixed by its end condition, one obtains that 
 
-> $\int_{t_0}^{t_1} \tilde x \;dt = (t_1 - t_0)\tilde x(t_1) = \theta(t_1)^2+p(t_1)^2$
+> $\int_{t_0}^{t_1} \tilde x \;dt = (t_1 - t_0)\tilde x(t_1) = \frac{1}{2}(\theta(t_1)^2+p(t_1)^2).$
 
 Once in *Lagrange* form, the problem can be put into the form used in Pontryagin's theorem:
 
