@@ -14,9 +14,9 @@ Getting together
 
 | Time | Occasion |
 |--- | -------------------------- |
-| 10:00 | Coffee & Registration |
-| 12:00 | Lunch (meet at the lobby) |
-| 14:00 | Tour to Gu Yi Garden (meet at the lobby) |
+| 10:00 | Coffee & Registration (in the lobby) |
+| 12:00 | Lunch (meet in the lobby) |
+| 14:00 | Tour to Jing An temple (meet in the lobby) |
 | 18:00 | Visit the Shanghai Tower (meet at the metro station Lu Jia Zui (Exit \#6) at 17:30) |
 | 20:00 | Dinner (downtown) |
 
