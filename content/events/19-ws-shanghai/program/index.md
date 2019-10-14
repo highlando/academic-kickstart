@@ -56,16 +56,16 @@ Data-driven Model Reduction
 | 11:30 -- 12:00 | Assistant Prof. Dr. **Kai Luo** Beijing Institute of Technology | Model order reduction for flexible multibody systems |
 | 12:00 | | Lunch |
 | 14:00 -- 14:20 | Dr. **Lanlin Yu & Prof. Junlin Xiong** Westlake University & University of Science and Technology of China | Structure preserving model reduction for linear network systems |
-| 14:20 -- 14:40 | Prof. Dr. **Lijian Jiang** Tongji University | A model reduction for nonlinear multiscale dynamic systems |
-| 14:40 -- 15:00 | Dr. **Carmen Gräßle** MPI Magdeburg | POD model order reduction with offline adaptive strategies |
-| 15:00 -- 15:20 | Dr. **Zhenzhong Qi** Northwest University | Structure-preserving of MOR methods based on general orthogonal polynomials |
-| 15:20 -- 15:40 | Dr. **Yongjin Zhang** Henan Polytechnic University | Model order reduction for parametrized hyperbolic equations |
-| 15:40 | | Coffee |
-| 16:00 -- 16:20 | Prof. Dr. **Victor Sreeram** University of Western Australia | Finite-frequency power system reduction |
-| 16:20 -- 16:40 | Dr. **Pawan Goyal** MPI Magdeburg | Identification of Structured Dynamical Systems via Frequency Response Data |
-| 10:00 -- 10:30 | Dr. **Victor Gosea** MPI Magdeburg | Modeling and reduction of systems with structured nonlinearities from measured data |
-| 16:40 -- 17:00 | Assistant Prof. Dr. **Qifeng Liao** ShanghaiTech University | An adaptive reduced basis ANOVA method for high-dimensional Bayesian inverse problems |
-| 17:00 -- 17:20 | Associate Prof. Dr. **Xin Du** Shanghai University | Data driven realization and model order reduction for linear fractional order systems |
+| 14:20 -- 14:50 | Prof. Dr. **Lijian Jiang** Tongji University | A model reduction for nonlinear multiscale dynamic systems |
+| 14:50 -- 15:10 | Dr. **Carmen Gräßle** MPI Magdeburg | POD model order reduction with offline adaptive strategies |
+| 15:10 -- 15:30 | Dr. **Zhenzhong Qi** Northwest University | Structure-preserving of MOR methods based on general orthogonal polynomials |
+| 15:30 -- 15:50 | Dr. **Yongjin Zhang** Henan Polytechnic University | Model order reduction for parametrized hyperbolic equations |
+| 15:50 | | Coffee |
+| 16:10 -- 16:40 | Prof. Dr. **Victor Sreeram** University of Western Australia | Finite-frequency power system reduction |
+| 16:40 -- 17:00 | Dr. **Pawan Goyal** MPI Magdeburg | Identification of Structured Dynamical Systems via Frequency Response Data |
+| 17:00 -- 17:20 | Dr. **Victor Gosea** MPI Magdeburg | Modeling and reduction of systems with structured nonlinearities from measured data |
+| 17:20 -- 17:40 | Assistant Prof. Dr. **Qifeng Liao** ShanghaiTech University | An adaptive reduced basis ANOVA method for high-dimensional Bayesian inverse problems |
+| 17:40 -- 18:00 | Associate Prof. Dr. **Xin Du** Shanghai University | Data driven realization and model order reduction for linear fractional order systems |
 | 18:00 | | Dinner |
 
 
