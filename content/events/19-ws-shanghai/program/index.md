@@ -18,7 +18,7 @@ Getting together
 | 12:00 | Lunch (meet in the lobby) |
 | 14:00 | Tour to Jing An temple (meet in the lobby) |
 | 18:00 | Visit the Shanghai Tower (meet at the metro station Lu Jia Zui (Exit \#6) at 17:30) |
-| 20:00 | Dinner (downtown) |
+| 20:00 | Dinner at Jade36 |
 
 
 Tuesday, October 15
@@ -29,7 +29,7 @@ Machine Learning
 
 | Time | Speaker | Title |
 | ---- | ------------- | --------------------- | 
-| 09:00 -- 09:30 | CDZ, SHU, MPI Directors | Opening ceremony |
+| 09:00 -- 09:30 | Prof. Dr. Xiaotian Zhang (Associate Vice-President of SHU), Minrui Fei (Dean of the School of Mechatronic, Engineering and Automation at SHU), Peter Benner (Director of MPI Magdeburg) | Welcome addresses |
 | 09:30 | | Group picture & coffee break |
 | 10:00 -- 11:00 | Prof. Dr. **Bernd Noack** TU Berlin | Turbulence control: Better, faster and easier with machine learning |
 | 11:00 -- 11:30 | Dr. **Mario Eduardo Villanueva** ShanghaiTech | Moment Based Learning |
