@@ -29,7 +29,7 @@ Machine Learning
 
 | Time | Speaker | Title |
 | ---- | ------------- | --------------------- | 
-| 09:00 -- 09:30 | Prof. Dr. Xiaotian Zhang (Associate Vice-President of SHU), Minrui Fei (Dean of the School of Mechatronic, Engineering and Automation at SHU), Peter Benner (Director of MPI Magdeburg) | Welcome addresses |
+| 09:00 -- 09:30 | Prof. Dr. **Xiaotian Zhang** (Associate Vice-President of SHU), **Minrui Fei** (Dean of the School of Mechatronic, Engineering and Automation at SHU), **Peter Benner** (Director of MPI Magdeburg) | Welcome addresses |
 | 09:30 | | Group picture & coffee break |
 | 10:00 -- 11:00 | Prof. Dr. **Bernd Noack** TU Berlin | Turbulence control: Better, faster and easier with machine learning |
 | 11:00 -- 11:30 | Dr. **Mario Eduardo Villanueva** ShanghaiTech | Moment Based Learning |
