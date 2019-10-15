@@ -50,7 +50,7 @@ Data-driven Model Reduction
 | Time | Speaker | Title |
 | ---- | ------------- | --------------------- | 
 | 09:00 -- 10:00 | Prof. Dr. **Athanasios Antoulas** Jacob University Bremen | Data driven model order reduction |
-| 15:00 -- 15:30 | Prof. Dr. **Xun-Lin Zhu** Zhengzhou University | Detection of abnormal data in TBM shield construction |
+| 10:00 -- 10:30 | Prof. Dr. **Xun-Lin Zhu** Zhengzhou University | Detection of abnormal data in TBM shield construction |
 | 10:30 | | Coffee |
 | 11:00 -- 11:30 | Associate Prof. Dr. **Zhihua Xiao** Yangtze University | Finite-time balanced truncation for linear and second-order systems via shifted Legendre polynomials |
 | 11:30 -- 12:00 | Assistant Prof. Dr. **Kai Luo** Beijing Institute of Technology | Model order reduction for flexible multibody systems |
