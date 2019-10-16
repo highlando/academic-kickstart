@@ -78,7 +78,7 @@ Machine Learning and Control
 | Time | Speaker | Title |
 | ---- | ------------- | --------------------- | 
 | 09:00 -- 10:00 | Prof. Dr. **Zhongsheng Hou** Qingdao University | PID and Its Puzzles------MFAC and Progress |
-| 10:00 -- 10:30 | Prof. Dr. **Peter Benner** MPI Magdeburg | Learning control systems from data - anything new here? |
+| 10:00 -- 10:30 | Prof. **Karl Worthmann** TU Ilmenau | Surrogate models for microgrids for bilevel optimization |
 | 10:30 | | Coffee |
 | 11:00 -- 11:30 | Prof. Dr. **Li Jia** Shanghai University | The optimization of batch processes |
 | 11:30 -- 12:00 | Dr. **Krithika Manohar** CalTech | Data-driven sensor-actuator placement and forecasting |
@@ -100,8 +100,7 @@ Machine Learning and Optimization
 
 | Time | Speaker | Title |
 | ---- | ------------- | --------------------- | 
-| 08:30 -- 09:30 | Prof. Dr. **Shiliang Sun** East China Normal University | Multi-view Machine Learning: Retrospect and Prospect. |
-| 9:30 -- 10:00 | Prof. **Karl Worthmann** TU Ilmenau | Surrogate models for microgrids for bilevel optimization |
+| 09:00 -- 10:00 | Prof. Dr. **Shiliang Sun** East China Normal University | Multi-view Machine Learning: Retrospect and Prospect |
 | 10:00 | | Coffee |
 | 10:30 -- 11:30 | Prof. Dr. **Sanaz Mostaghim** OvGU Magdeburg | Multi-Objective Evolutionary Algorithms for Large-Scale Complex Optimization Problems |
 | 11:30 -- 12:00 | Ass. Prof. Dr. **Boris Houska** ShanghaiTech | Distributed Optimization and Control with ALADIN |
