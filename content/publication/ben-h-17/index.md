@@ -8,5 +8,5 @@ featured: false
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S2405896317333931"
 doi: "https://doi.org/10.1016/j.ifacol.2017.08.2476"
 tags: ["robust control", "descriptor systems", "infinite-dimensional systems", "spatial discretization", "open access"]
-publication: "*IFAC-PapersOnLine 50(1): 20th IFAC World Congress"
+publication: "*IFAC-PapersOnLine 50(1)*: 20th IFAC World Congress"
 ---
