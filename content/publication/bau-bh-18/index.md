@@ -9,6 +9,6 @@ publication: "*SIAM Journal. Sci. Comput.*"
 doi: "10.1137/17M1135281"
 links:
 - name: Preprint
-  url: https://arxiv.org/abs/11611.04050
+  url: https://arxiv.org/abs/1611.04050
 ---
 
