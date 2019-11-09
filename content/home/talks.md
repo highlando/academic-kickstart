@@ -69,6 +69,7 @@ subtitle = "Workshops&Visits"
 
 | Date | Occasion | Location |
 | -----: | ------ | --- |
+| Nov 21 -- Nov 22 | Talk on our [fluid-structure interaction benchmark]({{< ref "publication/wah-rlhm-19/index.md" >}}) at the [GAMM CSE Workshop](https://www.uni-ulm.de/mawi/mawi-numerik/forschung/gamm-cse-workshop-2019/) | G&uuml;nzburg, Germany |
 | Nov 04 -- Nov 07 | Invited conference talk at [LIA COPDESC and Lions Magenes Days](https://liacopdesclm.sciencesconf.org/) | Paris, France |
 | Oct 14 -- Oct 18 | Workshop [Machine Learning in Model Reduction and Control](https://www.mpi-magdeburg.mpg.de/shanghaiws19) | Shanghai, China |
 | Sep 30 -- Oct 4 | MS [Low-rank modelling in uncertainty quantification]({{< ref "events/19-ms-enumath" >}}) and talk on [time stepping for NSE]({{< ref "talk/19-enumath-nse/index.md" >}}) at the [Enumath 2019](http://www.enumath2019.eu/) | Egmond an Zee, The Netherlands |
