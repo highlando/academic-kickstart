@@ -11,7 +11,7 @@ abstract: This talk presents a setup that we have designed to particularly inves
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-11-21T16:00:00+01:00
-# date_end: 2019-11-21T18:22:27+01:00
+date_end: 2019-11-21T16:30:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -59,6 +59,11 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+links:
+- icon_pack: fab
+  icon: github
+  name: Source
+  url: https://github.com/highlando/19-talk-fsi-benchmark
 ---
 
 The interaction between a fluid flow and rigid bodies appears in many
