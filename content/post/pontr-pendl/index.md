@@ -21,7 +21,6 @@ image:
   preview_only: false
 
 math: true
-# markup: mmark
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
