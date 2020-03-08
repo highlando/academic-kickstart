@@ -87,7 +87,7 @@ phone = "+49 (0)391 6110 476"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Sandtorstr. 1", city = "Magdeburg", region = "", postcode = "39106", country = "Germany", country_code = "FRG"}
 # address = "Office S2.13<br> Max Planck Institute, Sandtorstr. 1, 39106 Magdeburg"
 
 # Geographic coordinates
@@ -95,7 +95,7 @@ address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Office S2.13"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
