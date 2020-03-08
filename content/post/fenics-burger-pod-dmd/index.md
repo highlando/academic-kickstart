@@ -34,7 +34,7 @@ projects: []
 
 # Burgers equation
 
-For a given viscosity parameter and for time $t>0$, we consider the 2D Burgers equation on the unit square
+For a given viscosity parameter $\nu$ and for time $t>0$, we consider the 2D Burgers equation on the unit square
 
 $$
 \frac {\partial}{\partial t}u + (u\nabla)u - \nu \Delta u = 0
@@ -82,7 +82,7 @@ nu = 1e-4  # the viscosity
 N = 80 
 poddim = 25
 
-t0, tE, Nts = 0., .85, 101  # the time grid for the snapshots
+t0, tE, Nts = 0., 1., 101  # the time grid for the snapshots
 timegrid = np.linspace(t0, tE, Nts)
 ```
 
@@ -211,7 +211,7 @@ fullsol = burgsol.y
 Here is the result. Note the sharp front that develops towards the end of the time
 integration. 
 
-![Solution snapshots of the full FEM model](fullsol.png)
+{{< figure src="fullsol.png" title="Solution snapshots of the full FEM model" lightbox="true" >}}
 
 # 2. POD Reduced Model
 
@@ -225,24 +225,24 @@ to define the reduced model.
 
 
 ```python
-# L = np.linalg.cholesky(mmat.toarray())
 snapshotmat = mfac.Ft.dot(burgsol.y)
 podmodes, svals, _ = spla.svd(snapshotmat, full_matrices=False)
-podvecs = mfac.solve_Ft(podmodes[:, :poddim])
+selected_podmodes = podmodes[:, :poddim]
+podvecs = mfac.solve_Ft(selected_podmodes)
 ```
 In this implementation we use a sparse factor of the mass matrix instead of the
 square root.  The singular values (in particular those that correspond to the
 discarded directions) give an indication of how good the approximation is.
 
-![The singular values of the snapshot matrix](svs.png)
+{{< figure src="svs.png" title="The singular values of the snapshot matrix" lightbox="true" >}}
 
 Here, the decay is comparatively slow, so that a one should not expect a good
 low dimensional approximation by POD. 
 
-For the simulation, the state is parametrized by $u_h (t) \approx V 
-\tilde u_h(t)$ where $V$ is the matrix of the POD modes, which gives a system in
-$\tilde u _ h$ with $25$ degrees of freedom (as opposed to the 51842 of the full
-order model). 
+For the simulation, the state is parametrized by $u_h (t) \approx V \tilde
+u_h(t)$ where $V$ is the matrix of the POD modes (in the code $V$ denoted by
+`podvecs`), which gives a system in $\tilde u _ h$ with 25 degrees of freedom
+(as opposed to the 51842 of the full order model). 
 
 ```python
 redamat = podvecs.T.dot(amat.dot(podvecs))  # the projected stiffness
@@ -276,14 +276,10 @@ podredsol = redburgsol.y
 ```
 
 In the solution we see that the reduced order model gives a decent approximation
-in the smooth regime in the beginning 
+in the smooth regime in the beginning and has its troubles approximating the front as can be seen in the error (log) plot.
 
-![Snapshots of the solution of the reduced system](podsol.png)
-
-and has its troubles approximating the front as can be seen in the error (log) plot.
-
-![Snapshots of the log of the error between the full and the POD
-solution](podfullerrlog.png)
+{{< figure src="podsol.png" title="Snapshots of the solution of the reduced system" lightbox="true" >}}
+{{< figure src="podfullerrlog.png" title="Snapshots of the log of the error between the full and the POD solution" lightbox="true" >}}
 
 
 # 3. DMD Reduced Model
@@ -299,9 +295,12 @@ Xmat = fburgsol[:, :-1]
 Xdsh = fburgsol[:, 1:]
 ux, sx, vxh = spla.svd(Xmat, full_matrices=False)
 uxr, sxr, vxhr = ux[:, :poddim], sx[:poddim], vxh[:poddim, :]
+
+# compute the dmd matrix in factored form: `dmda = dmdaone * dmdatwo`
 dmdaone = Xdsh.dot(vxhr.T)
 dmdatwo = np.linalg.solve(np.diag(sxr), uxr.T)
 
+# simulation of the dmd reduced model
 dmdxo = inivvec
 dmdsol = [dmdxo]
 for k in np.arange(Nts):
@@ -311,11 +310,19 @@ dmdsol = np.array(dmdsol).T
 ```
 
 As can be seen from the results and the error plots, DMD does a good job in the
-initial phase but completely fails in the region with the sharp front.
+initial phase but fails in the region with the sharp front.
 
-![Snapshots of the DMD solution](dmdsol.png)
-![Error (log) plot with respect to the full FEM solution](dmdfullerrlog.png)
+{{< figure src="dmdsol.png" title="Snapshots of the DMD solution" lightbox="true" >}}
+{{< figure src="dmdfullerrlog.png" title="Error (log) plot with respect to the full FEM solution" lightbox="true" >}}
 
+# 4. Remarks
+
+It is commonly accepted that POD does not work well for transport dominated
+problems -- like the current case with the low viscosity parameter `nu=1e-4`.
+
+So, I think that the results for POD are quite good. One can use a larger `nu`
+to get better POD approximations. In my tests, increasing the number of basis
+functions did not help much.
 
 [^1]: See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland: *Space-Time Galerkin POD
   with Application in Optimal Control of Semi-linear Parabolic Partial

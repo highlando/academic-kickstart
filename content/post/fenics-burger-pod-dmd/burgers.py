@@ -14,7 +14,7 @@ nu = 1e-4  # the viscosity
 N = 80
 poddim = 25
 
-t0, tE, Nts = 0., .85, 101  # the time grid for the snapshots
+t0, tE, Nts = 0., 1., 101  # the time grid for the snapshots
 timegrid = np.linspace(t0, tE, Nts)
 
 plt.style.use('bmh')
