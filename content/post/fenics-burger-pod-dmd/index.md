@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "FEniCS Burgers POD DMD"
-subtitle: "in a nutshell"
+subtitle: "in one python file"
 summary: "A short python implementation of POD and DMD for a 2D Burgers equation
 using FEniCS and Scipy."
 authors: ["Jan Heiland"]
@@ -57,7 +57,7 @@ and its numerical approximation using
  3. a DMD reduced order model.
 
 {{% alert note %}}
-Check [`burgers.py`](burgers.py) for the presented code in one file.
+Check [`burgers.py`](burgers.py) for the presented code (and more) in one file.
 {{% /alert  %}}
 
 # 0. The Setup
