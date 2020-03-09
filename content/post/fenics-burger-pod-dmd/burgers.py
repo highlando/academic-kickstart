@@ -193,7 +193,8 @@ dmdsol = np.array(dmdsol).T
 for k, cidx in enumerate(pltgrid):
     csol = dmdsol[:, cidx]
     fsol = fullsol[:, cidx]
-    plotabs(csol, fignum=8, vmax=vmax, spcls=nplts, spidx=k+1)
+    xlab = '$t={0}$'.format(timegrid[cidx])
+    plotabs(csol, fignum=8, vmax=vmax, spcls=nplts, spidx=k+1, xlabel=xlab)
 
 tlist, errlist = [], []
 for k, cidx in enumerate(pltgrid):

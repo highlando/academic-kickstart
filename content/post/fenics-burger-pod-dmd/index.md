@@ -215,6 +215,22 @@ integration.
 
 # 2. POD Reduced Model
 
+If one has snapshots of the solution $v _ h$ at some time instances $t _ i$ one
+may well think that the span of the matrix of snapshots
+
+$$
+X = 
+\begin{bmatrix}
+v _ h(t_0) & v _ h(t_2) & \dotsm & v _ h(t_k)
+\end{bmatrix}
+$$
+
+is a good candidate for a space in which the solution evolves in. One may even
+go further and look for a low-dimensional basis of this space. The span of a
+matrix is best approximated by its dominant singular vectors. And this is the idea of
+*Proper Orthogonal Decomposition* (POD) -- use the leading singular vectors as a
+basis for the solution space.
+
 We use the `Nts=101` snapshots of the FEM solutions to setup the matrix of
 measurements $X$ and to compute the POD modes as $M^{-1/2}v _ k$, where $v _ k$
 is the $k$-th leading left singular vector of $M^{1/2}X$. This procedure gives a
@@ -284,9 +300,43 @@ in the smooth regime in the beginning and has its troubles approximating the fro
 
 # 3. DMD Reduced Model
 
-For the reduced DMD model we use the same snapshot matrix as for the POD and the
-SVD to compute the needed pseudo inverse since this naturally allows for a rank
-reduction and a factored representation of the DMD matrix.
+POD is partially data driven -- it uses data to create a basis but still
+uses (a projection of) the model. If only snapshots but no model is given, one
+may use the method of *Dynamic Mode Decomposition*[^2] (DMD) that tries to identify
+a matrix $A$ that evolves the state like
+
+$$
+A v _ h (t_i) = v _ h (t _ {i+1})
+$$
+
+In practice, one uses a set of snapshots and the two measurement matrices
+
+$$
+X = 
+\begin{bmatrix}
+v _ h(t_0) & v _ h(t_2) & \dotsm & v _ h(t _ {k-1})
+\end{bmatrix}
+$$
+and
+$$
+X' =
+\begin{bmatrix}
+v _ h(t_1) & v _ h(t_2) & \dotsm & v _ h(t _ {k})
+\end{bmatrix}.
+$$
+
+Note that $X'$ is basically $X$ shifted by one time step. 
+
+Then the DMD matrix can be found by solving the linear regression problem
+
+$$
+\min _ P \| X' - PX \| _ F.
+$$
+
+For the reduced DMD model we use the same snapshot matrix as for the POD. The
+regression problem is solved via SVD to compute the needed pseudo inverse since
+this naturally allows for a rank reduction and a factored representation of the
+DMD matrix.
 
 ```python
 # ### dmd using truncated svd inverse
@@ -299,7 +349,13 @@ uxr, sxr, vxhr = ux[:, :poddim], sx[:poddim], vxh[:poddim, :]
 # compute the dmd matrix in factored form: `dmda = dmdaone * dmdatwo`
 dmdaone = Xdsh.dot(vxhr.T)
 dmdatwo = np.linalg.solve(np.diag(sxr), uxr.T)
+```
 
+Once the DMD matrix $A$ is determined, the simulation of the DMD reduced model
+is only a repeated multiplication by $A$.
+
+
+```python
 # simulation of the dmd reduced model
 dmdxo = inivvec
 dmdsol = [dmdxo]
@@ -320,10 +376,18 @@ initial phase but fails in the region with the sharp front.
 It is commonly accepted that POD does not work well for transport dominated
 problems -- like the current case with the low viscosity parameter `nu=1e-4`.
 
-So, I think that the results for POD are quite good. One can use a larger `nu`
-to get better POD approximations. In my tests, increasing the number of basis
-functions did not help much.
+So, I think that the results for POD are quite good noting that the reduced
+order model has 25 degrees of freedom whereas the full model has 51842.
+Nonetheless, in my tests, increasing the number of basis functions did not help
+much. One can use a larger `nu` to get better POD approximations. 
 
-[^1]: See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland: *Space-Time Galerkin POD
-  with Application in Optimal Control of Semi-linear Parabolic Partial
-  Differential Equations* (2018).
+The DMD approach shows a similar performance. If compared to POD, the
+qualitative approximation looks less good but the numbers are slightly better.
+All in all, the DMD approximation seems less reliable as for some parameter
+choices, the performance severely deteriorated.
+
+[^1]: See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): *Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
+  Differential Equations.* [arXiv:1611.04050](https://arxiv.org/abs/1611.04050)
+
+[^2]: See, e.g., Tu, Rowley, Luchtenburg, Brunton, Kutz (2013): *On Dynamic Mode
+  Decomposition: Theory and Applications* [arXiv:1312.0041](https://arxiv.org/abs/1312.0041)
