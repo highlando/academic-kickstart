@@ -378,13 +378,13 @@ problems -- like the current case with the low viscosity parameter `nu=1e-4`.
 
 So, I think that the results for POD are quite good noting that the reduced
 order model has 25 degrees of freedom whereas the full model has 51842.
-Nonetheless, in my tests, increasing the number of basis functions did not help
-much. One can use a larger `nu` to get better POD approximations. 
+In my tests, increasing the number of basis functions as well as considering a
+larger `nu` led to better POD approximations. 
 
 The DMD approach shows a similar performance. If compared to POD, the
 qualitative approximation looks less good but the numbers are slightly better.
 All in all, the DMD approximation seems less reliable as for some parameter
-choices, the performance severely deteriorated.
+choices, the performance rather deteriorated than improved.
 
 [^1]: See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): *Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
   Differential Equations.* [arXiv:1611.04050](https://arxiv.org/abs/1611.04050)
