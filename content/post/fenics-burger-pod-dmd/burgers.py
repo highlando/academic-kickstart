@@ -9,12 +9,15 @@ from spacetime_galerkin_pod.ldfnp_ext_cholmod import SparseFactorMassmat
 
 dolfin.parameters['linear_algebra_backend'] = 'Eigen'
 
-nu = 1e-4  # the viscosity
+testistrain = True
+testistrain = False
+
+nu = 1e-2  # the viscosity
 
 N = 80
-poddim = 25
+poddim = 30
 
-t0, tE, Nts = 0., 1., 101  # the time grid for the snapshots
+t0, tE, Nts = 0., .8, 101  # the time grid for the snapshots
 timegrid = np.linspace(t0, tE, Nts)
 
 plt.style.use('bmh')
@@ -96,12 +99,28 @@ def plotabs(uvec, fignum=None, vmax=None, xlabel='',
 
 
 # define the initial value
-inivstrg = '1.0*exp(-3.*(x[0]*x[0]+x[1]*x[1]))'
+inivstrg = '1.0*exp(-2.*(2*x[0]*x[0]+x[1]*x[1]))'
 inivexpr = dolfin.Expression((inivstrg, inivstrg), degree=2)
 inivfunc = dolfin.interpolate(inivexpr, V)
 inivvec = inivfunc.vector().get_local()
 
+
+tstinivstrg = '1.0*exp(-2.*(x[0]*x[0]+2*x[1]*x[1]))'
+tstinivexpr = dolfin.Expression((tstinivstrg, tstinivstrg), degree=2)
+tstinivfunc = dolfin.interpolate(tstinivexpr, V)
+tstinivvec = tstinivfunc.vector().get_local()
+
+if testistrain:
+    tstinivvec = inivvec
+
 burgsol = solve_ivp(brhs, (t0, tE), inivvec, t_eval=timegrid, method='RK23')
+if testistrain:
+    tstfullsol = burgsol.y
+else:
+    tstburgsol = solve_ivp(brhs, (t0, tE), tstinivvec,
+                           t_eval=timegrid, method='RK23')
+    tstfullsol = tstburgsol.y
+
 # burgsol = solve_ivp(brhs, (t0, tE), inivvec, t_eval=timegrid, method='BDF')
 # burgsol = solve_ivp(brhs, (t0, tE), inivvec, t_eval=timegrid, method='Radau')
 # burgsol = solve_ivp(brhs, (t0, tE), inivvec, t_eval=timegrid, method='LSODA')
@@ -115,8 +134,13 @@ for k, cidx in enumerate(pltgrid):
     csol = fullsol[:, cidx]
     xlab = '$t={0}$'.format(timegrid[cidx])
     plotabs(csol, fignum=5, vmax=vmax, spcls=nplts, spidx=k+1, xlabel=xlab)
+if not testistrain:
+    for k, cidx in enumerate(pltgrid):
+        csol = tstfullsol[:, cidx]
+        xlab = '$t={0}$'.format(timegrid[cidx])
+        plotabs(csol, fignum=51, vmax=vmax, spcls=nplts, spidx=k+1,
+                xlabel=xlab)
 
-# L = np.linalg.cholesky(mmat.toarray())
 snapshotmat = mfac.Ft.dot(burgsol.y)
 podmodes, svals, _ = spla.svd(snapshotmat, full_matrices=False)
 plt.figure(303)
@@ -125,8 +149,8 @@ plt.semilogy(svals, 'o')
 podvecs = mfac.solve_Ft(podmodes[:, :poddim])
 
 print(np.allclose(np.eye(poddim), podvecs.T.dot(mmat.dot(podvecs))))
-prjinivvec = podvecs.T.dot(mmat.dot(inivvec))
-iniprjerr = mnorm(inivvec - podvecs.dot(prjinivvec))
+prjinivvec = podvecs.T.dot(mmat.dot(tstinivvec))
+iniprjerr = mnorm(tstinivvec - podvecs.dot(prjinivvec))
 print('projection error for inival: {0:.3e}'.format(iniprjerr))
 
 redamat = podvecs.T.dot(amat.dot(podvecs))
@@ -146,12 +170,11 @@ for k, cidx in enumerate(pltgrid):
     csol = podvecs.dot(podredsol[:, cidx])
     xlab = '$t={0}$'.format(timegrid[cidx])
     plotabs(csol, fignum=6, vmax=vmax, spcls=nplts, spidx=k+1, xlabel=xlab)
-    fsol = fullsol[:, cidx]
 
 tlist, errlist = [], []
 for k, cidx in enumerate(pltgrid):
     plt.figure(7)
-    fsol = fullsol[:, cidx]
+    fsol = tstfullsol[:, cidx]
     csol = podvecs.dot(podredsol[:, cidx])
     diff = csol-fsol
     sqrtlogdiff = np.sqrt(np.abs(.5*np.log((csol-fsol)**2)))
@@ -183,7 +206,7 @@ dmdaone = Xdsh.dot(vxhr.T)
 dmdatwo = np.linalg.solve(np.diag(sxr), uxr.T)
 
 
-dmdxo = inivvec
+dmdxo = tstinivvec
 dmdsol = [dmdxo]
 for k in np.arange(Nts):
     dmdsol.append(dmdaone.dot(dmdatwo.dot(dmdsol[-1])))
@@ -192,7 +215,6 @@ dmdsol = np.array(dmdsol).T
 
 for k, cidx in enumerate(pltgrid):
     csol = dmdsol[:, cidx]
-    fsol = fullsol[:, cidx]
     xlab = '$t={0}$'.format(timegrid[cidx])
     plotabs(csol, fignum=8, vmax=vmax, spcls=nplts, spidx=k+1, xlabel=xlab)
 
@@ -201,7 +223,7 @@ for k, cidx in enumerate(pltgrid):
     if k == 0:  # at t=0 the error is 0
         cidx = cidx+1
     plt.figure(9)
-    fsol = fullsol[:, cidx]
+    fsol = tstfullsol[:, cidx]
     csol = dmdsol[:, cidx]
     diff = csol-fsol
     sqrtlogdiff = np.sqrt(np.abs(.5*np.log((csol-fsol)**2)))

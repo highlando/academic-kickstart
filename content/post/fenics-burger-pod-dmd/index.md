@@ -47,7 +47,7 @@ u\bigr| _ {t=0}(x _ 1, x _ 2) =
 \begin{bmatrix}
  1 \\\\ 1 
 \end{bmatrix}
-e ^ {-3(x _ 1^2 + x _ 2^2)}
+e ^ {-(4x _ 1^2 + 2x _ 2^2)}
 $$
 
 and its numerical approximation using 
@@ -80,9 +80,9 @@ dolfin.parameters['linear_algebra_backend'] = 'Eigen'
 nu = 1e-4  # the viscosity
 
 N = 80 
-poddim = 25
+poddim = 30
 
-t0, tE, Nts = 0., 1., 101  # the time grid for the snapshots
+t0, tE, Nts = 0., .8, 101  # the time grid for the snapshots
 timegrid = np.linspace(t0, tE, Nts)
 ```
 
@@ -221,7 +221,7 @@ may well think that the span of the matrix of snapshots
 $$
 X = 
 \begin{bmatrix}
-v _ h(t_0) & v _ h(t_2) & \dotsm & v _ h(t_k)
+v _ h(t_0) & v _ h(t_1) & \dotsm & v _ h(t_k)
 \end{bmatrix}
 $$
 
@@ -236,7 +236,7 @@ measurements $X$ and to compute the POD modes as $M^{-1/2}v _ k$, where $v _ k$
 is the $k$-th leading left singular vector of $M^{1/2}X$. This procedure gives a
 low-dimensional orthogonal (in the discrete $L^2$ inner product) basis that
 optimally parametrizes the subspace of $L^2$ that is spanned by the solution
-snapshots[^1]. In this example, we use the `poddim=25` leading singular vectors
+snapshots[^1]. In this example, we use the `poddim=30` leading singular vectors
 to define the reduced model. 
 
 
@@ -257,7 +257,7 @@ low dimensional approximation by POD.
 
 For the simulation, the state is parametrized by $u_h (t) \approx V \tilde
 u_h(t)$ where $V$ is the matrix of the POD modes (in the code $V$ denoted by
-`podvecs`), which gives a system in $\tilde u _ h$ with 25 degrees of freedom
+`podvecs`), which gives a system in $\tilde u _ h$ with 30 degrees of freedom
 (as opposed to the 51842 of the full order model). 
 
 ```python
@@ -277,7 +277,7 @@ through
 3. projecting down the result.
 
 This means that our model is not completely independent of the full dimension.
-For this problem there are *hyperreduction* techiques like DEIM. 
+For this problem there are *hyperreduction* techniques like DEIM. 
 
 Thus, the *right hand side* is readily defined the more that the projected mass
 matrix is the identity. Why?
@@ -292,7 +292,8 @@ podredsol = redburgsol.y
 ```
 
 In the solution we see that the reduced order model gives a decent approximation
-in the smooth regime in the beginning and has its troubles approximating the front as can be seen in the error (log) plot.
+in the smooth regime in the beginning and even well approaches the front as can
+be seen in the error (log) plot.
 
 {{< figure src="podsol.png" title="Snapshots of the solution of the reduced system" lightbox="true" >}}
 {{< figure src="podfullerrlog.png" title="Snapshots of the log of the error between the full and the POD solution" lightbox="true" >}}
@@ -314,7 +315,7 @@ In practice, one uses a set of snapshots and the two measurement matrices
 $$
 X = 
 \begin{bmatrix}
-v _ h(t_0) & v _ h(t_2) & \dotsm & v _ h(t _ {k-1})
+v _ h(t_0) & v _ h(t_1) & \dotsm & v _ h(t _ {k-1})
 \end{bmatrix}
 $$
 and
@@ -371,20 +372,56 @@ initial phase but fails in the region with the sharp front.
 {{< figure src="dmdsol.png" title="Snapshots of the DMD solution" lightbox="true" >}}
 {{< figure src="dmdfullerrlog.png" title="Error (log) plot with respect to the full FEM solution" lightbox="true" >}}
 
-# 4. Remarks
+# 4. Testing the Models for Different Initial Value
+
+In what was presented above, the reduced models were used to reproduce the
+states that they were trained on. We now check the given reduced order models
+but on an alternative initial value, namely
+
+$$
+u\bigr| _ {t=0}(x _ 1, x _ 2) = 
+\begin{bmatrix}
+ 1 \\\\ 1 
+\end{bmatrix}
+e ^ {-(2x _ 1^2 + 4x _ 2^2)}
+$$
+
+see the following two plots of the full order model for both initial values.
+
+{{< figure src="fullsol.png" title="Solution snapshots of the full FEM model" lightbox="true" >}}
+{{< figure src="b-fullsol.png" title="Solution snapshots of the full FEM model with the alternative initial value" lightbox="true" >}}
+
+Then we use the reduced order models to compute predictions for the trajectory
+starting in this alternative initial value. 
+
+{{< figure src="b-podsol.png" title="Snapshots of the solution of the POD reduced system starting in the alternative initial value." lightbox="true" >}}
+{{< figure src="b-dmdsol.png" title="Snapshots of the DMD solution starting in the alternative initial value." lightbox="true" >}}
+
+Both methods completely fail to produce the other trajectory. For the POD
+reduced model already the starting point is extremely bad approximated.
+Interestingly, although the DMD solution starts in the *right* point, it seems
+to exactly reproduce the solution that it was trained on up to some additional
+oscillations.
+
+
+# 5. Remarks
 
 It is commonly accepted that POD does not work well for transport dominated
 problems -- like the current case with the low viscosity parameter `nu=1e-4`.
 
 So, I think that the results for POD are quite good noting that the reduced
-order model has 25 degrees of freedom whereas the full model has 51842.
+order model has 30 degrees of freedom whereas the full model has 51842.
 In my tests, increasing the number of basis functions as well as considering a
 larger `nu` led to better POD approximations. 
 
 The DMD approach shows a similar performance. If compared to POD, the
 qualitative approximation looks less good but the numbers are slightly better.
-All in all, the DMD approximation seems less reliable as for some parameter
+All in all, the DMD approximation seems less reliable as for other parameter
 choices, the performance rather deteriorated than improved.
+
+How challenging the problem of 2D Burgers with a low viscosity is, can be seen
+from the failure of both methods to produce useable approximations to
+trajectories that start in different initial values.
 
 [^1]: See, e.g., Lemma 2.5 of Baumann, Benner, and Heiland (2018): *Space-Time Galerkin POD with Application in Optimal Control of Semi-linear Parabolic Partial
   Differential Equations.* [arXiv:1611.04050](https://arxiv.org/abs/1611.04050)
