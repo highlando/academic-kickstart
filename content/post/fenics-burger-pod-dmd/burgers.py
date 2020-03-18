@@ -12,7 +12,7 @@ dolfin.parameters['linear_algebra_backend'] = 'Eigen'
 testistrain = True
 testistrain = False
 
-nu = 1e-2  # the viscosity
+nu = 1e-4  # the viscosity
 
 N = 80
 poddim = 30
