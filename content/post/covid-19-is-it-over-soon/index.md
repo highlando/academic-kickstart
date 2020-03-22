@@ -3,7 +3,7 @@
 
 title: "Covid-19 Is it Over Soon"
 subtitle: ""
-summary: "How the daily changes in the casualties may indicate whether the virus is on the decline"
+summary: "How the daily changes in the casualties may indicate whether the virus is on the decline."
 authors: [Jan Heiland]
 tags: []
 categories: []
@@ -53,8 +53,8 @@ an exponential growth looks like a straight line and the slope of the line
 indicates how fast the exponential growth is.
 
 To see whether the exponential growth changes its dynamics, one may check
-whether the line in the logarithmic plot chages its slope (*hopefully it gets
-less steep*). Thats why we plot the slope of the logarithmic line that connects
+whether the line in the logarithmic plot changes its slope (*hopefully it gets
+less steep*). That's why we plot the slope of the logarithmic line that connects
 the numbers of two consecutive days. Since the data is wiggly, we also plot
 averages of the slopes over 2 or 5 days to better spot the trends.
 
@@ -70,7 +70,7 @@ respect to the basis `2`.
 ## Illustrative Examples
 
 To make sense of the numbers, we start with some example scenarios. In the plot
-below, we have plotted the values for some *fictuous* growth scenarios.
+below, we have plotted the values for some *fictitious* growth scenarios.
 
  * an exponential growth -- every day `d` the number of additional casualties is
    `1.2**d` (*speak: `1.2` to the power of `d`*). Note that `1.2` is the rate that is
@@ -111,7 +111,7 @@ As of today, I would say that:
  * *France* and *Germany* still in exponential growth.
 
 {{% alert note %}}
-I will update the plots and the interpetations on a daily basis.
+I will update the plots and the interpretations on a daily basis.
 {{% /alert  %}}
 
 ## Other Things that can be Seen
