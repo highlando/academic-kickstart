@@ -72,15 +72,15 @@ respect to the basis `2`.
 To make sense of the numbers, we start with some example scenarios. In the plot
 below, we have plotted the values for some *fictitious* growth scenarios.
 
- * an exponential growth -- every day `d` the number of additional casualties is
+ * An exponential growth -- every day `d` the number of additional casualties is
    `1.2**d` (*speak: `1.2` to the power of `d`*). Note that `1.2` is the rate that is
    assumed to be still manageable by the German health care system. This
    scenario leads to a constant value in the plots of around `0.263`.
 
- * a constant growth -- every day another `10` casualties are added. This is
+ * A constant growth -- every day another `10` casualties are added. This is
    like the number of daily deaths due to traffic incidents in Germany[^1] in 2010.
 
- * a growth that decreases exponentially -- every day the number of additional
+ * A growth that decreases exponentially -- every day the number of additional
    casualties gets smaller exponentially.
 
 {{< figure src="slopes-examples.png" title="The logarithmic slopes for some example scenarios" lightbox="true" >}}
