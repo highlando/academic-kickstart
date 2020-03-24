@@ -35,7 +35,7 @@ spreads over the world and makes it [available on
 github](https://github.com/CSSEGISandData/COVID-19). In this analysis, we take
 the data and extract the numbers that describe how the growth of casualties
 develops. Looking at the trends in these numbers, one may deduce how fast or how
-slow the virus is spreading and also compare how the situation is in different
+slow the virus is spreading and also compare how the situation evolves in different
 countries.
 
 Feel free to use the [*python*
@@ -45,6 +45,8 @@ any country that is in the JHU data base.
 
 This post bases on joint efforts and discussions of the [CSC
 group](https://www.mpi-magdeburg.mpg.de/csc) at the MPI Magdeburg.
+
+The numbers in the presented plots are updated automatically[^5].
 
 {{% toc %}}
 
@@ -181,10 +183,11 @@ tools have been applied to (pre-)process the data, like data denoising (except
 that some outliers might not be shown because of the plot margins).
 
 ### Acknowledgements
-The initial work, namely making the data easily available in python, was done by
-Petar Mlinari&#263;. Particular help in terms of improving the presentation
+The initial work, namely making the data easily available in python as well as
+the producing the title picture, was done by Petar Mlinari&#263;. 
+<!--Particular help in terms of improving the presentation
 was provided by [Christian Himpe](https://himpe.science/), [Tim
-Mitchell](http://www.timmitchell.com/), and Peter Benner.
+Mitchell](http://www.timmitchell.com/), and Peter Benner. -->
 
 [^1]: https://de.wikipedia.org/wiki/Verkehrstod#Deutschland
 [^2]: [covidsim.eu](http://covidsim.eu/) with parameters as recorded in the
@@ -200,3 +203,4 @@ Mitchell](http://www.timmitchell.com/), and Peter Benner.
 [^4]: The basis is not too important here. If one takes 2, then a value of 1
   means a doubling. A different basis would only scale the plots but not change the
   qualitative outcomes.
+[^5]: Updates come every second hour during working times.
