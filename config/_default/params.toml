@@ -213,11 +213,11 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = false, project = false, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    shortname = "disqus_QWrMAp2KiX"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.

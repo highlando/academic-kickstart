@@ -64,6 +64,14 @@ less steep*). That's why we plot the slope of the logarithmic line that connects
 the numbers of two consecutive days. Since the data is wiggly, we also plot
 averages of the slopes over 2 or 5 days to better spot the trends.
 
+This post was inspired by an illustration that was discussed on twitter[^6] in the
+last days:
+{{< figure src="ricci-tersenghi.png" title="Lockdowns and the numbers of deaths in Italy and Hubei" lightbox="true" >}}
+It shows how, seemingly, the exponential growth in casualties did decrease some
+days after lockdowns have been implemented. In this analysis, we try to
+automatically detect such changes in the growth for a number of countries and
+represent it in an accessible form that allows easy comparisons.
+
 # The Analysis
 
 We examine the (logarithmic) slope of the curves of the accumulated casualties
@@ -130,9 +138,10 @@ in an intensive care unit.
 
 As of the date indicated in the plots, the JHU data delivers the following numbers.
 We plot the logarithmic slopes for several countries for the last 50 days.
-See the [pdf file](slopes-dsifc.pdf) for a better resolution of the plots.
+See the [pdf file](slopes-dsifc.pdf) for more countries and a better resolution
+of the plots.
 
-{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties for a number of countries" lightbox="true" >}}
+{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties for a number of countries. The upper 6 are always shown. The lower 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
 
 ## Explanations of the Data Representation
 
@@ -146,16 +155,19 @@ plots to fit all outliers, since then the interesting parts of the curve will be
 less well resolved. On the other hand, the plot range of China :cn: is
 adjusted to better resolve the small numbers.
 
-## Interpretation of the JHU Data
+## Some Interpretation of the JHU Data
 
 As of today, one may say that:
 
  * In *China* :cn: the spread seems to be under control.
- * *Italy* :it: and *Spain* :es: seem to have weakened the exponential growth
-   although the
-   slopes are still at high values in particular for *Spain*.
- * *France* :fr: and *Germany* :de: still in exponential growth, with no trend for a
-   decrease visible.
+ * *Italy* :it: seems to have weakened the exponential growth.
+ * For *Spain* :es: the numbers report a visible decrease in the growth rate.
+   The rate is still high though.
+ * A comparison of *France* :fr: and *Spain* shows the effects of low growth
+   rates. In the last days, the rates were similar. And although the virus seems
+   to have hit France before it hit Spain, the total numbers in France are
+   smaller by a factor of 3. 
+ * In *Germany* :de: the rates seem to be decreasing but are still high.  
 
 {{% alert note %}}
 We will update the plots and the interpretations on a daily basis.
@@ -184,7 +196,7 @@ that some outliers might not be shown because of the plot margins).
 
 ### Acknowledgements
 The initial work, namely making the data easily available in python as well as
-the producing the title picture, was done by Petar Mlinari&#263;. 
+the code that produces the title picture, was done by Petar Mlinari&#263;. 
 <!--Particular help in terms of improving the presentation
 was provided by [Christian Himpe](https://himpe.science/), [Tim
 Mitchell](http://www.timmitchell.com/), and Peter Benner. -->
@@ -203,4 +215,5 @@ Mitchell](http://www.timmitchell.com/), and Peter Benner. -->
 [^4]: The basis is not too important here. If one takes 2, then a value of 1
   means a doubling. A different basis would only scale the plots but not change the
   qualitative outcomes.
-[^5]: Updates come every second hour during working times.
+[^5]: Updates once a day in the morning.
+[^6]: The plot is by the Italian Physicist [Prof. Ricci-Tersenghi](http://chimera.roma1.infn.it/FEDERICO/Contacts.html)
