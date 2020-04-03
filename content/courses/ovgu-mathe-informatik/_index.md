@@ -28,14 +28,14 @@ menu:
 Hier gibt es die (links zu den Materialien) zur Vorlesung *Mathematik 2 für
 Informatik* im Sommersemester 2020 an der OVGU.
 
-Alle wichtigen Links
+Alle Links:
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
- * Übungsblätter
+ * [Übungsblätter](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * Paperhive Channel
 
-### Vorlesungsmodus
+## Vorlesungsmodus
 
  * Für jede Woche werden 2 Einheiten Vorlesung als Videos zur Verf&uuml;gung
    gestellt.
@@ -46,6 +46,19 @@ Alle wichtigen Links
  * Zus&auml;tzlich gibt es die M&ouml;glichkeit zur Sprechstunde &uuml;ber als
    Videokonferenz.
 
-### Übungsmodus
+## Übungen
 
- * Wird noch mitgeteilt.
+Organisatorische Hinweise:
+ * Zu den Übungen müssen Sie sich sowohl über LSF als auch über
+   [Moodle](https://elearning.ovgu.de/course/view.php?id=7691) anmelden.
+ * Es wird spätestens am Freitag in Woche *n* ein neuer Übungszettel online
+   gestellt, deren Aufgaben Sie bearbeiten und Ihre Lösungen in Moodle hochladen
+   müssen. Eine Musterlösung der Aufgaben wird dann in Woche *n+2* ebenfalls
+   online gestellt. 
+ * Um an der Klausur teilnehmen zu können, Sie müssen mindestens 50% der
+   Aufgaben bearbeitet werden. Besteht eine Aufgabe aus mehreren Teilen,
+   müssen Sie alle Teile bearbeiten.  
+ * In der [google
+   cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+   finden Sie neben den Aufgaben auch Musterlösungen und Hinweise.
+     
