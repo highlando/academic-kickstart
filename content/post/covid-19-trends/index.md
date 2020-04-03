@@ -141,7 +141,7 @@ We plot the logarithmic slopes for several countries for the last 50 days.
 See the [pdf file](slopes-dsifc.pdf) for more countries and a better resolution
 of the plots.
 
-{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties for a number of countries. The upper 6 are always shown. The lower 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
+{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The upper 6 countries are always shown. The lower 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
 
 ## Explanations of the Data Representation
 
@@ -162,12 +162,16 @@ As of today, one may say that:
  * In *China* :cn: the spread seems to be under control.
  * *Italy* :it: seems to have weakened the exponential growth.
  * For *Spain* :es: the numbers report a visible decrease in the growth rate.
-   The rate is still high though.
+   The rate is still high though. However if this decrease goes on, Spain might
+   not overtake Italy.
  * A comparison of *France* :fr: and *Spain* shows the effects of low growth
    rates. In the last days, the rates were similar. And although the virus seems
    to have hit France before it hit Spain, the total numbers in France are
    smaller by a factor of 3. 
- * In *Germany* :de: the rates seem to be decreasing but are still high.  
+ * In *Germany* :de: the rates seem to be decreasing but are still high. However
+   since the decrease started earlier than for Spain, France, or Italy, there is
+   reason to assume that Germany will suffer less from the virus (provided that
+   the trend is stable).
 
 {{% alert note %}}
 We will update the plots and the interpretations on a daily basis.
