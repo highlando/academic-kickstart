@@ -31,7 +31,7 @@ Informatik* im Sommersemester 2020 an der OVGU.
 ## Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
- * [Übungsblätter](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Übungsblätter/Google Cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
  * [Moodle](https://elearning.ovgu.de/course/view.php?id=7691)
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * [Paperhive Channel](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=p:61) -- den Einladungslink gibt's im Moodle.
@@ -49,31 +49,30 @@ Wird dann hier verk&uuml;ndet.
    hochgeladen oder verlinkt.  Das beinhaltet kurze Audio und Video Dateien
    sowie Anweisungen zum selbstst&auml;ndigen Lesen des Skriptes.
  * Begleitend dazu sollen n&auml;mlich die Kapitel des Vorlesungsskriptes
-   gelesen werden und im *Paperhive* Channel[^1] besprochen werden. Das
+   gelesen werden und im **Paperhive** Channel[^1] besprochen werden. Das
    hei&szlig;t, die Student'innen können Fragen stellen und diese werden dann
    gegenseitig oder eben vom Lehrenden beantwortet.
  * Freitags um 14:30 gibt es eine live Zusammenfassung und M&ouml;glichkeit zur
-   Diskussion im Video-Chat.
+   Diskussion im **Video Chat**.
 
 ## Übungen
 
 Organisatorische Hinweise:
  * Zu den Übungen müssen Sie sich sowohl über LSF als auch über
-   [Moodle](https://elearning.ovgu.de/course/view.php?id=7691) anmelden.
+   **Moodle** anmelden.
  * Es wird spätestens am Freitag in Woche *n* ein neuer Übungszettel online
    gestellt, deren Aufgaben Sie bearbeiten und Ihre Lösungen in Moodle hochladen
    müssen. Eine Musterlösung der Aufgaben wird dann in Woche *n+2* ebenfalls
    online gestellt. 
- * Um an der Klausur teilnehmen zu können, Sie müssen mindestens 50% der
+ * Um an der Klausur teilnehmen zu können, müssen mindestens 50% der
    Aufgaben bearbeitet werden. Besteht eine Aufgabe aus mehreren Teilen,
    müssen Sie alle Teile bearbeiten.  
- * In der [google
-   cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
-   finden Sie neben den Aufgaben auch Musterlösungen und Hinweise.
+ * In der **google cloud** finden Sie neben den Aufgaben auch die Musterlösungen
+   und weitere Hinweise.
 
 ## Sprechstunde
 
- * Mittwochs 10:30 im Video Chat
+ * Mittwochs 10:30 im **Video Chat**
 
 [^1]: F&uuml;r Paperhive ist eine Anmeldung erforderlich und um das Skript zu
   sehen und zu kommentieren, muss man dem Einladungslink folgen. Dieser wird im
