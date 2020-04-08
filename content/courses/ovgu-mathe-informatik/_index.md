@@ -28,7 +28,7 @@ menu:
 Hier gibt es die (links zu den Materialien) zur Vorlesung *Mathematik 2 für
 Informatik* im Sommersemester 2020 an der OVGU.
 
-Alle Links:
+## Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
  * [Übungsblätter](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
@@ -70,6 +70,10 @@ Organisatorische Hinweise:
  * In der [google
    cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
    finden Sie neben den Aufgaben auch Musterlösungen und Hinweise.
+
+## Sprechstunde
+
+ * Mittwochs 10:30 im Video Chat
 
 [^1]: F&uuml;r Paperhive ist eine Anmeldung erforderlich und um das Skript zu
   sehen und zu kommentieren, muss man dem Einladungslink folgen. Dieser wird im

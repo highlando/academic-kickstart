@@ -17,4 +17,4 @@ weight: 1
 Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben, 
 die den Einstieg erleichtern und die hoffentlich jede'r schaffen kann.
 
-:floppy_disk: Link zum Übungsblatt
+:floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)

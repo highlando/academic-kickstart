@@ -17,7 +17,7 @@ subtitle = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `# an option to apply it.
+  #   Uncomment (by removing `# an option to apply it.`
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
@@ -47,17 +47,18 @@ subtitle = ""
  css_class = ""
 +++
 
-## Current Courses
+## Current Course (Summer Term 2020)
 
 | Topic | Location | |
 | ----- | ------ | --- |
-| Seminar: [Geometric formulations of inviscid fluids and their discretization](http://janheiland.de/19-geometric-fluids-discretization/) (with [C. Lessig](http://graphics.cs.uni-magdeburg.de/)) | G2-20 <br> Wed:11-13 | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=148544) |
+| Lecture: [Mathematik 2 f&uuml;r Informatik]({{< ref "/courses/ovgu-mathe-informatik" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
 
 ## Previous Courses
 
 | Topic | Occasion | |
 | ----- | ------ | --- |
-| Seminar: [Geometric formulations of inviscid fluids and their discretization](http://janheiland.de/19-geometric-fluids-discretization/) (with [C. Lessig](http://graphics.cs.uni-magdeburg.de/)) | G5-122 <br> Wed:11-13 | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052) |
+| Seminar: [Geometric formulations of inviscid fluids and their discretization](http://janheiland.de/19-geometric-fluids-discretization/) (with [C. Lessig](http://graphics.cs.uni-magdeburg.de/)) | Winter term 2019 at OVGU | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=148544) |
+| Seminar: [Geometric formulations of inviscid fluids and their discretization](http://janheiland.de/19-geometric-fluids-discretization/) (with [C. Lessig](http://graphics.cs.uni-magdeburg.de/)) | Summer term 2019 at OVGU | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052) |
 | Lecture: [*Differential-algebraic Equations*: an introduction to the theoretical and numerical treatment of DAEs](http://janheiland.de/18-dae-course-ovgu/) | Winter term 2018 at OVGU | [Script](http://janheiland.de/script-daes/) <br> [Paperhive](https://paperhive.org/channels/invitationLink?token=Rnz0EW4CHT70) |
 | Short course: [*Introduction to Tensor Based Computing*](https://www.mathcore.ovgu.de/TEACHING/COMPACTCOURSES/2018num.php) | MathCoRe Compact Course 2018 | |
 | Lecture: [*Funktionentheorie* (Complex Analysis)](http://janheiland.de/17-funktionentheorie-ovgu/) | Winter term 2017 at OVGU | |
