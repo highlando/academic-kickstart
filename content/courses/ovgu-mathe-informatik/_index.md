@@ -6,8 +6,8 @@ weight: 1
 
 # Page metadata.
 title: Mathematik 2 für Informatik
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+date: "2020-04-03T00:00:00Z"
+lastmod: "2020-04-08T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -32,19 +32,28 @@ Alle Links:
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
  * [Übungsblätter](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Moodle](https://elearning.ovgu.de/course/view.php?id=7691)
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
- * Paperhive Channel
+ * [Paperhive Channel](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=p:61) -- den Einladungslink gibt's im Moodle.
+ * [Mattermost Channel](http://mm.cs.ovgu.de/test-team/channels/mathe-info-2)
+ * [Video Chat Room](https://meet.ovgu.de/MatheInfoZwei)
+ * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
-## Vorlesungsmodus
+## Aktuelles
 
- * Für jede Woche werden 2 Einheiten Vorlesung als Videos zur Verf&uuml;gung
-   gestellt.
- * Begleitend dazu sollen die Kapitel des Vorlesungsskriptes gelesen werden und
-   im *Paperhive* Channel besprochen werden. Das hei&szlig;t, die Student'innen
-   können Fragen stellen und diese werden dann gegenseitig oder eben vom
-   Lehrenden beantwortet.
- * Zus&auml;tzlich gibt es die M&ouml;glichkeit zur Sprechstunde &uuml;ber als
-   Videokonferenz.
+Wird dann hier verk&uuml;ndet.
+
+## Vorlesungen
+
+ * Mitwochs und Freitags um 09:00 werden neue Kapitel der Vorlesung hier
+   hochgeladen oder verlinkt.  Das beinhaltet kurze Audio und Video Dateien
+   sowie Anweisungen zum selbstst&auml;ndigen Lesen des Skriptes.
+ * Begleitend dazu sollen n&auml;mlich die Kapitel des Vorlesungsskriptes
+   gelesen werden und im *Paperhive* Channel[^1] besprochen werden. Das
+   hei&szlig;t, die Student'innen können Fragen stellen und diese werden dann
+   gegenseitig oder eben vom Lehrenden beantwortet.
+ * Freitags um 14:30 gibt es eine live Zusammenfassung und M&ouml;glichkeit zur
+   Diskussion im Video-Chat.
 
 ## Übungen
 
@@ -61,4 +70,8 @@ Organisatorische Hinweise:
  * In der [google
    cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
    finden Sie neben den Aufgaben auch Musterlösungen und Hinweise.
-     
+
+[^1]: F&uuml;r Paperhive ist eine Anmeldung erforderlich und um das Skript zu
+  sehen und zu kommentieren, muss man dem Einladungslink folgen. Dieser wird im
+  Moodle hinterlegt.
+
