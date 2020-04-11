@@ -35,7 +35,8 @@ Informatik* im Sommersemester 2020 an der OVGU.
  * [Moodle](https://elearning.ovgu.de/course/view.php?id=7691)
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * [Paperhive Channel](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=p:61) -- den Einladungslink gibt's im Moodle.
- * [Mattermost Channel](http://mm.cs.ovgu.de/test-team/channels/mathe-info-2)
+ * [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/town-square) -- den
+   Einladungslink gibt's (sp&auml;testens morgen) im Moodle.
  * [Video Chat Room](https://meet.ovgu.de/MatheInfoZwei)
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
@@ -52,8 +53,8 @@ Wird dann hier verk&uuml;ndet.
    gelesen werden und im **Paperhive** Channel[^1] besprochen werden. Das
    hei&szlig;t, die Student'innen können Fragen stellen und diese werden dann
    gegenseitig oder eben vom Lehrenden beantwortet.
- * Freitags um 14:30 gibt es eine live Zusammenfassung und M&ouml;glichkeit zur
-   Diskussion im **Video Chat**.
+ * Freitags von 14:30-15:00 gibt es eine live Zusammenfassung der Wocheninhalte
+   und die M&ouml;glichkeit zur Diskussion im **Video Chat**.
 
 ## Übungen
 

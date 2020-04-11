@@ -110,31 +110,22 @@ With consider two control setups:
 
 ## Final State Fixed
 
-> Fix a time $t_1$, start with 
-
-> $(\theta(t_0), p(t_0))=(\pi, 0)$, i.e. pendulum standing up-side-down,
-
-> and minimize the control effort 
-
-> $ \mathcal J:= \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 \; dt \to \min $
-
-> over all $(g_1, g_2)$ that lead to 
-
-> $(\theta(t_1), p(t_1))=(0,0)$, i.e. pendulum hanging down.
+> Fix a time $t_1$, start with <br>
+> $\quad(\theta(t_0), p(t_0))=(\pi, 0)$,<br> i.e. pendulum standing up-side-down,
+> and minimize the control effort <br>
+> $ \quad \mathcal J:= \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $<br>
+> over all $(g_1, g_2)$ that lead to <br>
+> $\quad(\theta(t_1), p(t_1))=(0,0)$,<br> i.e. pendulum hanging down.
 
 ## Final State as Optimization Target 
 
-> Fix a time $t_1$, start with 
-
-> $(\theta(t_0), p(t_0))=(\pi, 0)$, i.e. pendulum standing up-side-down,
-
-> and find a control that targets 
-
-> $(\theta(t_1), p(t_1))=(0,0)$, i.e. pendulum hanging down
-
-> while also minimizing the control effort:
-
-> $ \mathcal J:= \frac{1}{2}(\theta(t\_1)^2 + p(t\_1)^2) + \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 \; dt \to \min $
+> Fix a time $t_1$, start with <br>
+> $\quad(\theta(t_0), p(t_0))=(\pi, 0)$,<br> i.e. pendulum standing up-side-down,
+> and find a control that targets <br>
+> $\quad (\theta(t_1), p(t_1))=(0,0)$,<br>
+> i.e. pendulum hanging down
+> while also minimizing the control effort:<br>
+> $ \quad \mathcal J:= \frac{1}{2}(\theta(t\_1)^2 + p(t\_1)^2) + \frac{1}{2}\int_{t_0}^{t_1} g_1^2 + g_2^2 ~ dt \to \min $.
 
 
 # The Maximum Principle 
