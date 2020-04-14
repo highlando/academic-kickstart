@@ -23,12 +23,19 @@ menu:
 
 ---
 
-## Übersicht
-
-Hier gibt es die (links zu den Materialien) zur Vorlesung *Mathematik 2 für
+Hier gibt es die (links zu den) Materialien zur Vorlesung *Mathematik 2 für
 Informatik* im Sommersemester 2020 an der OVGU.
 
-## Links
+# Aktuelles
+
+| Datum | Event | Link |
+| ----- | ----- | ---- |
+| Mi: 15.04., 09:00 | Vorlesung 1.1 | wird dann aktiviert | 
+| Mi: 22.04., 10:30 | Offene Sprechstunde | wird dann aktiviert |
+| Fr: 24.04., 09:00 | Vorlesung 1.2 | wird dann aktiviert | 
+| Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | wird dann aktiviert | 
+
+# Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
  * [Übungsblätter/Google Cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
@@ -40,9 +47,7 @@ Informatik* im Sommersemester 2020 an der OVGU.
  * [Video Chat Room](https://meet.ovgu.de/MatheInfoZwei)
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
-## Aktuelles
-
-Wird dann hier verk&uuml;ndet.
+# Hinweise
 
 ## Vorlesungen
 
