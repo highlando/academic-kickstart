@@ -14,10 +14,14 @@ menu:
 weight: 2
 ---
 
-## Folgen und Reihen
+# 1 Folgen und Reihen
+## 1-1 Folgen
 
-Kapitel 11 im Skript.
-
+### Vorlesung
 <div id="pc-lecture-one"></div>
 
-:floppy_disk: Link zum Übungsblatt
+### Shownotes
+
+ * [Kapitel 11 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:QUoKgfMdtkWu).
+ * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Achilles und die Schildkr&ouml;te als Reihe](http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html)

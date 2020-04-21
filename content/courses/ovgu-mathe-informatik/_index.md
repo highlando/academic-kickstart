@@ -29,11 +29,19 @@ Informatik* im Sommersemester 2020 an der OVGU.
 # Aktuelles
 
 | Datum | Event | Link |
-| ----- | ----- | ---- |
-| Mi: 15.04., 09:00 | Vorlesung 1.1 | wird dann aktiviert | 
-| Mi: 22.04., 10:30 | Offene Sprechstunde | wird dann aktiviert |
+| ----- | ---------- | ---- |
+| Mi: 15.04., 09:00 | Vorlesung 1.1 | [Woche 1]({{< relref "omi-1.md" >}}) | 
+| Mi: 22.04., 10:30 | Offene Sprechstunde | bitte Hinweis beachten |
 | Fr: 24.04., 09:00 | Vorlesung 1.2 | wird dann aktiviert | 
 | Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | wird dann aktiviert | 
+
+{{% alert note %}}
+Erste offene Sprechstunde. Bitte per Email anmelden. Auch kurzfristig.
+{{% /alert %}}
+
+{{% alert note %}}
+Es gibt aktuelle Infos zum &Uuml;bungsbetrieb.
+{{% /alert %}}
 
 # Links
 
@@ -43,8 +51,8 @@ Informatik* im Sommersemester 2020 an der OVGU.
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * [Paperhive Channel](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=p:61) -- den Einladungslink gibt's im Moodle.
  * [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/town-square) -- den
-   Einladungslink gibt's (sp&auml;testens morgen) im Moodle.
- * [Video Chat Room](https://meet.ovgu.de/MatheInfoZwei)
+   Einladungslink gibt's im Moodle.
+ * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
 # Hinweise
@@ -75,10 +83,17 @@ Organisatorische Hinweise:
    müssen Sie alle Teile bearbeiten.  
  * In der **google cloud** finden Sie neben den Aufgaben auch die Musterlösungen
    und weitere Hinweise.
+ * :boom: Es wird keine klassischen Tutorien geben.
+ * :boom: Zu den Musterlösungen wird es eine Zoom Konferenz mit Dr. H&ouml;ding
+   geben, in welcher L&ouml;sungen vorgestellt und Fragen beantwortet werden.
 
 ## Sprechstunde
 
  * Mittwochs 10:30 im **Video Chat**
+
+## Welcome Message
+
+{{< youtube 0GnvZqdf9x0 >}}
 
 [^1]: F&uuml;r Paperhive ist eine Anmeldung erforderlich und um das Skript zu
   sehen und zu kommentieren, muss man dem Einladungslink folgen. Dieser wird im

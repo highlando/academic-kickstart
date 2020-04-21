@@ -11,31 +11,75 @@
     "main": "#26475B"
   },
   "title": "Woche 1 — Folgen und Reihen ",
-  "subtitle": "Achilles und die Schildkröte — Folgen — Reihen — Achilles und die Schildkröte",
-  "summary": "Kapitel 11 im Skript",
+  "subtitle": "Achilles und die Schildkröte — Folgen — Definition — Beispiele — Eigenschaften",
+  "summary": "Kapitel 11 im Skript - erster Teil",
   "publicationDate": "2020-04-15T09:00:00+00:00",
   "poster": "/courses/ovgu-mathe-informatik/files/pcs/banner-1.png",
-  "duration": "00:00:21",
+  "duration": "00:09:48",
   "audio": [
     {
-      "url": "/courses/ovgu-mathe-informatik/files/pcs/audio-1.mp3",
-      "size": "102956071",
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/1-1.mp3",
+      "size": "8570507",
       "title": "MPEG-3",
       "mimeType": "audio/mp3"
     },
     {
-      "url": "https://freakshow.fm/podlove/file/5175/s/webplayer/c/embed/fs207-berliner-leistungswasser.opus",
-      "size": "102078914",
-      "title": "Opus Audio (opus)",
-      "mimeType": "audio/opus"
+      "url": "/courses/ovgu-mathe-informatik/files/pcs/1-1.ogg",
+      "size": "7179840",
+      "title": "Opus Audio (ogg)",
+      "mimeType": "audio/ogg"
     }
   ],
   "chapters": [
     {
       "start": "00:00:00.000",
       "title": "Intro",
-      "href": "",
-      "image": "/courses/ovgu-mathe-informatik/files/pcs/banner-1-1.png"
+      "href": ""
+    },
+    {
+      "start": "00:00:14.000",
+      "title": "Achilles und die Schildkröte",
+      "href": ""
+    },
+    {
+      "start": "00:01:37.000",
+      "title": "Definition Folgen",
+      "href": ""
+    },
+    {
+      "start": "00:01:49.000",
+      "title": "Beispiele",
+      "href": ""
+    },
+    {
+      "start": "00:03:57.000",
+      "title": "Eigenschaften von Folgen",
+      "href": ""
+    },
+    {
+      "start": "00:05:20.000",
+      "title": "Kleine Pause",
+      "href": ""
+    },
+    {
+      "start": "00:05:46.000",
+      "title": "Konvergenz",
+      "href": ""
+    },
+    {
+      "start": "00:07:06.000",
+      "title": "Divergenz",
+      "href": ""
+    },
+    {
+      "start": "00:07:57.000",
+      "title": "Rechnen mit Folgen",
+      "href": ""
+    },
+    {
+      "start": "00:08:43.000",
+      "title": "Wrapup und Ausblick",
+      "href": ""
     }
   ],
   "runtime": {
@@ -47,7 +91,6 @@
     "tabChapters",
     "tabFiles",
     "tabAudio",
-    "tabShare",
     "poster",
     "showTitle",
     "episodeTitle",

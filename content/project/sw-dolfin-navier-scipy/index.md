@@ -51,3 +51,9 @@ A Python package that provides an interface between *scipy* and *FEniCS* in view
 
 ## Related Publications
 Check the tag [`dns.py`](../../tags/dns.py/) to see related content.
+
+## Video
+
+{{< youtube a1iDcEIRmvU >}}
+
+Simulation of the *Karman Vortex Street*. See the [relevant commit here](https://github.com/highlando/dolfin_navier_scipy/commit/ae907dc2266076a635c89d62726696e63b3fdc85).
