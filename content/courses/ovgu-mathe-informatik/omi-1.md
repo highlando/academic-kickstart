@@ -25,3 +25,24 @@ weight: 2
  * [Kapitel 11 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:QUoKgfMdtkWu).
  * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
  * [Achilles und die Schildkr&ouml;te als Reihe](http://www.math-kit.de/2003/content/RH-PB-XML-cob/Manifest295/einstieg.html)
+
+
+## 1-2 Reihen
+
+### Vorlesung
+<div id="pc-lecture-1-2"></div>
+
+### Shownotes
+
+ * [Kapitel 11 im Skript (zweiter Teil)](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5).
+ * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Bild zur Kuchenfolge und zum harmonischen
+   Turm](../files/pcs/1-2-kuchenharmonie-small.png)
+
+### Video zur Kuchenfolge und zum harmonischen Turm
+
+{{< youtube JT6JTtZw3nQ >}}
+
+### Video zu Achilles 
+
+coming soon...
