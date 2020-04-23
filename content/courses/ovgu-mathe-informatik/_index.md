@@ -31,12 +31,14 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Datum | Event | Link |
 | ----- | ---------- | ---- |
 | Mi: 15.04., 09:00 | Vorlesung 1.1 | [Woche 1]({{< relref "omi-1.md" >}}) | 
-| Mi: 22.04., 10:30 | Offene Sprechstunde | bitte Hinweis beachten |
-| Fr: 24.04., 09:00 | Vorlesung 1.2 | wird dann aktiviert | 
-| Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | wird dann aktiviert | 
+| :boom: Fr: 24.04., 09:00 | Vorlesung 1.2 | [Woche 1-2]({{< relref "omi-1/#1-2-reihen" >}}) | 
+| :hourglass: Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2404-woche-1) | 
+| Mi: 29.04., 09:00 | Vorlesung 2.1 | wird dann aktiviert  | 
+| Mi: 29.04., 10:30 | Offene Sprechstunde | bitte dann Hinweise beachten |
 
 {{% alert note %}}
-Erste offene Sprechstunde. Bitte per Email anmelden. Auch kurzfristig.
+Der Mattermost link im Moodle scheint nicht zu funktionieren. Hier ist ein
+[funktionierender link](http://mm.cs.ovgu.de/signup_user_complete/?id=9jpmz8iuofdf7due6uqf14jk9w).
 {{% /alert %}}
 
 {{% alert note %}}
