@@ -1,2 +1,6 @@
 public/
 .idea/
+resources/
+config/_default/the-newest*
+
+
