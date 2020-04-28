@@ -30,19 +30,20 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ----- | ---------- | ---- |
-| Mi: 15.04., 09:00 | Vorlesung 1.1 | [Woche 1]({{< relref "omi-1.md" >}}) | 
-| :boom: Fr: 24.04., 09:00 | Vorlesung 1.2 | [Woche 1-2]({{< relref "omi-1/#1-2-reihen" >}}) | 
-| :hourglass: Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2404-woche-1) | 
-| Mi: 29.04., 09:00 | Vorlesung 2.1 | wird dann aktiviert  | 
-| Mi: 29.04., 10:30 | Offene Sprechstunde | bitte dann Hinweise beachten |
+| Fr: 24.04., 09:00 | Vorlesung 1.2 | [Woche 1-2]({{< relref "omi-1/#1-2-reihen" >}}) | 
+| Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2404-woche-1) | 
+| :boom: Mi: 29.04., 09:00 | Vorlesung 2.1 | wird dann aktiviert  | 
+| :hourglass: Mi: 29.04., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
+| Mi: 06.05., 09:00 | Vorlesung 2.2 | wird dann aktiviert | 
+
+{{% alert note %}}
+Am kommenden Freitag, den 1. Mai, gibt es keine Vorlesung. Daf&uuml;r wird die
+Mittwoch-Sprechstunde zum Wrapup.
+{{% /alert %}}
 
 {{% alert note %}}
 Der Mattermost link im Moodle scheint nicht zu funktionieren. Hier ist ein
 [funktionierender link](http://mm.cs.ovgu.de/signup_user_complete/?id=9jpmz8iuofdf7due6uqf14jk9w).
-{{% /alert %}}
-
-{{% alert note %}}
-Es gibt aktuelle Infos zum &Uuml;bungsbetrieb.
 {{% /alert %}}
 
 # Links
@@ -92,6 +93,13 @@ Organisatorische Hinweise:
 ## Sprechstunde
 
  * Mittwochs 10:30 im **Video Chat**
+
+## Literatur
+
+| Buch | Bemerkung |
+|------| ----------|
+| Otto Forster *Analysis I* (Springer) | Schwierigkeitslevel etwa gleich unserer Vorlesung. Weitere Beispiele und Übungsaufgaben sind eine gute Ergänzung. |
+| Konrad Königsberger *Analysis I* (Springer) | Etwas anspruchsvoller als die Vorlesung. Die Vorlesungsinhalte finden sich alle und auch weitere Aspekte und Beispiele. |
 
 ## Welcome Message
 
