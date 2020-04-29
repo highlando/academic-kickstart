@@ -46,6 +46,11 @@ Der Mattermost link im Moodle scheint nicht zu funktionieren. Hier ist ein
 [funktionierender link](http://mm.cs.ovgu.de/signup_user_complete/?id=9jpmz8iuofdf7due6uqf14jk9w).
 {{% /alert %}}
 
+{{% alert warning %}}
+Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
+gesagt und hoffe, dass das schnell gefixt wird.
+{{% /alert %}}
+
 # Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
