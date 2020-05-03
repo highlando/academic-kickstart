@@ -137,7 +137,7 @@ in an intensive care unit.
 # The Actual Numbers
 
 As of the date indicated in the plots, the JHU data delivers the following numbers.
-We plot the logarithmic slopes for several countries for the last 50 days.
+We plot the logarithmic slopes for several countries for the last 80 days.
 See the [pdf file](slopes-dsifc.pdf) for more countries and a better resolution
 of the plots.
 
@@ -159,22 +159,16 @@ adjusted to better resolve the small numbers. -->
 
 As of today, one may say that:
 
- * In *China* :cn: the spread seems to be under control.
- * *Italy* :it: seems to have weakened the exponential growth.
- * For *Spain* :es: the numbers report a visible decrease in the growth rate.
-   The rate is still higher than Italy. However if this decrease goes on, Spain might
-   not overtake Italy.
- * A comparison of *France* :fr: and *Spain* shows the effects of low growth
-   rates. Although the virus seems to have hit France before it hit Spain, the
-   total numbers in France are smaller. 
- * In *Germany* :de: the rates seem to be decreasing but are still high. And
-   above the value of 0.07 for the admissible scenario above. However
-   since the decrease started earlier than for Spain, France, or Italy, there is
-   reason to assume that Germany will suffer less from the virus (provided that
-   the trend is stable).
+ * In all European countries, the spread of the virus has been slowed down to
+   rates well below 0.05. 
+ * The curves look all similar, still the overall numbers differ.
+ * An indicator for high numbers in casualties are high rates in the phase after
+   300 deaths; see *Italy* :it:, *Spain* :es:, *France* :fr:, and the US.
+ * In *Germany* :de:, in this phase, the rates were lower than in the countries
+   mentioned above.
 
 {{% alert note %}}
-We will update the plots and the interpretations on a daily basis.
+The plots are updated every day.
 {{% /alert  %}}
 
 ## Other Things that can be Seen
