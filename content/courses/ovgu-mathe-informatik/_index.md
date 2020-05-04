@@ -30,15 +30,15 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ----- | ---------- | ---- |
-| Fr: 24.04., 09:00 | Vorlesung 1.2 | [Woche 1-2]({{< relref "omi-1/#1-2-reihen" >}}) | 
-| Fr: 24.04., 14:30 | Live-Wrapup Woche 1 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2404-woche-1) | 
-| :boom: Mi: 29.04., 09:00 | Vorlesung 2.1 | [Woche 2-1]({{< relref "omi-2" >}})  | 
-| :hourglass: Mi: 29.04., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
-| Mi: 06.05., 09:00 | Vorlesung 2.2 | wird dann aktiviert | 
+| Mi: 29.04., 09:00 | Vorlesung 2.1 | [Woche 2-1]({{< relref "omi-2" >}})  | 
+| Mi: 29.04., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
+| :boom: Mi: 06.05., 09:00 | Vorlesung 2.2 | [Woche 3]({{< relref "omi-2/#2-2-grenzwerte-und-stetigkeit-von-funktionen" >}}) | 
+| :hourglass: Mi: 06.05., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
+| Mi: 13.05. | Vorlesung 3.1 | wird dann aktiviert |
 
-{{% alert note %}}
-Am kommenden Freitag, den 1. Mai, gibt es keine Vorlesung. Daf&uuml;r wird die
-Mittwoch-Sprechstunde zum Wrapup.
+{{% alert warning %}}
+Am kommenden Freitag, den 8. Mai, ist wieder ein Feiertag und es gibt keine
+Vorlesung. Daf&uuml;r wird die Mittwoch-Sprechstunde zum Wrapup.
 {{% /alert %}}
 
 {{% alert note %}}
@@ -63,6 +63,7 @@ gesagt und hoffe, dass das schnell gefixt wird.
  * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
+/
 # Hinweise
 
 ## Vorlesungen
