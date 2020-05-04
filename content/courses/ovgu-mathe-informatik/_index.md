@@ -33,7 +33,7 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Mi: 29.04., 09:00 | Vorlesung 2.1 | [Woche 2-1]({{< relref "omi-2" >}})  | 
 | Mi: 29.04., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
 | :boom: Mi: 06.05., 09:00 | Vorlesung 2.2 | [Woche 3]({{< relref "omi-2/#2-2-grenzwerte-und-stetigkeit-von-funktionen" >}}) | 
-| :hourglass: Mi: 06.05., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
+| :hourglass: Mi: 06.05., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-0605-woche-3) |
 | Mi: 13.05. | Vorlesung 3.1 | wird dann aktiviert |
 
 {{% alert warning %}}
