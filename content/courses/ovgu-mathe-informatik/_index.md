@@ -63,7 +63,6 @@ gesagt und hoffe, dass das schnell gefixt wird.
  * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
-/
 # Hinweise
 
 ## Vorlesungen
