@@ -30,23 +30,13 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ----- | ---------- | ---- |
-| Mi: 29.04., 09:00 | Vorlesung 2.1 | [Woche 2-1]({{< relref "omi-2" >}})  | 
-| Mi: 29.04., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-2904-woche-2) |
-| :boom: Mi: 06.05., 09:00 | Vorlesung 2.2 | [Woche 3]({{< relref "omi-2/#2-2-grenzwerte-und-stetigkeit-von-funktionen" >}}) | 
-| :hourglass: Mi: 06.05., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-0605-woche-3) |
-| Mi: 13.05. | Vorlesung 3.1 | wird dann aktiviert |
-
-{{% alert warning %}}
-Am kommenden Freitag, den 8. Mai, ist wieder ein Feiertag und es gibt keine
-Vorlesung. Daf&uuml;r wird die Mittwoch-Sprechstunde zum Wrapup.
-{{% /alert %}}
+| Mi: 06.05., 09:00 | Vorlesung 2.2 | [Woche 3]({{< relref "omi-2/#2-2-grenzwerte-und-stetigkeit-von-funktionen" >}}) | 
+| Mi: 06.05., 10:30 | Live-Wrapup Woche 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-0605-woche-3) |
+| :hourglass: Mi: 13.05., 9:00 | Vorlesung 3.1 | wird dann aktiviert |
+| :hourglass: Mi: 20.05., 9:00| Vorlesung 3.2 | wird dann aktiviert |
+| 20.05., 14:30 | Live-Wrapup Woche 4 | wird dann aktiviert |
 
 {{% alert note %}}
-Der Mattermost link im Moodle scheint nicht zu funktionieren. Hier ist ein
-[funktionierender link](http://mm.cs.ovgu.de/signup_user_complete/?id=9jpmz8iuofdf7due6uqf14jk9w).
-{{% /alert %}}
-
-{{% alert warning %}}
 Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
 gesagt und hoffe, dass das schnell gefixt wird.
 {{% /alert %}}
