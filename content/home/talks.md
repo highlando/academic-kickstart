@@ -70,8 +70,7 @@ subtitle = "Workshops&Visits"
 | Date | Occasion | Location |
 | -----: | ------ | --- |
 | Feb 01 -- Mar 15 | Visiting Professor at the [CMC at Deusto](https://cmc.deusto.eus/) invited by Enrique Zuazua and the [ERC DyCon Project](https://cmc.deusto.eus/dycon/) | Bilbao, Spain |
-| Mar 16 -- Mar 20 | [GAMM Annual Meeting](https://jahrestagung.gamm-ev.de/index.php/2020/2020-annual-meeting) | Kassel |
-| Mar 29 -- Apr 04 | Young Academics Workshop [*Maxwell, Stokes, and Schrödinger*](https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/numa/gamm-fa/yaw20/) | Sion, Switzerland |
+| May 12 -- May 15 | [ECC](https://ecc20.eu/) - European Control Conference | Saint Petersburg, Russia but virtual|
 
 See [previous conferences and visits]({{< ref "events/pastconfs/index.md" >}})
 
