@@ -30,11 +30,10 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Fr: 08.05., 15:00 | Bonus: Live Vorrechnen von &Uuml;bungsaufgaben aus dem Forster | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [Mattermost Channel](http://mm.cs.ovgu.de/mathe-info-2/channels/0805-live-uebung) |
-| :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [Woche 4]({{< relref "omi-4" >}}) |
-| :hourglass: Mi: 13.05., 10:30 | Sprechstunde | bitte per Direktnachricht im Mattermost oder per Email anmelden |
-| Fr: 15.05., 9:00| Vorlesung 3.2 | wird dann aktiviert |
-| Fr: 15.05., 14:30 | Live-Wrapup Woche 4 | wird dann aktiviert |
+| Mi: 13.05., 9:00 | Vorlesung 3.1 | [Woche 4]({{< relref "omi-4" >}}) |
+| :boom: Fr: 15.05., 9:00| Vorlesung 3.2 | wird dann aktiviert |
+| :hourglass: Fr: 15.05., 14:30 | Live-Wrapup Woche 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-1505-diff1) |
+| Mi: 20.05., 9:00 | Vorlesung 4.1 | wird dann aktiviert |
 
 {{% alert note %}}
 Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
