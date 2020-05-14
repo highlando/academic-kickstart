@@ -1,6 +1,6 @@
 ---
-title: Woche 2+3
-linktitle: Woche 2+3
+title: 2 Stetigkeit von Funktionen
+linktitle: 2 Stetigkeit von Funktionen
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -14,7 +14,6 @@ menu:
 weight: 3
 ---
 
-# 2 Stetigkeit von Funktionen
 ## 2-1 Eigenschaften und Beispiele von Funktionen
 
 ### Vorlesung

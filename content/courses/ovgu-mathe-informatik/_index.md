@@ -30,8 +30,8 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Mi: 13.05., 9:00 | Vorlesung 3.1 | [Woche 4]({{< relref "omi-4" >}}) |
-| :boom: Fr: 15.05., 9:00| Vorlesung 3.2 | wird dann aktiviert |
+| Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
+| :boom: Fr: 15.05., 9:00| Vorlesung 3.2 | [3 Differenzierbarkeit 1 (2/2)]({{< relref "omi-3/#3-2-houmlhere-ableitungen-konvex-konkav-extrema" >}}) |
 | :hourglass: Fr: 15.05., 14:30 | Live-Wrapup Woche 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-1505-diff1) |
 | Mi: 20.05., 9:00 | Vorlesung 4.1 | wird dann aktiviert |
 

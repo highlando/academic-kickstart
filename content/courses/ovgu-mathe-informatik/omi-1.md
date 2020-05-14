@@ -1,6 +1,6 @@
 ---
-title: Woche 1
-linktitle: Woche 1
+title: 1 Folgen und Reihen
+linktitle: 1 Folgen und Reihen
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -14,7 +14,6 @@ menu:
 weight: 2
 ---
 
-# 1 Folgen und Reihen
 ## 1-1 Folgen
 
 ### Vorlesung
