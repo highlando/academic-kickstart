@@ -31,7 +31,7 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
 | Fr: 15.05., 9:00| Vorlesung 3.2 | [3 Differenzierbarkeit 1 (2/2)]({{< relref "omi-3/#3-2-houmlhere-ableitungen-konvex-konkav-extrema" >}}) |
-| :hourglass: Mi: 20.05., 9:00 | Vorlesung 4.1 | Taylor- und Potenzreihen: wird dann aktiviert |
+| :boom: Mi: 20.05., 9:00 | Vorlesung 4.1 | [4 Taylor- und Potenzreihen]({{< relref "omi-4" >}}) |
 | :hourglass: Mi: 20.05., 10:30 | Sprechstunde | bitte per mail oder DM anmelden |
 | Fr: 22.05., 9:00 | Vorlesung 4.2 | Taylor- und Potenzreihen: wird dann aktiviert |
 
