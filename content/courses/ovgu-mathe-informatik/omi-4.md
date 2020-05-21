@@ -29,6 +29,21 @@ weight: 5
 
 {{< youtube dI9t-9pGKus >}}
 
+## 4-2 Taylor-Reihe, Potenzreihe, Taylor-Reihe
+
+### Vorlesung
+<div id="pc-lecture-4-2"></div>
+
+### Shownotes
+
+ * [Kapitel 14 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi).
+
+### Illustrierte Beispiele
+
+[das ganze als PNG](../files/4-2-bspx.png)
+
+{{< youtube Zk9CXZEcUaY >}}
+
 <!--
 ## Wrapup Differenzierbarkeit
 

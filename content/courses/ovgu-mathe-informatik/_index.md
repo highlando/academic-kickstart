@@ -31,7 +31,7 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
 | Mi: 20.05., 9:00 | Vorlesung 4.1 | [4 Taylor- und Potenzreihen]({{< relref "omi-4" >}}) |
-| :hourglass: Fr: 22.05., 9:00 | Vorlesung 4.2 | Taylor- und Potenzreihen: wird dann aktiviert |
+| :boom: Fr: 22.05., 9:00 | Vorlesung 4.2 | [4 Taylor- und Potenzreihen (2/2)]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
 | :hourglass: Fr: 22.05., 14:30 | Live-Wrapup Vorlesung 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-15-22-Taylor) |
 | Mi: 27.05., 9:00 | Vorlesung 5.1 | *Integralrechnung 1* |
 
