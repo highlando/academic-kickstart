@@ -30,15 +30,22 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Mi: 20.05., 9:00 | Vorlesung 4.1 | [4 Taylor- und Potenzreihen]({{< relref "omi-4" >}}) |
-| :boom: Fr: 22.05., 9:00 | Vorlesung 4.2 | [4 Taylor- und Potenzreihen (2/2)]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
-| :hourglass: Fr: 22.05., 14:30 | Live-Wrapup Vorlesung 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-15-22-Taylor) |
-| Mi: 27.05., 9:00 | Vorlesung 5.1 | *Integralrechnung 1* |
+| Fr: 22.05., 14:30 | Live-Wrapup Vorlesung 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-15-22-Taylor) |
+| :boom: Mi: 27.05., 9:00 | Vorlesung 5.1 | [Integralrechnung 1 (1/3)]({{< relref "omi-5" >}})|
+| :hourglass: Fr: 29.05., 9:00 | Vorlesung 5.2 | [Integralrechnung 1 (2/3)]({{< relref "omi-5" >}})|
+| :hourglass: Mi: 03.06., 9:00 | Vorlesung 5.3 | [Integralrechnung 1 (3/3)]({{< relref "omi-5" >}})|
+| Fr: 05.06., 9:00 | Vorlesung 6 | Fourierreihen |
+| Fr: 07.06., 14:30 | Live-Wrapup Woche 6 | [Youtube live](https://www.youtube.com/c/JanHeiland/live)  |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 15.05., 14:30 | Live-Wrapup Woche 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-1505-diff1) |
  -->
+
+{{% alert note %}}
+Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
+gesagt und hoffe, dass das (schnell) irgendwann gefixt wird.
+{{% /alert %}}
 
 {{% alert note %}}
 Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
