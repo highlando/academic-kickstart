@@ -21,7 +21,7 @@ diesen Themenkomplex:
 
  * [1. Teil (Mittwoch)](#5-1-zerlegung-ober-untersummen-riemann-integral): Podcast und Beispiele als Video.
  * [2. Teil (Freitag)](#5-2-substitionsregel-partielle-integration-uneigentliche-integrale): Illustration der Inhalte als Video.
- * 3. Teil (Mittwoch): Vorrechnen der Beispiele aus dem Vorlesungskapitel +
+ * [3. Teil (Mittwoch)](#5-3-wrapup----beispiele-vorrechnen): Vorrechnen der Beispiele aus dem Vorlesungskapitel +
       ausgew&auml;hlte &Uuml;bungsaufgaben.
  
 
@@ -60,6 +60,31 @@ $$
 [das ganze als PNG](../files/5-2.png)
 
 {{< youtube 3SQ5a5Q9RkI >}}
+
+
+## 5-3 Wrapup -- Beispiele Vorrechnen
+
+Live Vorrechnen der Beispiele aus der Vorlesung und einer &Uuml;bungsaufgabe
+
+$$
+\int _ {\frac{1}{\pi}}^{\frac{2}{\pi}} -\frac{\sin(\frac{1}{x})}{x^2}~dx \tag{Bsp. 15.22}
+$$
+
+$$
+\int_a^b \cos(x)x~dx \tag{Bsp. 15.26-1}
+$$
+
+$$
+\int_a^b \log(x)~dx \tag{Bsp. 15.26-2}
+$$
+
+$$
+\text{Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
+$$
+
+[Das ganze als PNG](../files/5-3-bspx.png)
+
+{{< youtube Id9qFbM0bL0 >}}
 
 <!--
 ## Wrapup Differenzierbarkeit
