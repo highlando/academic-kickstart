@@ -30,15 +30,15 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Fr: 29.05., 9:00 | Vorlesung 5.2 | [Integralrechnung 1 (2/3)]({{< relref "omi-5/#5-2-substitionsregel-partielle-integration-uneigentliche-integrale" >}})|
-| Mi: 03.06., 10:00 | Vorlesung 5.3 | [Integralrechnung 1 (3/3)]({{< relref "omi-5/#5-3-wrapup----beispiele-vorrechnen" >}}) -- [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [R&uuml;ckkanal](http://mm.cs.ovgu.de/mathe-info-2/channels/0603-wrapup-integrat) |
-| :boom: Fr: 05.06., 9:00 | Vorlesung 6 | [Fourierreihen]({{< relref "omi-6" >}}) |
-| :hourglass: Fr: 05.06., 14:30 | Live-Wrapup Vorlesung 6 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [R&uuml;ckkanal](http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier) |
-| Mi: 10.06., 9:00 | Vorlesung 7.1 | Differenzierbarkeit 2 |
+| Fr: 05.06., 9:00 | Vorlesung 6 | [Fourierreihen]({{< relref "omi-6" >}}) |
+| Fr: 05.06., 14:30 | Live-Wrapup Vorlesung 6 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [R&uuml;ckkanal](http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier) |
+| :boom: Mi: 10.06., 9:00 | Vorlesung 7.1 | Differenzierbarkeit 2 |
+| :hourglass: Fr: 12.06., 9:00 | Vorlesung 7.2 | Differenzierbarkeit 2 |
+| Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
-| Fr: 15.05., 14:30 | Live-Wrapup Woche 4 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/wrapup-1505-diff1) |
+| Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
  -->
 
 {{% alert note %}}
