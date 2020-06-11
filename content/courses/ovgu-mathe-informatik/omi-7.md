@@ -15,6 +15,12 @@ menu:
 weight: 8
 ---
 
+Das ist wieder eine dreiteilige Vorlesung
+
+1. Podcast (Mittwoch)
+2. Screencast (Freitag)
+3. Screencast+Wrapup (Mittwoch)
+
 ##  7-1 Multivariable Funktionen und Grenzwerte
 
 ### Vorlesung
@@ -29,6 +35,18 @@ weight: 8
 [das ganze als PNG](../files/7-1-bspx.png)
 
 {{< youtube wKQhqfCqApc  >}}
+
+##  7-2 Ableitungen, Multivariable Vektorwertige Funktionen und Extrema
+
+### Vorlesung
+
+[das ganze als PNG](../files/7-2-lctr.png)
+
+{{< youtube 9UV8m2wsnbk >}}
+
+### Shownotes
+
+ * [Kapitel 17 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P).
 
 <!--
 ## Wrapup Differenzierbarkeit

@@ -32,14 +32,22 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | ------- | ---------- | ---- |
 | Fr: 05.06., 9:00 | Vorlesung 6 | [Fourierreihen]({{< relref "omi-6" >}}) |
 | Fr: 05.06., 14:30 | Live-Wrapup Vorlesung 6 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [R&uuml;ckkanal](http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier) |
-| :boom: Mi: 10.06., 9:00 | Vorlesung 7.1 | [Differenzierbarkeit II (1/2)]({{< relref "omi-7" >}})|
-| :hourglass: Fr: 12.06., 9:00 | Vorlesung 7.2 | Differenzierbarkeit 2 |
-| Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
+| Mi: 10.06., 9:00 | Vorlesung 7.1 | [Differenzierbarkeit II (1/3)]({{< relref "omi-7" >}})|
+| :boom: Fr: 12.06., 9:00 | Vorlesung 7.2 | [Differenzierbarkeit II (2/3)]({{< relref "omi-7" >}}) |
+| Fr: 12.06., 14:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
+| :hourglass: Mi: 17.06., 9:00 | Vorlesung 7.3 | Differenzierbarkeit II (3/3) |
+| :hourglass: Mi: 17.06., 10:15 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
  -->
+
+{{% alert note %}}
+F&uuml;r das aktuelle Thema machen wir doch lieber 3 Vorlesungen. Deshalb --
+Freitag den screencast anschauen und n&auml;chsten Mittwoch gibt's dann den
+*wrapup*. Die Uhrzeiten stehen oben in der Tabelle.
+{{% /alert %}}
 
 {{% alert note %}}
 Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
