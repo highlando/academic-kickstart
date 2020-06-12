@@ -30,8 +30,6 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Fr: 05.06., 9:00 | Vorlesung 6 | [Fourierreihen]({{< relref "omi-6" >}}) |
-| Fr: 05.06., 14:30 | Live-Wrapup Vorlesung 6 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) -- [R&uuml;ckkanal](http://mm.cs.ovgu.de/mathe-info-2/channels/0605-wrapup-fourier) |
 | Mi: 10.06., 9:00 | Vorlesung 7.1 | [Differenzierbarkeit II (1/3)]({{< relref "omi-7" >}})|
 | :boom: Fr: 12.06., 9:00 | Vorlesung 7.2 | [Differenzierbarkeit II (2/3)]({{< relref "omi-7" >}}) |
 | Fr: 12.06., 14:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
