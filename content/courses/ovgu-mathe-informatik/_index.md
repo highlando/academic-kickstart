@@ -30,11 +30,11 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Mi: 10.06., 9:00 | Vorlesung 7.1 | [Differenzierbarkeit II (1/3)]({{< relref "omi-7" >}})|
-| :boom: Fr: 12.06., 9:00 | Vorlesung 7.2 | [Differenzierbarkeit II (2/3)]({{< relref "omi-7" >}}) |
+| Fr: 12.06., 9:00 | Vorlesung 7.2 | [Differenzierbarkeit II (2/3)]({{< relref "omi-7" >}}) |
 | Fr: 12.06., 14:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
-| :hourglass: Mi: 17.06., 9:00 | Vorlesung 7.3 | Differenzierbarkeit II (3/3) |
+| :boom: Mi: 17.06., 9:00 | Vorlesung 7.3 | [Differenzierbarkeit II (3/3)]({{< relref "omi-7/#7-3-hesse-matrix-definitheit-extrema-kompakte-mengen" >}}) |
 | :hourglass: Mi: 17.06., 10:15 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
+| Fr: 19.06., 9:00 | Vorlesung 8.1 | Integralrechnung II (1/3) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |

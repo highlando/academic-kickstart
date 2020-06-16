@@ -9,8 +9,8 @@ from spacetime_galerkin_pod.ldfnp_ext_cholmod import SparseFactorMassmat
 
 dolfin.parameters['linear_algebra_backend'] = 'Eigen'
 
-testistrain = True
 testistrain = False
+testistrain = True  # use the same (training) parameter for the simulation
 
 nu = 1e-4  # the viscosity
 

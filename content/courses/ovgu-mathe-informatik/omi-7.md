@@ -36,7 +36,7 @@ Das ist wieder eine dreiteilige Vorlesung
 
 {{< youtube wKQhqfCqApc  >}}
 
-##  7-2 Ableitungen, Multivariable Vektorwertige Funktionen und Extrema
+## 7-2 Ableitungen, Multivariable Vektorwertige Funktionen und Extrema
 
 ### Vorlesung
 
@@ -47,6 +47,19 @@ Das ist wieder eine dreiteilige Vorlesung
 ### Shownotes
 
  * [Kapitel 17 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:MO-KGEUoek-P).
+
+## 7-3 Hesse Matrix, Definitheit, Extrema, Kompakte Mengen 
+
+[das ganze als PNG](../files/7-3-lctr.png)
+
+{{< youtube 4B6jUlF9R94 >}}
+
+### Shownotes
+
+ * Ein [Text und Video](https://studyflix.de/informatik/hesse-matrix-1352) mit
+   sch&ouml;ner Illustration wie die Funktion, kritische Punkte und die Hesse
+   Matrix zusammenh&auml;ngen. (Scrollen bis *Extremstellen und Hesse Matrix Beispiel 1*)
+ * [Kapitel 17 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:u6Nm6dd51DMi).
 
 <!--
 ## Wrapup Differenzierbarkeit
