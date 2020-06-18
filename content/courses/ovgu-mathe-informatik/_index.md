@@ -34,17 +34,31 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Fr: 12.06., 14:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
 | :boom: Mi: 17.06., 9:00 | Vorlesung 7.3 | [Differenzierbarkeit II (3/3)]({{< relref "omi-7/#7-3-hesse-matrix-definitheit-extrema-kompakte-mengen" >}}) |
 | :hourglass: Mi: 17.06., 10:15 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
-| Fr: 19.06., 9:00 | Vorlesung 8.1 | Integralrechnung II (1/3) |
+| :boom: Fr: 19.06., 9:00 | Feedback Runde | Siehe unten :point_down: |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
  -->
 
-{{% alert note %}}
-F&uuml;r das aktuelle Thema machen wir doch lieber 3 Vorlesungen. Deshalb --
-Freitag den screencast anschauen und n&auml;chsten Mittwoch gibt's dann den
-*wrapup*. Die Uhrzeiten stehen oben in der Tabelle.
+{{% alert warning %}}
+
+**Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
+f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
+
+1. Die offizielle Evaluation der Vorlesung. Dieses mal auch mit ein paar Fragen
+   dazu, wie sich die online Lehre so macht. Anmeldung unter
+   [evaluation.ovgu.de](https://evaluation.ovgu.de/) mit der Losung *UPFNQ*.
+   Hier bitte zahlreich mitmachen, denn das dient den Nachfolgenden Studenten
+   und damit wird auch die Performance des Lehrenden bewertet. Die Umfrage ist
+   offen bis zum 05.07.
+
+2. Mein kleiner Fragebogen. Hier geht es speziell darum, wie ihr die Umsetzung
+   mit Podcast, Screencast, Wrapup und Paperhive fandet. Und ihr habt die
+   M&ouml;glichkeit, euch zu w&uuml;nschen, wie die n&auml;chsten vier Wochen
+   aussehen sollen. Die [Umfrage](https://forms.gle/d7bUP5ys61yRkSev6) ist bei
+   *google forms* und anonym und ohne Anmeldung. 
+
 {{% /alert %}}
 
 {{% alert note %}}
