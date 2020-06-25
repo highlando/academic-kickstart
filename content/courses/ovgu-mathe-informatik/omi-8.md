@@ -32,6 +32,17 @@ Das ist wieder eine dreiteilige Vorlesung
 
  * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:5H0uGjizYZx3).
 
+##  8-2 Normalbereiche und Transformationssatz
+
+### Vorlesung
+[das ganze als PNG](../files/8-2-lecture.png)
+
+{{< youtube 7qLIr4Zlsf4 >}}
+
+### Shownotes
+
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+
 <!--
 ## Wrapup Differenzierbarkeit
 

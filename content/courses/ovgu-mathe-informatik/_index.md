@@ -30,12 +30,12 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Mi: 17.06., 9:00 | Vorlesung 7.3 | [Differenzierbarkeit II (3/3)]({{< relref "omi-7/#7-3-hesse-matrix-definitheit-extrema-kompakte-mengen" >}}) |
-| :hourglass: Mi: 17.06., 10:15 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 | :boom: Fr: 19.06., 9:00 | Feedback Runde | Siehe unten :point_down: |
-| :boom: Mi: 24.06., 9:00 | Vorlesung 8.1 | [8 Integration 2 (1/3)]({{< relref "omi-8" >}}) |
-| :hourglass: Mi: 24.06., 10:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
-| Fr: 26.06., 9:00 | Vorlesung 3.1 | 8 Integration 2 (2/3) |
+| Mi: 24.06., 9:00 | Vorlesung 8.1 | [8 Integration 2 (1/3)]({{< relref "omi-8" >}}) |
+| :boom: Fr: 26.06., 9:00 | Vorlesung 8.2 | [8 Integration 2 (2/3)]({{< relref "omi-8/#8-2-normalbereiche-und-transformationssatz" >}}) |
+| :hourglass: Fr: 26.06., 14:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
+| Mi: 01.07., 9:00 | Vorlesung 8.1 | 8 Integration 2 (3/3) |
+| Mi: 01.07., 10:15 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
