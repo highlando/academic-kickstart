@@ -31,16 +31,22 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
 | :boom: Fr: 19.06., 9:00 | Feedback Runde | Siehe unten :point_down: |
-| Mi: 24.06., 9:00 | Vorlesung 8.1 | [8 Integration 2 (1/3)]({{< relref "omi-8" >}}) |
-| :boom: Fr: 26.06., 9:00 | Vorlesung 8.2 | [8 Integration 2 (2/3)]({{< relref "omi-8/#8-2-normalbereiche-und-transformationssatz" >}}) |
-| :hourglass: Fr: 26.06., 14:30 | :telephone_receiver: Sprechstunde | Optional, Anmeldung per Email oder Mattermost |
-| Mi: 01.07., 9:00 | Vorlesung 8.1 | 8 Integration 2 (3/3) |
-| Mi: 01.07., 10:15 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
+| Fr: 26.06., 9:00 | Vorlesung 8.2 | [8 Integration 2 (2/3)]({{< relref "omi-8/#8-2-normalbereiche-und-transformationssatz" >}}) |
+| 01.07., 9:00 | Totalausfall | wird aber kompensiert |
+| :boom: Mi: Fr: 03.07., 9:00 | Vorlesung 8.3 | [8 Integration 2 (3/3)]({{< relref "omi-8/#8-3-transformationssatz-und-polarkoordinaten" >}}) |
+| :hourglass: Mi: Fr: 03.07., 14:30 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
  -->
+
+{{% alert note %}}
+**Ausfall** Liebe Student'innen, die Vorlesung vom 01.07. f&auml;llt leider aus.
+Daf&uuml;r werde ich aber mir das Feedback zu Herzen nehmen und im Hinblick auf
+die Klausur eine extra Runde Beispiele pr&auml;sentieren und L&ouml;sungstechniken 
+pr&auml;sentieren.
+{{% /alert %}}
 
 {{% alert warning %}}
 

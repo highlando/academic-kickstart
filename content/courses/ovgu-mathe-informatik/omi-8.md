@@ -43,6 +43,21 @@ Das ist wieder eine dreiteilige Vorlesung
 
  * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
 
+## 8-3 Transformationssatz und Polarkoordinaten
+
+[das ganze als PNG](../files/8-3-lecture.png)
+
+{{< youtube PFTo1CXbVuc >}}
+
+### Shownotes
+
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+
+ * Die [Umkehrung der Transformation in Polarkoordinaten](https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten).
+ * Ein gegl&uuml;cktes Bild der Kugelkoordinaten:
+
+<a title="Ag2gaeh / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:Kugelkoord-def.svg"><img width="256" alt="Kugelkoord-def" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kugelkoord-def.svg/256px-Kugelkoord-def.svg.png"></a>
+
 <!--
 ## Wrapup Differenzierbarkeit
 

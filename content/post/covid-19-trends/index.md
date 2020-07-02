@@ -186,13 +186,13 @@ Since we look at the relative growth, so called *saturation effects* will make
 changes less visible. This happens in particular, with a high number of
 casualties but a low number of active cases. In the long run, exponential growth
 will still be visible, but also the short term dynamics are of interest. For
-example to spot the start of a *second wave*.
+example, to spot the start of a *second wave*.
 
 That's why the following plots consider the daily numbers for the last 40 days
 (leaving aside all cases that happened before)
-and show the logarithmic slopes and the casualties for the last 30 days. 
+and show the daily increase of the number casualties in percent for the last 30 days. 
  
-{{< figure src="lmslps-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties (counting from 40 days ago) for a number of countries and the total numbers for the last month.  The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries." lightbox="true" >}}
+{{< figure src="lmslps-dsifc.png" title="The daily change accumulated casualties (in percent, counting from 40 days ago) for a number of countries and the total numbers of casualties for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries." lightbox="true" >}}
 
 # Notes and Acknowledgements
 
