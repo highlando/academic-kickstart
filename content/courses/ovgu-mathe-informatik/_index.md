@@ -30,11 +30,12 @@ Informatik* im Sommersemester 2020 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Fr: 19.06., 9:00 | Feedback Runde | Siehe unten :point_down: |
 | Fr: 26.06., 9:00 | Vorlesung 8.2 | [8 Integration 2 (2/3)]({{< relref "omi-8/#8-2-normalbereiche-und-transformationssatz" >}}) |
-| 01.07., 9:00 | Totalausfall | wird aber kompensiert |
-| :boom: Mi: Fr: 03.07., 9:00 | Vorlesung 8.3 | [8 Integration 2 (3/3)]({{< relref "omi-8/#8-3-transformationssatz-und-polarkoordinaten" >}}) |
-| :hourglass: Mi: Fr: 03.07., 14:30 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
+| Mi: 01.07., 9:00 | Totalausfall | wird aber kompensiert |
+| Fr: 03.07., 9:00 | Vorlesung 8.3 | [8 Integration 2 (3/3)]({{< relref "omi-8/#8-3-transformationssatz-und-polarkoordinaten" >}}) |
+| Fr: 03.07., 14:30 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
+| Mi: 08.07., 10:00 | Cool down (1/2) | [Folgen und Stetigkeit]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
+| Fr: 10.07., 14:00 | Cool down (2/2) | [Differentiation und Integration]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
@@ -48,6 +49,7 @@ die Klausur eine extra Runde Beispiele pr&auml;sentieren und L&ouml;sungstechnik
 pr&auml;sentieren.
 {{% /alert %}}
 
+<!--
 {{% alert warning %}}
 
 **Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
@@ -67,6 +69,7 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
    *google forms* und anonym und ohne Anmeldung. 
 
 {{% /alert %}}
+-->
 
 {{% alert note %}}
 Die Neuanmeldung zum Paperhive Channel ist kaputt. Ich habe das den Entwicklern
