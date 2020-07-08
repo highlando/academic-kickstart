@@ -34,13 +34,20 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Mi: 01.07., 9:00 | Totalausfall | wird aber kompensiert |
 | Fr: 03.07., 9:00 | Vorlesung 8.3 | [8 Integration 2 (3/3)]({{< relref "omi-8/#8-3-transformationssatz-und-polarkoordinaten" >}}) |
 | Fr: 03.07., 14:30 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
-| Mi: 08.07., 10:00 | Cool down (1/2) | [Folgen und Stetigkeit]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
-| Fr: 10.07., 14:00 | Cool down (2/2) | [Differentiation und Integration]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
+| :boom: Mi: 08.07., 10:00 | Cool down (1/2) | [Folgen und Stetigkeit]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
+| :hourglass: Fr: 10.07., 14:00 | Cool down (2/2) | [Differentiation und Integration]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
  -->
+{{% alert note %}}
+Bez&uuml;glich **Sprechstunde**. In den Sessions am Mittwoch und Freitag -- und
+nat&uuml;rlich auch vorher und nachher im Chat -- d&uuml;rfen gerne auch
+allgemeine Fragen gestellt werden. Wer noch gerne eine pers&ouml;nlichere
+Sprechstunde m&ouml;chte schreibt mir bitte. Dann kann ich nach Bedarf noch eine
+aufsetzen.
+{{% /alert %}}
 
 {{% alert note %}}
 **Ausfall** Liebe Student'innen, die Vorlesung vom 01.07. f&auml;llt leider aus.

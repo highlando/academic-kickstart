@@ -24,8 +24,21 @@ Plus ein Bonus mit vorgerechneten Beispielen
 
 [das ganze (vorab) als PNG](../files/cool-down-1.png)
 
-[Youtube live ++ Mittwoch 8. Juli ++ 10:00 Uhr](https://www.youtube.com/c/JanHeiland/live)
+[der letzte Teil ausgef&uuml;llt](../files/cool-down-1-2.png)
 
+### Die Videos
+
+ * Part 1 -- Folgen
+
+{{< youtube o6fc0mRH_hk >}}
+
+ * Part 2 -- Konvergenz von Folgen
+
+{{< youtube eZIpMUFEDZU >}}
+
+ * Part 3 -- Stetigkeit]
+
+{{< youtube d7ccwQ7i4pQ >}}
 
 ## 2 Differentiation und Integration
 
