@@ -34,8 +34,9 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | Mi: 01.07., 9:00 | Totalausfall | wird aber kompensiert |
 | Fr: 03.07., 9:00 | Vorlesung 8.3 | [8 Integration 2 (3/3)]({{< relref "omi-8/#8-3-transformationssatz-und-polarkoordinaten" >}}) |
 | Fr: 03.07., 14:30 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
-| :boom: Mi: 08.07., 10:00 | Cool down (1/2) | [Folgen und Stetigkeit]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
-| :hourglass: Fr: 10.07., 14:00 | Cool down (2/2) | [Differentiation und Integration]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
+| Mi: 08.07., 10:00 | Cool down (1/2) | [Folgen und Stetigkeit]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
+| :boom: Fr: 10.07., 14:00 | Cool down (2/2) | [Differentiation und Integration]({{< relref "omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
+| :boom: :boom: :boom: Di: 14.07., 12:00 | Klausur | [Messehalle](https://www.inf.ovgu.de/inf_media/Pr%C3%BCfungsdokumente/Pr%C3%BCfungsplan/Pruefungsplan_IF_BWL_SS20_4_FIN-p-8854.pdf) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
