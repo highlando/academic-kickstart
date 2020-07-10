@@ -42,7 +42,12 @@ Plus ein Bonus mit vorgerechneten Beispielen
 
 ## 2 Differentiation und Integration
 
-[Youtube live ++ Freitag 10. Juli ++ 14:00 Uhr](https://www.youtube.com/c/JanHeiland/live)
+[das ganze (vorab) als PNG](../files/cool-down-2.png)
+[und alles ausgef&uuml;llt](../files/cool-down-2-1.png)
+
+### Screencast
+
+{{< youtube lt0oN7HGvcg >}}
 
 ## 3 Beispiele
 
