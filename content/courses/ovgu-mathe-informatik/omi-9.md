@@ -51,6 +51,8 @@ Plus ein Bonus mit vorgerechneten Beispielen
 
 ## 3 Beispiele
 
-Bitte W&uuml;nsche &auml;u&szlig;ern im Mattermost.
+ * Grenzwert einer Funktion mit mehreren Ver&auml;nderlichen
+ * Taylorreihe und Restglied
+ * das ganze als PNG](../files/cool-down-3.png)
 
-Erscheint dann sp&auml;testens am Samstag.
+{{< youtube bnRdkrX8j5Q >}}
