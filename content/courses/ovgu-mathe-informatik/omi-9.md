@@ -53,6 +53,6 @@ Plus ein Bonus mit vorgerechneten Beispielen
 
  * Grenzwert einer Funktion mit mehreren Ver&auml;nderlichen
  * Taylorreihe und Restglied
- * das ganze als PNG](../files/cool-down-3.png)
+ * [das ganze als PNG](../files/cool-down-3.png)
 
 {{< youtube bnRdkrX8j5Q >}}
