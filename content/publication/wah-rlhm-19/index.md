@@ -7,7 +7,6 @@ abstract: "We propose a fluid-rigid body interaction benchmark problem, consisti
 featured: false
 publication: "*Computers & Fluids*"
 tags: ["Benchmarking", "Computational fluid dynamics", "Fluid–structure interaction", "Finite Elements", "Code validation", "Reference values", "dns.py"]
-url_pdf: "http://www.sciencedirect.com/science/article/pii/S0045793019302531"
 doi: "10.1016/j.compfluid.2019.104290"
 links:
 - name: Preprint
