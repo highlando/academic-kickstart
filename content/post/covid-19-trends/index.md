@@ -136,12 +136,17 @@ in an intensive care unit.
  
 # The Actual Numbers
 
-As of the date indicated in the plots, the JHU data delivers the following numbers.
-We plot the logarithmic slopes for several countries for the last 80 days.
+We use the JHU for the last 100 days and plot the slopes for the last 90 days.
+The moving horizon of 100 days makes the changes of the last 3 months better visible.
+By plotting only 90 days, we omit a part of the wiggly behavior in the start of
+the data (which however is not relevant for the main part).
+
+## The last 100 days
+
 See the [pdf file](slopes-dsifc.pdf) for more countries and a better resolution
 of the plots.
 
-{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
+{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
 
 <!-- ## Explanations of the Data Representation
 
@@ -155,6 +160,7 @@ plots to fit all outliers, since then the interesting parts of the curve will be
 less well resolved. On the other hand, the plot range of China :cn: is
 adjusted to better resolve the small numbers. -->
 
+<!--
 ## Some Interpretation of the JHU Data
 
 As of today, one may say that:
@@ -179,6 +185,7 @@ The plots are updated every day.
    phase of exponential growth if compared to Spain) 
  * And the starting points are different which gives a hint on when the outbreak
    became visible in the different countries.
+-->
 
 ## The last 30 days
 

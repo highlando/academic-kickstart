@@ -28,6 +28,10 @@ links:
   url: 'https://github.com/highlando/dolfin_navier_scipy'
 - name: Documentation
   url: 'http://dolfin-navier-scipy.readthedocs.org/en/latest/index.html'
+- name: DOI
+  url: https://doi.org/10.5281/zenodo.3238622
+- name: PyPI
+  url: https://pypi.org/project/dolfin-navier-scipy/1.0.0/
 
 url_code: ""
 url_pdf: ""
@@ -48,9 +52,6 @@ A Python package that provides an interface between *scipy* and *FEniCS* in view
 
  * modelling of control and observation
  * second order time integration with explicit treatment of the nonlinearities
-
-## Related Publications
-Check the tag [`dns.py`](../../tags/dns.py/) to see related content.
 
 ## Video
 
