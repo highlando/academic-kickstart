@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2020-04-11T16:01:00+02:00
 
 authors: [Jan Heiland, Peter Benner]
-tags: []
+tags: ["BenH20"]
 
 # Is this a featured talk? (true/false)
 featured: false

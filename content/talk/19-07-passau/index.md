@@ -18,7 +18,7 @@ location = "University of Passau"
 
 # Name of event and optional event URL.
 event = "Research Visit at the Chair for Dynamical Systems"
-event_url = "http://www.fim.uni-passau.de/en/dynamical-systems/welcome/"
+event_url = "https://www.fim.uni-passau.de/dynamische-systeme/gaeste/"
 
 # Abstract. What's your talk about?
 abstract = ""

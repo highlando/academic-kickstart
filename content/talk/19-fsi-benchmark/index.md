@@ -3,7 +3,7 @@
 
 title: A benchmark for fluid rigid body interaction with standard CFD packages
 event: GAMM CSE Workshop
-event_url: https://www.uni-ulm.de/mawi/mawi-numerik/forschung/gamm-cse-workshop-2019/program-book-of-abstracts/
+event_url: https://www.uni-ulm.de/mawi/institut-fuer-numerische-mathematik/forschung/gamm-cse-workshop-2019/
 location: G&uuml;nzburg
 summary: A fluid rigid body benchmark case in a fixed domain
 abstract: This talk presents a setup that we have designed to particularly investigate the effects regarding the free rotation of a spherical object in a flow channel in 2D and 3D.
