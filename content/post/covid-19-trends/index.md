@@ -3,7 +3,7 @@
 
 title: "Trends in Covid-19 Spread"
 subtitle: ""
-summary: "How the daily changes in the casualties may indicate whether the virus is on the decline."
+summary: "How the daily changes in the cases may indicate whether the virus is on the decline."
 authors: [Jan Heiland]
 tags: []
 categories: []
@@ -74,34 +74,37 @@ represent it in an accessible form that allows easy comparisons.
 
 # The Analysis
 
-We examine the (logarithmic) slope of the curves of the accumulated casualties
-per day.  That is for day `d` and the day `d-1` before that day, we plot `log2(x[d]) -
+We examine the (logarithmic) slope of the curves of the accumulated cases
+per day.  That is for day `d` and the day `d-1` before that day, we look at `log2(x[d]) -
 log2(x[d-1])`, where `x` holds the number of accumulated deaths for every day
 and where `log2` is a function that computes the logarithm of a number with
 respect to the basis[^4] `2`. 
 
+The resulting slope is exactly the daily increase in the number of cases in
+relation to the overall number of cases. As this is easier to interprete,
+we translate the slopes into the daily increase in percent.
 
 ## Illustrative Examples
 
 To make sense of the numbers, we start with some example scenarios. In the plot
 below, we have plotted the values for some *fictitious* growth scenarios.
 
- * An exponential growth -- every day `d` the number of additional casualties is
+ * An exponential growth -- every day `d` the number of additional cases is
    `1.1**d` (*speak: `1.1` to the power of `d` and think of a daily increase by
    10%*). This scenario leads to a constant value in the plots of around `0.14`.
 
- * A constant growth -- every day another `10` casualties are added. This is
+ * A constant growth -- every day another `10` cases are added. This is
    like the number of daily deaths due to traffic incidents in Germany[^1] in 2010.
 
  * A growth that decreases exponentially -- every day the number of additional
-   casualties gets smaller exponentially.
+   cases gets smaller exponentially.
 
-{{< figure src="slopes-examples.png" title="The slopes of a logarithmic plot of the accumulated casualties for the example scenarios" lightbox="true" >}}
+{{< figure src="slopes-examples.png" title="The daily increase of the accumulated cases for the example scenarios" lightbox="true" >}}
 
 ## General Explanations of the Numbers
 
  * A **constant** value means that the number of deaths grows exponentially. 
-   * If this constant is **1**, this means that the numbers of casualties
+   * If this constant is **1**, this means that the numbers of cases
      **doubles** every day.
    * A value of about **0.5** means a daily plus of **40%**.
  * A **decreasing** curve indicates that the exponential growth of seriously
@@ -118,7 +121,7 @@ spread would look like, we ran two simulations in a covid simulator[^2].
     hospitalized patients that require intensive care (ICU) was always below
     45000. 
 
-{{< figure src="slopes-icus-simulation.png" title="The slopes of a logarithmic plot of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days." lightbox="true" >}}
+{{< figure src="slopes-icus-simulation.png" title="The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days." lightbox="true" >}}
 
 In the uncontrolled case, exponential growth is detected with a slope of about
 0.18. After some time, when most people have been infected the, growth decreases
@@ -146,7 +149,7 @@ the data (which however is not relevant for the main part).
 See the [pdf file](slopes-dsifc.pdf) for more countries and a better resolution
 of the plots.
 
-{{< figure src="slopes-dsifc.png" title="The slopes of a logarithmic plot of the accumulated casualties (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
+{{< figure src="slopes-dsifc.png" title="The daily increase of the accumulated cases (of the last 100 days) for a number of countries. The colored background marks the days where the number of deaths was below 100, 300, 900, 2700, 8100, 24300, ..., respectively. The total number is the number of deaths in the last 100 days. The first 6 countries are always shown. The other 2 countries change occasionally. See the [pdf](slopes-dsifc.pdf) for all countries." lightbox="true" >}}
 
 <!-- ## Explanations of the Data Representation
 
@@ -191,22 +194,23 @@ The plots are updated every day.
 
 Since we look at the relative growth, so called *saturation effects* will make
 changes less visible. This happens in particular, with a high number of
-casualties but a low number of active cases. In the long run, exponential growth
+cases but a low number of active cases. In the long run, exponential growth
 will still be visible, but also the short term dynamics are of interest. For
 example, to spot the start of a *second wave*.
 
 That's why the following plots consider the daily numbers for the last 40 days
 (leaving aside all cases that happened before)
-and show the daily increase of the number casualties in percent for the last 30 days. 
+and show the daily increase of the number cases in percent for the last 30 days. 
  
-{{< figure src="lmslps-dsifc.png" title="The daily change accumulated casualties (in percent, counting from 40 days ago) for a number of countries and the total numbers of casualties for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries." lightbox="true" >}}
+{{< figure src="lmslps-dsifc.png" title="The daily change accumulated cases (in percent, counting from 40 days ago) for a number of countries and the total numbers of cases for the last month. The first 5 countries are always shown. The other 3 countries change occasionally. See the [pdf](lmslps-dsifc.pdf) for all countries." lightbox="true" >}}
 
 # Notes and Acknowledgements
 
-### On the data
+<!-- ### On the data
 Certainly, the casualties lag[^3] behind the actual spreading of the virus by a
 number of days. However, one may think that numbers of casualties are a more
 reliable data point than the number of infected.
+-->
 
 ### Disclaimer
 This analysis is purely based on empirical trends. No statistical data analysis
