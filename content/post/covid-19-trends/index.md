@@ -104,10 +104,10 @@ below, we have plotted the values for some *fictitious* growth scenarios.
 ## General Explanations of the Numbers
 
  * A **constant** value means that the number of deaths grows exponentially. 
-   * If this constant is **1**, this means that the numbers of cases
-     **doubles** every day.
-   * A value of about **0.5** means a daily plus of **40%**.
- * A **decreasing** curve indicates that the exponential growth of seriously
+   * If this constant is **10**[%], this means that the numbers of cases
+     **doubles** every week.
+   * A value of about **7**[%], means a doubling every 10 days.
+ * A **decreasing** curve indicates that the exponential growth of
    infected people is stalled or reversed.
  * If the value approaches **0**, this indicates that the virus is contained.
 
@@ -123,12 +123,12 @@ spread would look like, we ran two simulations in a covid simulator[^2].
 
 {{< figure src="slopes-icus-simulation.png" title="The daily increase of the accumulated casualties and the numbers of people in need for intensive care due to an infection by COVID-19 for the simulated scenarios. The kink in the red curve is due to the stop of some interventions after 205 days." lightbox="true" >}}
 
-In the uncontrolled case, exponential growth is detected with a slope of about
-0.18. After some time, when most people have been infected the, growth decreases
+In the uncontrolled case, exponential growth is detected with a rate of
+15[%] of daily increase. After some time, when most people have been infected the, growth decreases
 down to zero. 
 
 In the controlled scenario, the rate is brought down in the initial phase. Then,
-exponential growth happens at a lower rate (in the plot the value is about 0.07)
+exponential growth happens at a lower rate (in the plot the value is about 5[%])
 though for a longer time before it fades out.
 
 To relate the slopes to the actual cases, in a second plot, we display the
