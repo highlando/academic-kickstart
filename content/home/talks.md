@@ -65,12 +65,15 @@ subtitle = "Workshops&Visits"
  css_class = ""
 +++
 
-### 2020 -- Meet me at the following occasions:
+### 2021 -- Meet me at the following occasions:
 
 | Date | Occasion | Location |
-| -----: | ------ | --- |
-| Feb 01 -- Mar 15 | Visiting Professor at the [CMC at Deusto](https://cmc.deusto.eus/) invited by Enrique Zuazua and the [ERC DyCon Project](https://cmc.deusto.eus/dycon/) | Bilbao, Spain |
-| May 12 -- May 15 | [ECC](https://ecc20.eu/) - European Control Conference | Saint Petersburg, Russia but virtual|
+| ------: | ------ | --- |
+| Mar 15 -- Mar 19 | [GAMM Annual Meeting](https://jahrestagung.gamm-ev.de/) | Kassel | 
+| Jul 6 -- Jul 9 | [Viennese Conference on Optimal Control and Dynamic Games](https://orcos.tuwien.ac.at/events/vc2021) | Vienna, Austria | 
+| Jul 19 -- Jul 23 | [SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an21) and [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct21) | Spokane, US |
+| Jul 25 -- Jul 27 | [U.S. National Congress on Computational Mechanics](http://16.usnccm.org/) | Chicago, US |
+
 
 See [previous conferences and visits]({{< ref "events/pastconfs/index.md" >}})
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Non-intrusive Time Galerkin POD for Optimal Control of a Fixed-Bed Reactor
-  for CO${} _ 2$ Methanation
+  for CO2 Methanation
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 - Kai Sundmacher
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2020-01-01'
 lastmod: 2020-11-22T12:16:09+01:00
 featured: false
 draft: false

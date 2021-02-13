@@ -1,7 +1,7 @@
 ---
 title: Past Conferences and Events
 summary: My conferences and visits from the past years.
-date: "2020-01-07T13:00:00+02:00"
+date: "2021-01-31T13:00:00+02:00"
 
 authors: ["admin"]
 profile: false
@@ -9,6 +9,14 @@ share: false
 ---
 
 {{% toc %}}
+
+
+# 2020 
+
+| Date | Occasion | Location |
+| -----: | ------ | --- |
+| Feb 01 -- Mar 15 | Visiting Professor at the [CMC at Deusto](https://cmc.deusto.eus/) invited by Enrique Zuazua and the [ERC DyCon Project](https://cmc.deusto.eus/dycon/) | Bilbao, Spain |
+| May 12 -- May 15 | [ECC](https://ecc20.eu/) - European Control Conference | Saint Petersburg, Russia but virtual|
 
 # 2019
 
