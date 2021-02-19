@@ -47,16 +47,18 @@ subtitle = ""
  css_class = ""
 +++
 
-## Current Course (Summer Term 2020)
+## Current Course (Summer Term 2021)
 
 | Topic | Location | |
 | ----- | ------ | --- |
-| Lecture: [Mathematik 2 f&uuml;r Informatik]({{< ref "/courses/ovgu-mathe-informatik" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
+| Lecture: [Differential-Algebraic Equations]({{< ref "/courses/ovgu-daes" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF-tbd](https://lsf.ovgu.de/) |
+| Lecture: [Mathematik 2 f&uuml;r Informatik]({{< ref "/courses/ovgu-mathe-informatik" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF-tbd](https://lsf.ovgu.de/) |
 
 ## Previous Courses
 
 | Topic | Occasion | |
 | ----- | ------ | --- |
+| Lecture: Mathematik 2 f&uuml;r Informatik | Summer term 2020 at the OVGU |
 | Seminar: [Geometric formulations of inviscid fluids and their discretization](http://janheiland.de/19-geometric-fluids-discretization/) (with [C. Lessig](http://graphics.cs.uni-magdeburg.de/)) | Winter term 2019 at OVGU | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=148544) |
 | Seminar: [Geometric formulations of inviscid fluids and their discretization](http://janheiland.de/19-geometric-fluids-discretization/) (with [C. Lessig](http://graphics.cs.uni-magdeburg.de/)) | Summer term 2019 at OVGU | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=141052) |
 | Lecture: [*Differential-algebraic Equations*: an introduction to the theoretical and numerical treatment of DAEs](http://janheiland.de/18-dae-course-ovgu/) | Winter term 2018 at OVGU | [Script](http://janheiland.de/script-daes/) <br> [Paperhive](https://paperhive.org/channels/invitationLink?token=Rnz0EW4CHT70) |
