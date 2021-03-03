@@ -46,7 +46,7 @@ If needed and if everyone is OK with that, I can hold the lecture in English.
 
 # Links
 
- * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+ * [LSF (tbd)](https://lsf.ovgu.de)
  * :blue_book: [Vorlesungsskript](https://www.janheiland.de/script-daes/index.html) -- das wird noch live komplettiert im Laufe der Vorlesung
  * [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/town-square) -- den
    Einladungslink gibt's dann.
