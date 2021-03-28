@@ -56,9 +56,9 @@ and its numerical approximation using
  2. a POD reduction of the FEM model, and
  3. a DMD reduced order model.
 
-{{% alert note %}}
+{{% callout note %}}
 Check [`burgers.py`](burgers.py) for the presented code (and more) in one file.
-{{% /alert  %}}
+{{% /callout  %}}
 
 # 0. The Setup
 

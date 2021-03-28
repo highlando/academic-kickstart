@@ -66,6 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 Browse and filter [all publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}

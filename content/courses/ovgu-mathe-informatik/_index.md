@@ -40,16 +40,16 @@ Informatik* im Sommersemester 2020 an der OVGU.
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
  -->
-{{% alert note %}}
+{{% callout note %}}
 Bez&uuml;glich **Sprechstunde**. In den Sessions am Mittwoch und Freitag -- und
 nat&uuml;rlich auch vorher und nachher im Chat -- d&uuml;rfen gerne auch
 allgemeine Fragen gestellt werden. Wer noch gerne eine pers&ouml;nlichere
 Sprechstunde m&ouml;chte schreibt mir bitte. Dann kann ich nach Bedarf noch eine
 aufsetzen.
-{{% /alert %}}
+{{% /callout %}}
 
 <!--
-{{% alert warning %}}
+{{% callout warning %}}
 
 **Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
 f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
@@ -67,7 +67,7 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
    aussehen sollen. Die [Umfrage](https://forms.gle/d7bUP5ys61yRkSev6) ist bei
    *google forms* und anonym und ohne Anmeldung. 
 
-{{% /alert %}}
+{{% /callout %}}
 -->
 
 # Links

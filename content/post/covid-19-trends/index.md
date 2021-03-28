@@ -176,9 +176,9 @@ As of today, one may say that:
  * In *Germany* :de:, in this phase, the rates were lower than in the countries
    mentioned above.
 
-{{% alert note %}}
+{{% callout note %}}
 The plots are updated every day.
-{{% /alert  %}}
+{{% /callout  %}}
 
 ## Other Things that can be Seen
 

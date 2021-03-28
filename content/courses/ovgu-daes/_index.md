@@ -32,17 +32,17 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 | :boom: Mo: 06.04., 6:00 | Beginn der Vorlesungszeit | Erscheint hier dann rechtzeitig |
 | :boom: Fr: 10.04., 14:00 | Wrap Up | Zusammenfassung im Live-Video-Chat mit R&uuml;ckkanal im Mattermost |
 
-{{% alert note %}}
+{{% callout note %}}
 Bez&uuml;glich **Sprechstunde**. In den Sessions -- und
 nat&uuml;rlich auch vorher und nachher im Chat -- d&uuml;rfen gerne auch
 allgemeine Fragen gestellt werden. Wer noch gerne eine pers&ouml;nlichere
 Sprechstunde m&ouml;chte schreibt mir bitte. Dann kann ich nach Bedarf noch eine
 aufsetzen.
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert warning %}}
+{{% callout warning %}}
 If needed and if everyone is OK with that, I can hold the lecture in English.
-{{% /alert %}}
+{{% /callout %}}
 
 # Links
 
