@@ -74,11 +74,11 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
 
 # Links
 
- * [LSF - TBA]()
+ * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=173827&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
  * [Übungsblätter/Google Cloud - TBA]()
  * [Moodle - TBA]()
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
- * [Paperhive Channel -- DEMA](https://paperhive.org/documents/items/-ewT2uXlFA5i) -- den Einladungslink zum kommentierbaren Skript gibt's dann im Moodle.
+ * [Paperhive Channel -- DEMO](https://paperhive.org/documents/items/-ewT2uXlFA5i) -- den Einladungslink zum kommentierbaren Skript gibt's dann im Moodle.
  * [Mattermost - TBA]() -- den Einladungslink gibt's dann im Moodle.
  * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)

@@ -29,8 +29,8 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Mo: 06.04., 6:00 | Beginn der Vorlesungszeit | Erscheint hier dann rechtzeitig |
-| :boom: Fr: 10.04., 14:00 | Wrap Up | Zusammenfassung im Live-Video-Chat mit R&uuml;ckkanal im Mattermost |
+| :boom: Di: 06.04., 6:00 | Beginn der Vorlesungszeit | Erscheint hier dann rechtzeitig |
+| :boom: Fr: 09.04., 13:00 | Wrap Up | Zusammenfassung im Live-Video-Chat mit R&uuml;ckkanal im Mattermost |
 
 {{% callout note %}}
 Bez&uuml;glich **Sprechstunde**. In den Sessions -- und
@@ -46,11 +46,11 @@ If needed and if everyone is OK with that, I can hold the lecture in English.
 
 # Links
 
- * [LSF (tbd)](https://lsf.ovgu.de)
+ * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=174973&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
  * :blue_book: [Vorlesungsskript](https://www.janheiland.de/script-daes/index.html) -- das wird noch live komplettiert im Laufe der Vorlesung
- * [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/town-square) -- den
-   Einladungslink gibt's dann.
- * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
+ * [Mattermost](https://matter.math.uni-magdeburg.de/daes) -- den
+   Einladungslink gibt's in der ersten Mail oder immer auf Anfrage.
+ * Video Chat Room(s)[^1] -- [[BBB-1]](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) -- [[BBB-2]](https://bbba.mpi-magdeburg.mpg.de/b/jan-pyw-fhc)
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
 
 # Hinweise
@@ -59,7 +59,7 @@ If needed and if everyone is OK with that, I can hold the lecture in English.
 
  * Montags um 09:00 werden neue Kapitel der Vorlesung hier
    hochgeladen oder verlinkt. Das werden pro Vorlesung 3-4 Videos sein und Anweisungen zum selbstst&auml;ndigen Lesen des Skriptes oder begleitender Literatur.
- * Freitags von 14:30-15:00 gibt es eine live Zusammenfassung der Wocheninhalte
+ * Freitags oder zu einer passenderen Zeit gibt es eine live Zusammenfassung der Wocheninhalte
    und die M&ouml;glichkeit zur Diskussion im **Video Chat**.
 
 ## Sprechstunde
@@ -78,3 +78,5 @@ If needed and if everyone is OK with that, I can hold the lecture in English.
 Ist noch von meiner Vorlesung im letzten Jahr -- aber so seh ich aus.
 
 {{< youtube 0GnvZqdf9x0 >}}
+
+[^1]: BBB-1 ist der Standardraum -- wenn es Probleme gibt wechseln wir in BBB-2

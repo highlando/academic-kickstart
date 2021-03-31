@@ -51,7 +51,7 @@ subtitle = ""
 
 | Topic | Location | |
 | ----- | ------ | --- |
-| Lecture: [Differential-Algebraic Equations]({{< ref "/courses/ovgu-daes" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF-tbd](https://lsf.ovgu.de/) |
+| Lecture: [Differential-Algebraic Equations]({{< ref "/courses/ovgu-daes" >}}) | online <br> Mo 9-11 <br> tbd |  [LSF-tbd](https://lsf.ovgu.de/) |
 | Lecture: [Mathematik 2 f&uuml;r Informatik]({{< ref "/courses/mathe2info-21" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF-tbd](https://lsf.ovgu.de/) |
 
 ## Previous Courses
