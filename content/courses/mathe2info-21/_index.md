@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Mathematik 2 für Informatik
 date: "2020-04-03T00:00:00Z"
-lastmod: "2020-04-08T00:00:00Z"
+lastmod: "2021-04-01T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -28,27 +28,17 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 # Aktuelles
 
-Das ist noch vom letzten Durchgang -- aber hier gibt es immer die aktuellen Ank&uuml;ndigungen und Links.
-
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Fr: 03.07., 9:00 | Vorlesung 8.3 | [8 Integration 2 (3/3)]({{< relref "../ovgu-mathe-informatik/omi-8/#8-3-transformationssatz-und-polarkoordinaten" >}}) |
-| Fr: 03.07., 14:30 | Live-Wrapup Vorlesung 8 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/8-wrapup-int2) |
-| Mi: 08.07., 10:00 | Cool down (1/2) | [Folgen und Stetigkeit]({{< relref "../ovgu-mathe-informatik/omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
-| :boom: Fr: 10.07., 14:00 | Cool down (2/2) | [Differentiation und Integration]({{< relref "../ovgu-mathe-informatik/omi-9" >}}) - [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/cool-down) |
-| :boom: :boom: :boom: Di: 14.07., 12:00 | Klausur | [Messehalle](https://www.inf.ovgu.de/inf_media/Pr%C3%BCfungsdokumente/Pr%C3%BCfungsplan/Pruefungsplan_IF_BWL_SS20_4_FIN-p-8854.pdf) |
+| :boom: :boom: Mi: 07.04., 09:00 | 1. Vorlesung | wird dann aktiviert |
+| :boom: Mi: 07.04., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
- -->
 {{% callout note %}}
-Bez&uuml;glich **Sprechstunde**. In den Sessions am Mittwoch und Freitag -- und
-nat&uuml;rlich auch vorher und nachher im Chat -- d&uuml;rfen gerne auch
-allgemeine Fragen gestellt werden. Wer noch gerne eine pers&ouml;nlichere
-Sprechstunde m&ouml;chte schreibt mir bitte. Dann kann ich nach Bedarf noch eine
-aufsetzen.
 {{% /callout %}}
+ -->
 
 <!--
 {{% callout warning %}}
@@ -79,9 +69,9 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
  * [Moodle - TBA]()
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * [Paperhive Channel -- DEMO](https://paperhive.org/documents/items/-ewT2uXlFA5i) -- den Einladungslink zum kommentierbaren Skript gibt's dann im Moodle.
- * [Mattermost - TBA]() -- den Einladungslink gibt's dann im Moodle.
+ * [Mattermost](https://mm.cs.ovgu.de/m2i-21) -- den Einladungslink gibt's dann im Moodle.
  * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
- * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ)
+ * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ) -- bitte ggf. die Vorlesung benennen (weil ich noch eine andere Vorlesung habe)
 
 # Hinweise
 
