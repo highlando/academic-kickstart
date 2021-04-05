@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 
 menu:
   ovgu-daes:
-    name: Übersicht
+    name: Overview
     weight: 1
 
 ---
