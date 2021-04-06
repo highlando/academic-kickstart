@@ -29,7 +29,7 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 06.04., 6:00 | Beginn der Vorlesungszeit | Erscheint hier dann rechtzeitig |
+| :boom: Di: 06.04., 6:00 | Beginn der Vorlesungszeit |[Introduction]({{< relref "daes-1" >}}) |
 | :boom: Fr: 09.04., 13:00 | Wrap Up | Zusammenfassung im Live-Video-Chat mit R&uuml;ckkanal im Mattermost |
 
 {{% callout note %}}
@@ -58,7 +58,7 @@ If needed and if everyone is OK with that, I can hold the lecture in English.
 ## Vorlesungen
 
  * Montags um 09:00 werden neue Kapitel der Vorlesung hier
-   hochgeladen oder verlinkt. Das werden pro Vorlesung 3-4 Videos sein und Anweisungen zum selbstst&auml;ndigen Lesen des Skriptes oder begleitender Literatur.
+   hochgeladen oder verlinkt. Das werden pro Vorlesung 1-2 Videos sein und Anweisungen zum selbstst&auml;ndigen Lesen des Skriptes oder begleitender Literatur.
  * Freitags oder zu einer passenderen Zeit gibt es eine live Zusammenfassung der Wocheninhalte
    und die M&ouml;glichkeit zur Diskussion im **Video Chat**.
 
