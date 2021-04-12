@@ -45,7 +45,7 @@ links:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 
 url_code:
-url_pdf: "talk/20-mathcore-covid/Grundel-Heiland-mathcore-cv19.pdf"
+url_pdf: "event/20-mathcore-covid/Grundel-Heiland-mathcore-cv19.pdf"
 url_video:
 
 # Markdown Slides (optional).
