@@ -2,5 +2,5 @@ public/
 .idea/
 resources/
 config/_default/the-newest*
-
-
+go.mod
+go.sum
