@@ -17,6 +17,7 @@ weight: 3
 ## 2-1 Eigenschaften und Beispiele von Funktionen
 
 ### Vorlesung
+
 <div id="pc-lecture-2-1"></div>
 
 ### Shownotes
