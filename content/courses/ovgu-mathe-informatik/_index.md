@@ -73,7 +73,6 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
 # Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=154905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
- * [Übungsblätter/Google Cloud](https://drive.google.com/open?id=1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
  * [Moodle](https://elearning.ovgu.de/course/view.php?id=7691)
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * [Paperhive Channel](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=p:61) -- den Einladungslink gibt's im Moodle.
