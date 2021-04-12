@@ -22,8 +22,8 @@ weight: 3
 
 ### Shownotes
 
- * [Kapitel 12 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:cjsQ71YoKehx).
- * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * [Kapitel 12 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:dUtyovpIkpJ3).
+ * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1PpHf5VZYkwFaCkHNQ2Uu3O9DM7WVOI8V?usp=sharing)
 
 <!--
 ### Wrapup (Part 2.1)
