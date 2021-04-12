@@ -13,8 +13,7 @@ address:
   country:
 summary: "Design of linear controllers and practical realization for the triple
 pendulum."
-abstract: "The stabilization of a simple pendulum in the upright equilibrium is a common control task and can be realized with basic algorithms and basic hardware like Lego Mindstorm. The double pendulum is a popular example for a chaotic system which means that the influence of small perturbations leads to unpredictable behavior. Still, linear feedback controllers that counteract perturbations in real time are capable to stabilize equilibria of a double pendulum as well as trajectories. For the control of a triple pendulum, the same linear theory applies. The third segment, however, adds additional technical difficulties that need to be tackled with powerful hardware. <br>
-In this talk, I will explain the principles of a linearization based 2-degrees of freedom controller design which is the combination of a feedforward control that prescribes a target trajectory and a feedback loop for stabilization of the system. For the nonlinear mathematical model of a triple pendulum, already the computation of the target trajectory and the feedforward control is a challenge. Further, I will discuss details of the implementation and practical problems that come with a physical setup."
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,3 +67,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+## Abstract
+
+The stabilization of a simple pendulum in the upright equilibrium is a common control task and can be realized with basic algorithms and basic hardware like Lego Mindstorm. The double pendulum is a popular example for a chaotic system which means that the influence of small perturbations leads to unpredictable behavior. Still, linear feedback controllers that counteract perturbations in real time are capable to stabilize equilibria of a double pendulum as well as trajectories. For the control of a triple pendulum, the same linear theory applies. The third segment, however, adds additional technical difficulties that need to be tackled with powerful hardware.
+
+In this talk, I will explain the principles of a linearization based 2-degrees of freedom controller design which is the combination of a feedforward control that prescribes a target trajectory and a feedback loop for stabilization of the system. For the nonlinear mathematical model of a triple pendulum, already the computation of the target trajectory and the feedforward control is a challenge. Further, I will discuss details of the implementation and practical problems that come with a physical setup.

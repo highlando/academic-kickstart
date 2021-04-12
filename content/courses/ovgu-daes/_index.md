@@ -30,7 +30,7 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
 | :boom: Di: 06.04., 6:00 | Beginn der Vorlesungszeit |[Introduction]({{< relref "daes-1" >}}) |
-| :boom: Fr: 09.04., 13:00 | Wrap Up | Zusammenfassung im Live-Video-Chat mit R&uuml;ckkanal im Mattermost |
+| :boom: Fr: 15:00 | Wrap Up | Zusammenfassung im BBB-1 |
 
 {{% callout note %}}
 Bez&uuml;glich **Sprechstunde**. In den Sessions -- und

@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 
 menu:
-  mathe2info21:
+  mathe2info-21:
     name: Übersicht
     weight: 1
 
@@ -30,17 +30,21 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: :boom: Mi: 07.04., 09:00 | 1. Vorlesung | wird dann aktiviert |
-| :boom: Mi: 07.04., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
+| Fr: 09.04., 9:00 | Vorlesung 1.2 | [1-2 Folgen und Reihen]({{< relref "omi-1/#1-2-reihen" >}}) |
+| Fr: 09.04., 14:30 | Live-Wrapup Vorlesung 1 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
+| :hourglass: :dvd: Mi: 14.04., 09:00 | Vorlesung 2-1 | Stetigkeit von Funktionen -- wird dann verlinkt |
+| :microphone: Mi: 14.04., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
-{{% callout note %}}
-{{% /callout %}}
- -->
+-->
 
 <!--
+{{% callout warning %}}
+Die Übungen sind geplant: 5 Termine &uuml;ber Zoom. Links im Moodle.
+{{% /callout %}}
+
 {{% callout warning %}}
 
 **Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
@@ -65,11 +69,11 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
 # Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=173827&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
- * [Übungsblätter/Google Cloud - TBA]()
- * [Moodle - TBA]()
+ * [Übungsblätter/Google Cloud](https://drive.google.com/drive/folders/1PpHf5VZYkwFaCkHNQ2Uu3O9DM7WVOI8V?usp=sharing) -- Abgabe im Moodle.
+ * [Moodle - elearning](https://elearning.ovgu.de/course/view.php?id=10324)
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
- * [Paperhive Channel -- DEMO](https://paperhive.org/documents/items/-ewT2uXlFA5i) -- den Einladungslink zum kommentierbaren Skript gibt's dann im Moodle.
- * [Mattermost](https://mm.cs.ovgu.de/m2i-21) -- den Einladungslink gibt's dann im Moodle.
+ * [Kommentierbares Script im Paperhive Channel](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:-FRs-O1uXbei) -- den Einladungslink gibt's im Moodle.
+ * [Mattermost](https://mm.cs.ovgu.de/m2i-21) -- den Einladungslink gibt's im Moodle.
  * Video Chat Room -- wird immer bekannt gegeben <!-- (https://meet.ovgu.de/MatheInfoZwei) -->
  * [Anonymer Briefkasten](https://www2.math.uni-magdeburg.de/owncloud/index.php/s/w8j8Xaxo2dfzMIZ) -- bitte ggf. die Vorlesung benennen (weil ich noch eine andere Vorlesung habe)
 
@@ -90,8 +94,7 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
 ## Übungen
 
 Organisatorische Hinweise:
- * Zu den Übungen müssen Sie sich sowohl über LSF als auch über
-   **Moodle** anmelden.
+ * Es gibt 5 &Uuml;bungsgruppen. Links im Moodle.
  * Es wird spätestens am Freitag in Woche *n* ein neuer Übungszettel online
    gestellt, deren Aufgaben Sie bearbeiten und Ihre Lösungen in Moodle hochladen
    müssen. Eine Musterlösung der Aufgaben wird dann in Woche *n+2* ebenfalls
@@ -101,9 +104,6 @@ Organisatorische Hinweise:
    müssen Sie alle Teile bearbeiten.  
  * In der **google cloud** finden Sie neben den Aufgaben auch die Musterlösungen
    und weitere Hinweise.
- * :boom: Es wird keine klassischen Tutorien geben.
- * :boom: Zu den Musterlösungen wird es eine Zoom Konferenz mit Dr. H&ouml;ding
-   geben, in welcher L&ouml;sungen vorgestellt und Fragen beantwortet werden.
 
 ## Sprechstunde
 

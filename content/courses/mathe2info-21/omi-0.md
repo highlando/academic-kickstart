@@ -3,7 +3,7 @@ title: Warmup
 linktitle: Warmup
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2021-04-07T00:00:00+01:00"
 draft: false
 menu:
   mathe2info-21:
@@ -17,4 +17,10 @@ weight: 1
 Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben, 
 die den Einstieg erleichtern und die hoffentlich jede'r schaffen kann.
 
-:floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+:floppy_disk: [Link zum Übungsblatt #0](files/ma_II_inf_ss20_uebg00-00.pdf)
+
+{{% callout warning %}}
+
+Das Datum ist noch vom letzten Jahr. Bitte nicht irritieren lassen. Abgabe ist naechste Woche im Moodle.
+
+{{% /callout %}}
