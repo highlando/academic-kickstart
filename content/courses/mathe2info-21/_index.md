@@ -30,10 +30,10 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| Fr: 09.04., 9:00 | Vorlesung 1.2 | [1-2 Folgen und Reihen]({{< relref "omi-1/#1-2-reihen" >}}) |
-| Fr: 09.04., 14:30 | Live-Wrapup Vorlesung 1 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
-| :hourglass: :dvd: Mi: 14.04., 09:00 | Vorlesung 2-1 | [Stetigkeit von Funktionen]({{< relref "omi-2/#2-1-eigenschaften-und-beispiele-von-funktionen" >}}) |
-| :microphone: Mi: 14.04., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
+| :boom: :dvd: Mi: 14.04., 09:00 | Vorlesung 2-1 | [Stetigkeit von Funktionen]({{< relref "omi-2/#2-1-eigenschaften-und-beispiele-von-funktionen" >}}) |
+|  Mi: 14.04., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
+| :hourglass: :dvd: Fr: 16.04., 9:00 | Vorlesung 2.2 | [2-2 Stetigkeit von Funktionen] -- wird dann aktiv |
+| :hourglass: :microphone: Fr: 16.04., 14:15 | Live-Wrapup Vorlesung 2 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 
 <!-- 
 | :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
