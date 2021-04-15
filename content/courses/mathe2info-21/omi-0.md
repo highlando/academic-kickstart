@@ -17,10 +17,4 @@ weight: 1
 Zur Vorbereitung auf die richtigen Themen ein Übungsblatt mit Aufgaben, 
 die den Einstieg erleichtern und die hoffentlich jede'r schaffen kann.
 
-:floppy_disk: [Link zum Übungsblatt #0](files/ma_II_inf_ss20_uebg00-00.pdf)
-
-{{% callout warning %}}
-
-Das Datum ist noch vom letzten Jahr. Bitte nicht irritieren lassen. Abgabe ist naechste Woche im Moodle.
-
-{{% /callout %}}
+:floppy_disk: [Link zum Übungsblatt #0](https://elearning.ovgu.de/mod/resource/view.php?id=252828)

@@ -32,7 +32,7 @@ weight: 2
 ### Shownotes
 
  * [Kapitel 11 im Skript (zweiter Teil)](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:phVZ4hhjpEG5).
- * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1S6Qi0eOcYlOz30TlTa08f1ty9M72xfJf)
+ * :floppy_disk: [&Uuml;bungsblatt](https://elearning.ovgu.de/mod/resource/view.php?id=252829)
  * [Bild zur Kuchenfolge und zum harmonischen
    Turm](../files/1-2-kuchenharmonie-small.png)
 

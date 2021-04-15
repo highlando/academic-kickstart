@@ -23,7 +23,7 @@ weight: 3
 ### Shownotes
 
  * [Kapitel 12 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:dUtyovpIkpJ3).
- * :floppy_disk: [Link zum Übungsblatt](https://drive.google.com/drive/folders/1PpHf5VZYkwFaCkHNQ2Uu3O9DM7WVOI8V?usp=sharing)
+ * :floppy_disk: [Link zum Übungsblatt](https://elearning.ovgu.de/course/view.php?id=10324)
 
 ## 2-2 Grenzwerte und Stetigkeit von Funktionen
 

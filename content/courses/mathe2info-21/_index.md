@@ -40,11 +40,11 @@ Informatik* im Sommersemester 2021 an der OVGU.
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 -->
 
-<!--
 {{% callout warning %}}
-Die Übungen sind geplant: 5 Termine &uuml;ber Zoom. Links im Moodle.
+Das Moodle hat durch Aamir ein Facelifting erhalten. Ab sofort gibt es dort auch die &Uuml;bungsbl&auml;tter und Links zu Vorlesungsinhalten. 
 {{% /callout %}}
 
+<!--
 {{% callout warning %}}
 
 **Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
@@ -69,8 +69,7 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
 # Links
 
  * [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=173827&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
- * [Übungsblätter/Google Cloud](https://drive.google.com/drive/folders/1PpHf5VZYkwFaCkHNQ2Uu3O9DM7WVOI8V?usp=sharing) -- Abgabe im Moodle.
- * [Moodle - elearning](https://elearning.ovgu.de/course/view.php?id=10324)
+ * [Moodle - elearning](https://elearning.ovgu.de/course/view.php?id=10324) mit den **&Uuml;bungsbl&auml;ttern** und allem was dazu geh&ouml;rt
  * :blue_book: [Vorlesungsskript](files/Henk_Skript_Mathe_fuer_Informatiker.pdf)
  * [Kommentierbares Script im Paperhive Channel](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:-FRs-O1uXbei) -- den Einladungslink gibt's im Moodle.
  * [Mattermost](https://mm.cs.ovgu.de/m2i-21) -- den Einladungslink gibt's im Moodle.
