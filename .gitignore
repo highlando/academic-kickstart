@@ -4,3 +4,5 @@ resources/
 config/_default/the-newest*
 go.mod
 go.sum
+
+content/post/covid-19-trends/*.png
