@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MRI Fingerprinting with Philipps"
+title: "MRI Fingerprinting with Philips"
 summary: "on *Improving Fingerprinting in MRI scans*"
 authors: []
 tags: ["BA-MA", "Industry"]
@@ -44,7 +44,7 @@ links:
 ---
 
 # Supervisors
-Dr. Manuel Baumann (Philipps Research), Jun-Prof. Jan Heiland FMA
+[Dr. Manuel Baumann (Philips Research)](http://manuelbaumann.de/), Jun-Prof. Jan Heiland FMA
 
 # Wanted
 
