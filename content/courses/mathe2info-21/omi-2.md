@@ -35,3 +35,6 @@ weight: 3
 
  * [Kapitel 12 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:PAJBtPWpM6q_).
 
+## Wrapup 2 (Grenzwerte und Stetigkeit von Funktionen)
+
+{{< youtube rwIzGTpWp-o >}}
