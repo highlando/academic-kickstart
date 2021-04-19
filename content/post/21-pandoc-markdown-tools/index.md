@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Pandoc vs. Pandemia"
+title: "Pandoc vs. Pandemic"
 subtitle: "what have tools ever done for you"
 summary: ""
 authors: []
@@ -44,6 +44,8 @@ Please checkout the outcomes:
 
  * :orange_book: [Booklet of my recipes for baking](lm.pdf) 
  * :blue_book: [Ready to be printed and folded into a real booklet](ready-for-print.pdf) 
+
+![The printed booklet](the-booklet.jpg)
 
 
 [^1]: Similarly exciting and helpful but on a different level are high-end open source tools like `OBS` for screencasting and streaming or `audacity` for podcasting.
