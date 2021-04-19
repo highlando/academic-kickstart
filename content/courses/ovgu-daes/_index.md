@@ -57,6 +57,8 @@ If needed and if everyone is OK with that, I can hold the lecture in English.
 
 # &Uuml;bungsbl&auml;tter
 
+Bitte auf alle Aufgaben mal drauf schauen und 2-3 (versuchen zu) l&ouml;sen.
+
 | Inhalt | Datum |
 | ------ | ----- |
 | [:ledger: Blatt 1](files/ueb01.pdf): Mehrk&ouml;rpersysteme, Separation der Gleichungen, Ortsdiskrete Stokes Gleichung, Regularit&auml;t und &Auml;quivalenz von Matrixpaaren, Kronecker Normalform | :memo: 23.04. |

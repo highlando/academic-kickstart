@@ -34,7 +34,7 @@ This all bases on `Markdown` text files and some interpreter and compiler. For t
 
 The sources are conveniently edited in my favorite editor. With *syntax highlighting* and *code concealing*, the basic parts of the markup is partially hidden and already preinterpreted. 
 
-![screenshot of an editor with markdown support](vim-scsh.png)
+{{< figure caption="screenshot of an editor with markdown support" src="vim-scsh.png" >}}
 
 The final compilation and interpretation is well kept out of sight and can be automated or not on many stages.
 
@@ -45,7 +45,7 @@ Please checkout the outcomes:
  * :orange_book: [Booklet of my recipes for baking](lm.pdf) 
  * :blue_book: [Ready to be printed and folded into a real booklet](ready-for-print.pdf) 
 
-![The printed booklet](the-booklet.jpg)
+{{< figure src="the-booklet.jpg" caption="The printed booklet." >}}
 
 
 [^1]: Similarly exciting and helpful but on a different level are high-end open source tools like `OBS` for screencasting and streaming or `audacity` for podcasting.
