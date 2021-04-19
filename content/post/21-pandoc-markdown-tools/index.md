@@ -34,7 +34,7 @@ This all bases on `Markdown` text files and some interpreter and compiler. For t
 
 The sources are conveniently edited in my favorite editor. With *syntax highlighting* and *code concealing*, the basic parts of the markup is partially hidden and already preinterpreted. 
 
-{{< figure caption="screenshot of an editor with markdown support" src="vim-scsh.png" >}}
+{{< figure caption="Screenshot of an editor with markdown support." src="vim-scsh.png" >}}
 
 The final compilation and interpretation is well kept out of sight and can be automated or not on many stages.
 
