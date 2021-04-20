@@ -30,7 +30,7 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
 | :boom: Di: 20.04., 9:00 | Vorlesung 4 | [Lineare DAEs mit konstanten Koeffizienten ctd. ]({{< relref "daes-3" >}}) |
-| :boom: Di: 13.04., 11:00 | [1. &Uuml;bungsblatt]({{< relref "#uumlbungsblaumltter" >}}) |  |
+| :boom: Di: 20.04., 11:00 | &Uuml;bungsblatt 1  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
 | :hourglass: Fr: 23.04., 15:00 | Wrap Up und Besprechung der &Uuml;bung | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--

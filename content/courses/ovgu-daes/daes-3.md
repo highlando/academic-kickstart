@@ -18,7 +18,9 @@ weight: 2
 
  * variable transforms and scalings do not affect solvability 
  * DAEs <-> (E, A) matrix pairs 
- * canonical forms -- Weierstrass canonical form -- canonical form of a linear DAE with constant coefficients 
+ * canonical forms -- Kronecker canonical form -- canonical form of a linear DAE with constant coefficients 
+ * Regularity and Solvability
+ * Weierstrass canonical form
 
 ## Lecture 3.1
 
@@ -26,3 +28,10 @@ weight: 2
  * [The whiteboard notes](../files/lecture-31.jpg)
 
 {{< youtube fT_1LLb73B8 >}}
+
+## Lecture 3.2
+
+ * [*Chapter 3.2* in the script](https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#regularity-and-solvability)
+ * [The whiteboard notes](../files/lecture-32.jpg)
+
+{{< youtube 3KLc-ouweIk >}}

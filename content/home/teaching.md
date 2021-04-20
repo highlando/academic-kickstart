@@ -51,8 +51,8 @@ subtitle = ""
 
 | Topic | Location | |
 | ----- | ------ | --- |
-| Lecture: [Differential-Algebraic Equations]({{< ref "/courses/ovgu-daes" >}}) | online <br> Mo 9-11 <br> tbd |  [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=174973&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
-| Lecture: [Mathematik 2 f&uuml;r Informatik]({{< ref "/courses/mathe2info-21" >}}) | online <br> Mi 9-11 <br> Fr 13-15 |  [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=173827&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
+| Lecture: [Differential-Algebraic Equations]({{< ref "/courses/ovgu-daes" >}}) | online <br> :dvd: Di 9:00 <br> :microphone: Fr 15-16 | [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=174973&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
+| Lecture: [Mathematik 2 f&uuml;r Informatik]({{< ref "/courses/mathe2info-21" >}}) | online <br> :dvd: Mi 9:00 <br> :microphone: Fr 14-15 |  [LSF](https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=173827&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) |
 
 ## Previous Courses
 
