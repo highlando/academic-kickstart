@@ -23,17 +23,14 @@ weight: 4
 
  * [Kapitel 13 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:g-oDubhB-YNp).
 
-<!--
 ## 3-2 H&ouml;here Ableitungen, Konvex-Konkav, Extrema
-
-Neuer Link: https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:ysTmELNZiYOb
 
 ### Vorlesung
 <div id="pc-lecture-3-2"></div>
 
 ### Shownotes
 
- * [Kapitel 13 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:awB2Fyf8OReB).
+ * [Kapitel 13 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:ysTmELNZiYOb).
 
 ### Illustrierte Beispiele
 
@@ -44,6 +41,7 @@ Neuer Link: https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:ysTmELNZiYOb
 
 {{< youtube QNsfdKN1NqM >}}
 
+<!--
 ## Wrapup Differenzierbarkeit
 
 {{< youtube QFlv5SBfQ6w >}}
