@@ -41,8 +41,6 @@ weight: 4
 
 {{< youtube QNsfdKN1NqM >}}
 
-<!--
 ## Wrapup Differenzierbarkeit
 
-{{< youtube QFlv5SBfQ6w >}}
--->
+{{< youtube 3v3g7Uc3yMg >}}
