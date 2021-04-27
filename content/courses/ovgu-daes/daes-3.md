@@ -35,3 +35,11 @@ weight: 2
  * [The whiteboard notes](../files/lecture-32.jpg)
 
 {{< youtube 3KLc-ouweIk >}}
+
+## Lecture 3.3
+
+ * The script will be updated soon
+ * [The whiteboard notes](../files/lecture-33.jpg)
+
+{{< youtube hJdmUU2Fq5s >}}
+

@@ -29,18 +29,14 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 20.04., 9:00 | Vorlesung 4 | [Lineare DAEs mit konstanten Koeffizienten ctd. ]({{< relref "daes-3" >}}) |
-| :boom: Di: 20.04., 11:00 | &Uuml;bungsblatt 1  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
-| :hourglass: Fr: 23.04., 15:00 | Wrap Up und Besprechung der &Uuml;bung | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :boom: Di: 27.04., 9:00 | Vorlesung 5 | [Lineare DAEs mit konstanten Koeffizienten ctd. ]({{< relref "daes-3/#lecture-33" >}}) |
+| :boom: Di: 27.04., 11:00 | &Uuml;bungsblatt 1  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
+| :hourglass: Fr: 30.04., 15:00 | Wrap Up und Besprechung der &Uuml;bung | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
-<!--
 {{% callout note %}}
-Bez&uuml;glich **Sprechstunde**. In den Sessions -- und
-nat&uuml;rlich auch vorher und nachher im Chat -- d&uuml;rfen gerne auch
-allgemeine Fragen gestellt werden. Wer noch gerne eine pers&ouml;nlichere
-Sprechstunde m&ouml;chte schreibt mir bitte. Dann kann ich nach Bedarf noch eine
-aufsetzen.
+Bitte nochmal das &Uuml;bungsblatt euch vornehmen. Wird dann am Freitag nochmal richtig besprochen
 {{% /callout %}}
+<!--
 
 {{% callout warning %}}
 If needed and if everyone is OK with that, I can hold the lecture in English.
