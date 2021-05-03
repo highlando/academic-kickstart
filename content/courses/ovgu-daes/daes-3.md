@@ -38,8 +38,12 @@ weight: 2
 
 ## Lecture 3.3
 
- * The script will be updated soon
+ * [Chapter 3.3](https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#solution-to-the-n-dae-regularity-and-index-of-a-matrix-pair)
  * [The whiteboard notes](../files/lecture-33.jpg)
 
 {{< youtube hJdmUU2Fq5s >}}
 
+## :ledger: Exercise 1
+
+ * [Exercise sheet 1](files/ueb01.pdf)
+ * [My casual whiteboard notes](files/ndae-ueb01.jpg)

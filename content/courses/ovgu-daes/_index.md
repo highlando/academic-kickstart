@@ -29,9 +29,13 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 27.04., 9:00 | Vorlesung 5 | [Lineare DAEs mit konstanten Koeffizienten ctd. ]({{< relref "daes-3/#lecture-33" >}}) |
-| :boom: Di: 27.04., 11:00 | &Uuml;bungsblatt 1  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
-| :hourglass: Fr: 30.04., 15:00 | Wrap Up und Besprechung der &Uuml;bung | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :hourglass: Di: 04.05., 9:00 | Vorlesung 6 | [Lineare DAEs mit konstanten Koeffizienten ctd.] |
+| :hourglass: Di: 04.05., 11:00 | &Uuml;bungsblatt 2 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
+| :hourglass: Fr: 07.05., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+
+<!--
+({{< relref "daes-3/#lecture-33" >}})
+-->
 
 {{% callout note %}}
 Bitte nochmal das &Uuml;bungsblatt euch vornehmen. Wird dann am Freitag nochmal richtig besprochen
@@ -57,7 +61,8 @@ Bitte auf alle Aufgaben mal drauf schauen und 2-3 (versuchen zu) l&ouml;sen.
 
 | Inhalt | Datum |
 | ------ | ----- |
-| [:ledger: Blatt 1](files/ueb01.pdf): Mehrk&ouml;rpersysteme, Separation der Gleichungen, Ortsdiskrete Stokes Gleichung, Regularit&auml;t und &Auml;quivalenz von Matrixpaaren, Kronecker Normalform | :memo: 23.04. |
+| [:ledger: Blatt 1](files/ueb01.pdf): Mehrk&ouml;rpersysteme, Separation der Gleichungen, Ortsdiskrete Stokes Gleichung, Regularit&auml;t und &Auml;quivalenz von Matrixpaaren, Kronecker Normalform | :memo: [23.04.]({{< relref "daes-3/#exercise-1" >}}) |
+| [:ledger: Blatt 2](files/ueb02.pdf): Index eines Matrizenpaars, Kommutativit&auml;t, Drazin Inverse | :memo: 14.05. |
 
 # Hinweise
 
