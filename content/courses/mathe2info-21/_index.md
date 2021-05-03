@@ -32,7 +32,7 @@ Informatik* im Sommersemester 2021 an der OVGU.
 | ------- | ---------- | ---- |
 | :dvd: Mi: 21.04., 09:00 | Vorlesung 3-1 | [Differenzierbarkeit 1 1/2]({{< relref "omi-3/#3-1-definition-formeln-und-eigenschaften-der-ableitung" >}}) |
 | :dvd: Fr: 23.04., 9:00 | Vorlesung 3-2 | [Differenzierbarkeit 1 2/2]({{< relref "omi-3/#3-2-houmlhere-ableitungen-konvex-konkav-extrema" >}}) |
-|  :microphone: Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
+|  :boom: Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
 | :hourglass: :microphone: Fr: 30.04., 14:15 | Live-Wrapup Vorlesung 1-2-3 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 <!-- 
 |  :microphone: Mi: 21.04., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
@@ -41,11 +41,11 @@ Informatik* im Sommersemester 2021 an der OVGU.
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 -->
 
+<!--
 {{% callout warning %}}
 Weil wir mit der Vorlesung schon gut vorangekommen sind und um mal wieder etwas synchroner mit den &Uuml;bungen zu werden, gibt es diese Woche keinen neuen Stoff. Stattdessen gibt es Mittwoch **10:15** eine Live session im BBB mit vielen Beispielen zu Folgen, Funktionen und Stetigkeit. Und Freitag ein Wrapup zu allen bisherigen Vorlesungen.
 {{% /callout %}}
 
-<!--
 {{% callout warning %}}
 
 **Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
