@@ -29,9 +29,9 @@ Informatik* im Sommersemester 2021 an der OVGU.
 # Aktuelles
 
 | Datum | Event | Link |
-| ------- | ---------- | ---- |
-|  :boom: Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
-| :hourglass: :dvd: Mi: 05.05., 09:00 | Vorlesung 4-1 | [Taylor- und Potenzreihen 1/2] |
+| -------- | --------- | ---- |
+|  Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
+| :boom: :dvd: Mi: 05.05., 09:00 | Vorlesung 4-1 | [Taylor- und Potenzreihen 1/2]({{< relref "omi-4/#4-1-taylorpolynom-landau-symbole-taylor-reihe" >}}) |
 | :hourglass: :microphone: Mi: 05.05., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
 | :hourglass: :dvd: Fr: 07.05., 09:00 | Vorlesung 4-2 | [Taylor- und Potenzreihen 2/2] |
 <!-- 
