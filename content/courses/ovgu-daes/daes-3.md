@@ -55,4 +55,5 @@ weight: 2
 A *variation of parameters* formula for linear DAEs with constant coefficients.
 
  * [Chapter 3.5](https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#a-variation-of-constant-formula)
- * Screencast will follow soon
+
+{{< youtube gqknqU2V_RU >}}
