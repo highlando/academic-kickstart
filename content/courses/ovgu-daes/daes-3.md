@@ -36,6 +36,8 @@ weight: 2
 
 {{< youtube 3KLc-ouweIk >}}
 
+# Existence and Representation of Solutions
+
 ## Lecture 3.3
 
  * [Chapter 3.3](https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#solution-to-the-n-dae-regularity-and-index-of-a-matrix-pair)
@@ -47,3 +49,10 @@ weight: 2
 
  * [Exercise sheet 1](files/ueb01.pdf)
  * [My casual whiteboard notes](files/ndae-ueb01.jpg)
+
+## Lecture 3.4
+
+A *variation of parameters* formula for linear DAEs with constant coefficients.
+
+ * [Chapter 3.5](https://www.janheiland.de/script-daes/linear-daes-with-constant-coefficients.html#a-variation-of-constant-formula)
+ * Screencast will follow soon

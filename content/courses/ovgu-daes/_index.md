@@ -29,18 +29,16 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :hourglass: Di: 04.05., 9:00 | Vorlesung 6 | [Lineare DAEs mit konstanten Koeffizienten ctd.] |
+| :hourglass: Di: 04.05., 9:00 | Vorlesung 6 | [Eine Variation der Konstanten Formel f&uuml;r lineare DAEs mit konstanten Koeffizienten]({{< relref "daes-3/#lecture-34" >}}) |
 | :hourglass: Di: 04.05., 11:00 | &Uuml;bungsblatt 2 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
 | :hourglass: Fr: 07.05., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--
-({{< relref "daes-3/#lecture-33" >}})
--->
+({{< relref "daes-3/#lecture-34" >}})
 
 {{% callout note %}}
 Bitte nochmal das &Uuml;bungsblatt euch vornehmen. Wird dann am Freitag nochmal richtig besprochen
 {{% /callout %}}
-<!--
 
 {{% callout warning %}}
 If needed and if everyone is OK with that, I can hold the lecture in English.
