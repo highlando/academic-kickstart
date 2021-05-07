@@ -29,7 +29,6 @@ weight: 5
 
 {{< youtube dI9t-9pGKus >}}
 
-<!--
 ## 4-2 Taylor-Reihe, Potenzreihe, Taylor-Reihe
 
 ### Vorlesung
@@ -37,15 +36,10 @@ weight: 5
 
 ### Shownotes
 
- * [Kapitel 14 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=d:NVYFzJarguQi).
+ * [Kapitel 14 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:T6ewFPuobVBO).
 
 ### Illustrierte Beispiele
 
 [das ganze als PNG](../files/4-2-bspx.png)
 
 {{< youtube Zk9CXZEcUaY >}}
-
-## Wrapup Differenzierbarkeit
-
-{{< youtube QFlv5SBfQ6w >}}
--->
