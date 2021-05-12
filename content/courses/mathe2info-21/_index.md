@@ -30,12 +30,13 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | -------- | --------- | ---- |
-|  Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
-| :dvd: Mi: 05.05., 09:00 | Vorlesung 4-1 | [Taylor- und Potenzreihen 1/2]({{< relref "omi-4/#4-1-taylorpolynom-landau-symbole-taylor-reihe" >}}) |
-| :boom: :dvd: Fr: 07.05., 09:00 | Vorlesung 4-2 | [Taylor- und Potenzreihen 2/2]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
-| :microphone: Fr: 07.05., 14:15 | Live-Wrapup Taylorreihen | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
+| :hourglass: :dvd: Mi: 12.05., 09:00 | Vorlesung 5-1 | [Integralrechnung 1] |
+| :hourglass: :microphone: Mi: 12.05., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
+| :hourglass: :dvd: Fr: 14.05., 09:00 | Vorlesung 5-2 | [Integralrechnung 1] |
+| :microphone: Fr: 14.05., 14:15 | Live-Wrapup | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 <!-- 
-| :hourglass: :microphone: Mi: 05.05., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
+| :boom: :dvd: Fr: 07.05., 09:00 | Vorlesung 4-2 | [Taylor- und Potenzreihen 2/2]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
+|  Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
 | :microphone: Fr: 30.04., 14:15 | Live-Wrapup Vorlesung 1-2-3 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 | :dvd: Fr: 07.05., 9:00 | Vorlesung 4-2 | [Differenzierbarkeit 1 2/2]({{< relref "omi-3/#3-2-houmlhere-ableitungen-konvex-konkav-extrema" >}}) |
 | :dvd: Mi: 14.04., 09:00 | Vorlesung 2-1 | [2-1 Stetigkeit von Funktionen]({{< relref "omi-2/#2-1-eigenschaften-und-beispiele-von-funktionen" >}}) |
