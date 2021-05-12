@@ -30,10 +30,11 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | -------- | --------- | ---- |
-| :hourglass: :dvd: Mi: 12.05., 09:00 | Vorlesung 5-1 | [Integralrechnung 1] |
+| :hourglass: :dvd: Mi: 12.05., 09:00 | Vorlesung 5-1 | [Integralrechnung 1]({{< relref "omi-5" >}}) |
 | :hourglass: :microphone: Mi: 12.05., 10:30 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
 | :hourglass: :dvd: Fr: 14.05., 09:00 | Vorlesung 5-2 | [Integralrechnung 1] |
-| :microphone: Fr: 14.05., 14:15 | Live-Wrapup | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
+| :hourglass: :dvd: Mi: 19.05., 09:00 | Vorlesung 5-3 | [Integralrechnung 1] |
+| :warning: :microphone: Mi: 19.05., 10:30 | Live-Wrapup Integration und Beispiele Vorrechnen | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 <!-- 
 | :boom: :dvd: Fr: 07.05., 09:00 | Vorlesung 4-2 | [Taylor- und Potenzreihen 2/2]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
 |  Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
@@ -44,10 +45,11 @@ Informatik* im Sommersemester 2021 an der OVGU.
 | Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 -->
 
-<!--
 {{% callout warning %}}
-Weil wir mit der Vorlesung schon gut vorangekommen sind und um mal wieder etwas synchroner mit den &Uuml;bungen zu werden, gibt es diese Woche keinen neuen Stoff. Stattdessen gibt es Mittwoch **10:15** eine Live session im BBB mit vielen Beispielen zu Folgen, Funktionen und Stetigkeit. Und Freitag ein Wrapup zu allen bisherigen Vorlesungen.
+Um der Integralrechnung die Zeit einzur&auml;umen die sie verdient und um den Feiertag zu w&uuml;rdigen, wird es am Freitag (14.05.) nur **eine Vorlesung** geben (keinen wrapup). Der findet dann am n&auml;chsten Mittwoch statt.
 {{% /callout %}}
+
+<!--
 
 {{% callout warning %}}
 
