@@ -10,6 +10,7 @@ date: "2021-02-03T00:00:00Z"
 lastmod: "2020-02-08T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
+math: true
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -29,9 +30,9 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 04.05., 11:00 | &Uuml;bungsblatt 2 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
-| :boom: Di: 11.05., 9:00 | Vorlesung 6 | [Grundlagen linearer DAEs mit variablen Koeffizienten]({{< relref "daes-4" >}}) |
-| :hourglass: Fr: 14.05., 15:00 | Wrap Up und &Uuml;bungsblatt 2 | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :boom: Di: 18.05., 11:00 | &Uuml;bungsblatt 3 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
+| :hourglass: Mi: 26.05., 9:00 | Vorlesung 8 | [Ein globale Form von DAEs mit variablen Koeffizienten] |
+| :hourglass: Fr: 28.05., 15:00 | Wrap Up und &Uuml;bung 3 | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--
 ({{< relref "daes-3/#lecture-34" >}})
@@ -61,6 +62,7 @@ Bitte auf alle Aufgaben mal drauf schauen und 2-3 (versuchen zu) l&ouml;sen.
 | ------ | ----- |
 | [:ledger: Blatt 1](files/ueb01.pdf): Mehrk&ouml;rpersysteme, Separation der Gleichungen, Ortsdiskrete Stokes Gleichung, Regularit&auml;t und &Auml;quivalenz von Matrixpaaren, Kronecker Normalform | :memo: [23.04.]({{< relref "daes-3/#exercise-1" >}}) |
 | [:ledger: Blatt 2](files/ueb02.pdf): Index eines Matrizenpaars, Kommutativit&auml;t, Drazin Inverse | :memo: 14.05. |
+| [:ledger: Blatt 3](files/ueb03.pdf): Zeitvariable Matrizenpaare, Charakteristische Werte $a$, $d$, $r$ und $s$ | :memo: 28.05. |
 
 # Hinweise
 

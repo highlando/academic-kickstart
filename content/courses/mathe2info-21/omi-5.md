@@ -20,7 +20,7 @@ Podcast und den eigentlichen Wrapup nicht so geeignet. Deswegen hier mein Angebo
 diesen Themenkomplex:
 
  * [1. Teil (Mittwoch)](#5-1-zerlegung-ober-untersummen-riemann-integral): Podcast und Beispiele als Video.
- * [2. Teil (Freitag)]: Illustration der Inhalte als Video.
+ * [2. Teil (Freitag)](#5-2-substitionsregel-partielle-integration-uneigentliche-integrale): Illustration der Inhalte als Video.
  * [3. Teil (Mittwoch, 19.05.)]: Wrapup mit Vorrechnen der Beispiele aus dem Vorlesungskapitel + ausgew&auml;hlte &Uuml;bungsaufgaben.
  <!-- (#5-2-substitionsregel-partielle-integration-uneigentliche-integrale): Illustration der Inhalte als Video.-->
  <!-- (#5-3-wrapup----beispiele-vorrechnen): Vorrechnen der Beispiele aus dem Vorlesungskapitel +
@@ -42,7 +42,6 @@ diesen Themenkomplex:
 
 {{< youtube ScRfoCNgTPQ  >}}
 
-<!--
 ## 5-2 Substitionsregel, Partielle Integration, Uneigentliche Integrale
 
 Daf&uuml;r gibt es keinen Podcast von mir. In meinem Video habe ich versucht,
@@ -65,10 +64,11 @@ $$
 {{< youtube 3SQ5a5Q9RkI >}}
 
 
-## 5-3 Wrapup -- Beispiele Vorrechnen
+## 5-3 Wrapup -- Beispiele Vorrechnen {#53}
 
 Live Vorrechnen der Beispiele aus der Vorlesung und einer &Uuml;bungsaufgabe
 
+Zur Vorbereitung (statt Video oder Podcast) schon mal selber die Beispiele rechnen.
 $$
 \int _ {\frac{1}{\pi}}^{\frac{2}{\pi}} -\frac{\sin(\frac{1}{x})}{x^2}~dx \tag{Bsp. 15.22}
 $$
@@ -82,15 +82,9 @@ $$
 $$
 
 $$
-\text{Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
+\text{Bestimmtes Integral und Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
 $$
 
-[Das ganze als PNG](../files/5-3-bspx.png)
+ * [Wrapup und L&ouml;sungen als JPG](files/5-3-wrapup-bspx.jpg)
 
-{{< youtube Id9qFbM0bL0 >}}
-
-<!--
-## Wrapup Differenzierbarkeit
-
-{{< youtube QFlv5SBfQ6w >}}
--->
+{{< youtube jXghB9l5NIc >}}

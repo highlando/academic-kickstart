@@ -14,16 +14,23 @@ menu:
 weight: 3
 ---
 
-# The Basics 
+# 4.1 -- The Basics 
 
  * Problem Statement
  * Examples why *uniform regularity* does not help
  * Pairs of matrix functions
  * Global and local equivalence
 
-## Lecture 4.1
-
  * [*Chapter 4* in the script](https://www.janheiland.de/script-daes/IV.html)
  * [Whiteboard Notes](../files/lecture-41.jpg)
 
 {{< youtube Gg73ryjYIRk >}}
+
+
+# 4.2 -- A local canonical form
+
+ * [*Chapter 4.1* in the script](https://www.janheiland.de/script-daes/IV.html#a-local-canonical-form)
+ * [Whiteboard Notes](../files/lecture-42.jpg)
+ * [Annotated Script](../files/annotated-script-42.pdf)
+
+{{< youtube ZGbaR6UaY6M  >}}

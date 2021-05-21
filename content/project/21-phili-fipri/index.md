@@ -73,4 +73,4 @@ The development and implementation opens a number of options for a Master's proj
 
 # How to apply
 
-Please see the [job advertisement](mrf_msc_ovgu.pdf) and apply by April 30.
+Please see the [job advertisement](mrf_msc_ovgu.pdf) and apply by June 30.
