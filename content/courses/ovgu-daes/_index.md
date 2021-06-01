@@ -30,11 +30,11 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 18.05., 11:00 | &Uuml;bungsblatt 3 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
-| :hourglass: Mi: 26.05., 9:00 | Vorlesung 8 | [Ein globale Form von DAEs mit variablen Koeffizienten] |
-| :hourglass: Fr: 28.05., 15:00 | Wrap Up und &Uuml;bung 3 | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :boom: Di: 01.06., 9:00 | Vorlesung 9 | [The *Strangeness Index* and *Derivative Arrays*]({{< relref "daes-4/#44" >}}) |
+| :hourglass: Fr: 04.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--
+| :boom: Di: 18.05., 11:00 | &Uuml;bungsblatt 3 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
 ({{< relref "daes-3/#lecture-34" >}})
 
 {{% callout note %}}

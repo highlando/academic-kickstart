@@ -30,19 +30,18 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | -------- | --------- | ---- |
-| :dvd: Mi: 19.05., 09:00 | Vorlesung 5-3 -- Wrapup und Beispiele rechnen | [Integralrechnung 1 3/3]({{< relref "omi-5/#53" >}}) |
-| :hourglass: :dvd: Fr: 21.05., 09:00 | Vorlesung 6-1 | [Fourrierreihen]({{< relref "omi-6" >}}) |
-| :hourglass: :microphone: Mi: 26.05., 10:20 | Sprechstunde | [BBB der GWDG](https://meet.gwdg.de/b/jan-0re-pom-tbr) und [Mattermost Kanal](https://mm.cs.ovgu.de/m2i-21/channels/0407-sprechstunde) |
-| :hourglass: :microphone: Mi: 26.05., 10:30 | Wrapup Fourrierreihen | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
-| :hourglass: :dvd: Fr: 28.05., 09:00 | Vorlesung 7-1 | [Differenzierbarkeit 2] |
+| :microphone: Mi: 26.05., 10:30 | Wrapup Fourrierreihen | [Youtube Video und Whiteboard]({{< relref "omi-6/#wrapup-fourier" >}}) |
+| :boom: :dvd: Fr: 28.05., 09:00 | Vorlesung 7-1 | [Differenzierbarkeit 2 1/3]({{< relref "omi-7" >}}) |
+| :hourglass: :dvd: Mi: 02.06., 09:00 | Vorlesung 7-2 | [Differenzierbarkeit 2 2/3] |
+| :hourglass: :microphone: Mi: 02.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
+| :hourglass: :dvd: Fr: 04.06., 09:00 | Vorlesung 7-3 | [Differenzierbarkeit 2 3/3] |
+| :hourglass: :microphone: Fr: 04.06., 14:30 | Live-Wrapup *Differenzierbarkeit 2* | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
+
 <!-- 
 | :boom: :dvd: Fr: 07.05., 09:00 | Vorlesung 4-2 | [Taylor- und Potenzreihen 2/2]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
 |  Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
 | :microphone: Fr: 30.04., 14:15 | Live-Wrapup Vorlesung 1-2-3 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 | :dvd: Fr: 07.05., 9:00 | Vorlesung 4-2 | [Differenzierbarkeit 1 2/2]({{< relref "omi-3/#3-2-houmlhere-ableitungen-konvex-konkav-extrema" >}}) |
-| :dvd: Mi: 14.04., 09:00 | Vorlesung 2-1 | [2-1 Stetigkeit von Funktionen]({{< relref "omi-2/#2-1-eigenschaften-und-beispiele-von-funktionen" >}}) |
-| :boom: Mi: 13.05., 9:00 | Vorlesung 3.1 | [3 Differenzierbarkeit 1 (1/2)]({{< relref "omi-3" >}}) |
-| Fr: 12.06., 14:30 | Live-Wrapup Vorlesung 7 | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](http://mm.cs.ovgu.de/mathe-info-2/channels/0612-wrapup-diff2) |
 -->
 
 <!--

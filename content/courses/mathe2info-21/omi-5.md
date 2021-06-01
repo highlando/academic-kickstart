@@ -85,6 +85,6 @@ $$
 \text{Bestimmtes Integral und Stammfunktion zu: } f(x) = \frac{\log(x)}{x} \tag{A8.2(a)}
 $$
 
- * [Wrapup und L&ouml;sungen als JPG](files/5-3-wrapup-bspx.jpg)
+ * [Wrapup und L&ouml;sungen als JPG](../files/5-3-wrapup-bspx.jpg)
 
 {{< youtube jXghB9l5NIc >}}

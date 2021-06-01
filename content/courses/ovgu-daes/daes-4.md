@@ -34,3 +34,15 @@ weight: 3
  * [Annotated Script](../files/annotated-script-42.pdf)
 
 {{< youtube ZGbaR6UaY6M  >}}
+
+# 4.3 -- A global canonical form
+
+ * [*Chapter 4.2* in the script](https://www.janheiland.de/script-daes/IV.html#IV-Global-Canonical-Form)
+ * [Whiteboard Notes](../files/lecture-43.jpg)
+
+{{< youtube ERYb9zs2m1Y >}}
+
+# 4.4 -- Strangeness Index and Derivative Arrays {#44}
+
+ * [*Chapter 4.3 and 4.4* in the script](https://www.janheiland.de/script-daes/IV.html#the-strangeness-index)
+ * screencast and whiteboard following soon (by noon)
