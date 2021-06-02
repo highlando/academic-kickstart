@@ -45,4 +45,6 @@ weight: 3
 # 4.4 -- Strangeness Index and Derivative Arrays {#44}
 
  * [*Chapter 4.3 and 4.4* in the script](https://www.janheiland.de/script-daes/IV.html#the-strangeness-index)
- * screencast and whiteboard following soon (by noon)
+ * [Whiteboard Notes](../files/lecture-44.jpg)
+
+{{< youtube owV_3tij1P4 >}}

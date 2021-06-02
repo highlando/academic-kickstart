@@ -30,10 +30,9 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | -------- | --------- | ---- |
-| :microphone: Mi: 26.05., 10:30 | Wrapup Fourrierreihen | [Youtube Video und Whiteboard]({{< relref "omi-6/#wrapup-fourier" >}}) |
-| :boom: :dvd: Fr: 28.05., 09:00 | Vorlesung 7-1 | [Differenzierbarkeit 2 1/3]({{< relref "omi-7" >}}) |
-| :hourglass: :dvd: Mi: 02.06., 09:00 | Vorlesung 7-2 | [Differenzierbarkeit 2 2/3] |
-| :hourglass: :microphone: Mi: 02.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
+| :dvd: Fr: 28.05., 09:00 | Vorlesung 7-1 | [Differenzierbarkeit 2 1/3]({{< relref "omi-7" >}}) |
+| :boom: :dvd: Mi: 02.06., 09:00 | Vorlesung 7-2 | [Differenzierbarkeit 2 2/3]({{< relref "omi-7/#72" >}}) |
+| :boom: :microphone: Mi: 02.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
 | :hourglass: :dvd: Fr: 04.06., 09:00 | Vorlesung 7-3 | [Differenzierbarkeit 2 3/3] |
 | :hourglass: :microphone: Fr: 04.06., 14:30 | Live-Wrapup *Differenzierbarkeit 2* | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 
