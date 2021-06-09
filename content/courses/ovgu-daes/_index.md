@@ -30,8 +30,8 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 01.06., 9:00 | Vorlesung 9 | [The *Strangeness Index* and *Derivative Arrays*]({{< relref "daes-4/#44" >}}) |
-| :hourglass: Fr: 04.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :boom: Di: 08.06., 9:00 | Vorlesung 5 | [Regression: *Runge-Kutta Methods and Numerical Approximation of **ODES** *]({{< relref "daes-5/#50" >}}) |
+| :hourglass: Fr: 11.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--
 | :boom: Di: 18.05., 11:00 | &Uuml;bungsblatt 3 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |

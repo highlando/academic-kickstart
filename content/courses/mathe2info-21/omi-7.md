@@ -48,8 +48,7 @@ Das ist wieder eine dreiteilige Vorlesung
 
  * [Kapitel 17 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=d:KwNqxkkNQ7dP).
 
-<!--
-## 7-3 Hesse Matrix, Definitheit, Extrema, Kompakte Mengen 
+## 7-3 Hesse Matrix, Definitheit, Extrema, Kompakte Mengen {#73}
 
 [das ganze als PNG](../files/7-3-lctr.png)
 
@@ -60,7 +59,6 @@ Das ist wieder eine dreiteilige Vorlesung
  * Ein [Text und Video](https://studyflix.de/informatik/hesse-matrix-1352) mit
    sch&ouml;ner Illustration wie die Funktion, kritische Punkte und die Hesse
    Matrix zusammenh&auml;ngen. (Scrollen bis *Extremstellen und Hesse Matrix Beispiel 1*)
- * [Kapitel 17 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:u6Nm6dd51DMi).
 
 <!--
 ## Wrapup Differenzierbarkeit
