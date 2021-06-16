@@ -30,11 +30,10 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | -------- | --------- | ---- |
-| :dvd: Fr: 04.06., 09:00 | Vorlesung 7-3 | [Differenzierbarkeit 3 3/3]({{< relref "omi-7/#73" >}}) |
-| :boom: :dvd: Mi: 09.06., 09:00 | Vorlesung 8-1 | [Integration 2 1/3]({{< relref "omi-8/#81" >}}) |
-| :boom: :microphone: Mi: 09.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
-| :hourglass: :dvd: Fr: 11.06., 09:00 | Vorlesung 8-2 | [Integration 2 2/3({{< relref "omi-8/#82" >}})] |
-| :hourglass: :dvd: Mi: 16.06., 09:00 | Vorlesung 8-3 | [Integration 3 3/3] |
+| :dvd: Mi: 09.06., 09:00 | Vorlesung 8-1 | [Integration 2 1/3]({{< relref "omi-8/#81" >}}) |
+| :dvd: Fr: 11.06., 09:00 | Vorlesung 8-2 | [Integration 2 2/3]({{< relref "omi-8/#82" >}}) |
+| :boom: :dvd: Mi: 16.06., 09:00 | Vorlesung 8-3 | [Integration 2 3/3]({{< relref "omi-8/#83" >}}) |
+| :boom: :microphone: Mi: 16.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
 | :hourglass: :microphone: Fr: 18.06., 14:15 | Live-Wrapup *Integration 2* | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
 
 <!-- 

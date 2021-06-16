@@ -44,8 +44,7 @@ Das ist wieder eine dreiteilige Vorlesung
  * [Kapitel 18 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:yud_mCu8c2V1).
 
 
-<!--
-## 8-3 Transformationssatz und Polarkoordinaten
+## 8-3 Transformationssatz und Polarkoordinaten {#83}
 
 [das ganze als PNG](../files/8-3-lecture.png)
 
@@ -53,7 +52,7 @@ Das ist wieder eine dreiteilige Vorlesung
 
 ### Shownotes
 
- * [Kapitel 18 im Skript](https://paperhive.org/documents/items/Q5_T1IK-vd5c?a=s:ZXMh5ja_wlDW).
+ * [Kapitel 18 im Skript](https://paperhive.org/documents/items/lsDNlcIGTmHL?a=s:9s6zzVGd2dWp).
 
  * Die [Umkehrung der Transformation in Polarkoordinaten](https://de.wikipedia.org/wiki/Polarkoordinaten#Umrechnung_von_kartesischen_Koordinaten_in_Polarkoordinaten).
  * Ein gegl&uuml;cktes Bild der Kugelkoordinaten:

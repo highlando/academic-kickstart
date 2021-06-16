@@ -30,10 +30,12 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
-| :boom: Di: 08.06., 9:00 | Vorlesung 5 | [Regression: *Runge-Kutta Methods and Numerical Approximation of **ODES** *]({{< relref "daes-5/#50" >}}) |
-| :hourglass: Fr: 11.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :boom: Di: 15.06., 12:30 | &Uuml;bungsblatt 4 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
+| :boom: Mi: 16.06., 9:00 | Vorlesung 5-2 | [*Basics on Numerical Approximation of DAEs*] |
+| :hourglass: Fr: 18.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--
+| :boom: Mi: 15.06., 9:00 | Vorlesung 5 | [*Basics on Numerical Approximation of DAEs*]({{< relref "daes-5/#50" >}}) |
 | :boom: Di: 18.05., 11:00 | &Uuml;bungsblatt 3 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
 ({{< relref "daes-3/#lecture-34" >}})
 
@@ -63,6 +65,7 @@ Bitte auf alle Aufgaben mal drauf schauen und 2-3 (versuchen zu) l&ouml;sen.
 | [:ledger: Blatt 1](files/ueb01.pdf): Mehrk&ouml;rpersysteme, Separation der Gleichungen, Ortsdiskrete Stokes Gleichung, Regularit&auml;t und &Auml;quivalenz von Matrixpaaren, Kronecker Normalform | :memo: [23.04.]({{< relref "daes-3/#exercise-1" >}}) |
 | [:ledger: Blatt 2](files/ueb02.pdf): Index eines Matrizenpaars, Kommutativit&auml;t, Drazin Inverse | :memo: 14.05. |
 | [:ledger: Blatt 3](files/ueb03.pdf): Zeitvariable Matrizenpaare, Charakteristische Werte $a$, $d$, $r$ und $s$ | :memo: 28.05. |
+| [:ledger: Blatt 4](files/ueb04.pdf): Einschrittmethoden f&uuml;r ODEs, Anwendung auf DAEs, :computer: Impliziter Euler f&uuml;r lineare DAEs | :memo: 25.06. |
 
 # Hinweise
 

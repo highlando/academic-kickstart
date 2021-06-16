@@ -15,7 +15,7 @@ menu:
 weight: 4
 ---
 
-# 5.0 -- Numerical Approximation of ODEs {#50}
+# Numerical Approximation of ODEs {#50}
 
 ## Contents
  * Basic Ideas
@@ -23,7 +23,7 @@ weight: 4
  * Consistency / Stability / Convergence
  * Runge-Kutta Methods
 
-## Lecture 
+## Lecture 5-0
 
  * [Whiteboard Notes](../files/lecture-50.jpg)
 
@@ -68,5 +68,20 @@ on $[0, 3]$ with number of time steps
 $$N\in\{2^{8}, 2^{10}, 2^{14}, 2^{18}\}$$
 by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\sin (e^3)$.
 3. Implement any Runge-Kutta method of higher-order[^1] and repeat this numerical study.
+
+# Basics of Numerical Approximation of DAEs {#51}
+
+## Contents
+
+ * Notions and Notations of RKM
+ * How to apply an RKM to $E\dot x = Ax+f(t)$
+ * Explicit Euler fails, Implicit Euler works
+ * RKM and System Transformations
+ * Analysis via the Kronecker Normal Form
+
+## Lecture 5-1
+ * [Whiteboard Notes](../files/lecture-51.jpg)
+
+{{< youtube wd97VkjHz9U >}}
 
 [^1]: feel free to use an explicit method of a not so high order.
