@@ -80,8 +80,33 @@ by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\
  * Analysis via the Kronecker Normal Form
 
 ## Lecture 5-1
+
  * [Whiteboard Notes](../files/lecture-51.jpg)
 
 {{< youtube wd97VkjHz9U >}}
+
+# Consistency und Convergence for DAEs with Constant Coefficients {#52}
+
+ * Consistency error -- will depend on the $\nu$-**index**
+ * Convergence -- need extra stability condition
+ * **Stiffly accurate** schemes -- exact for index-1 DAE parts
+
+## Lecture 5-2
+
+ * [Chapter 5.2 in the script](https://www.janheiland.de/script-daes/numerical-approximation-of-daes.html#runge-kutta-methods-for-linear-daes-with-constant-coefficients)
+ * [Whiteboard Notes](../files/lecture-52.jpg)
+
+{{< youtube hvk0XTOMfoE >}}
+
+## Exercise 4
+
+ * Python Script for the "$\kappa$"s: [`dae-butcher.py`](../files/dae-butcher.py)
+ * Implicit Euler for time-varying DAEs: [python file](../files/4c2.py) [Jupyter Notebook](../files/4c2.ipynb)
+
+
+# RKM for (Nonlinear) Semi-explicit DAEs of Index 1
+
+ * [Whiteboard Notes](../files/lecture-53.jpg)
+
 
 [^1]: feel free to use an explicit method of a not so high order.

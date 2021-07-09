@@ -70,9 +70,9 @@ subtitle = "Workshops&Visits"
 | Date | Occasion | Location |
 | ------: | ------ | --- |
 | Mar 15 -- Mar 19 | [GAMM Annual Meeting](https://jahrestagung.gamm-ev.de/) | Kassel | 
-| Jul 6 -- Jul 9 | [Viennese Conference on Optimal Control and Dynamic Games](https://orcos.tuwien.ac.at/events/vc2021) | Vienna, Austria | 
-| Jul 19 -- Jul 23 | [SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an21) and [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct21) | Spokane, US |
-| Jul 25 -- Jul 27 | [U.S. National Congress on Computational Mechanics](http://16.usnccm.org/) | Chicago, US |
+| Jul 8 | [Virtual Seminar – IFAC TC on Optimal Control](https://ie3.etit.tu-dortmund.de/details/ifac-seminar-10080/) | virtual | 
+| Jul 19 -- Jul 23 | [SIAM Annual Meeting](https://www.siam.org/conferences/cm/conference/an21) and [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct21) | virtual |
+| Jul 25 -- Jul 27 | [U.S. National Congress on Computational Mechanics](http://16.usnccm.org/) | virtual |
 
 
 See [previous conferences and visits]({{< ref "events/pastconfs/index.md" >}})

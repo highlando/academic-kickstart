@@ -30,13 +30,17 @@ Informatik* im Sommersemester 2021 an der OVGU.
 
 | Datum | Event | Link |
 | -------- | --------- | ---- |
-| :dvd: Mi: 09.06., 09:00 | Vorlesung 8-1 | [Integration 2 1/3]({{< relref "omi-8/#81" >}}) |
-| :dvd: Fr: 11.06., 09:00 | Vorlesung 8-2 | [Integration 2 2/3]({{< relref "omi-8/#82" >}}) |
-| :boom: :dvd: Mi: 16.06., 09:00 | Vorlesung 8-3 | [Integration 2 3/3]({{< relref "omi-8/#83" >}}) |
-| :boom: :microphone: Mi: 16.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
-| :hourglass: :microphone: Fr: 18.06., 14:15 | Live-Wrapup *Integration 2* | [Youtube live](https://www.youtube.com/c/JanHeiland/live) - [Mattermost](https://mm.cs.ovgu.de/m2i-21/channels/0409-wrapup-1) |
+| :dvd: Mi: 16.06., 09:00 | Vorlesung 8-3 | [Integration 2 3/3]({{< relref "omi-8/#83" >}}) |
+| Mi: 23.06., 09:30 | Echte Vorlesung -- *Gruppen, K&ouml;rper, Ringe* | im **G02-109** (Bitte die Hinweise im Moodle beachten, Video sp&auml;ter im Moodle) |
+| :microphone: Fr: 25.06., 14:00 | Live-**Vorlesung** *Gruppen, K&ouml;rper, Ringe* | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
+| :microphone: Mi: 30.06., **10:20** | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
+| :boom: :microphone: Fr: 02.07., 14:00 | Live-**Wrapup** Ausgew&auml;hlte Themen der Vorlesung | :warning: [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
+| :boom: :microphone: Mi: 09.07., **11:00** | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
+| :boom: :microphone: Fr: 09.07., 14:00 | Live-**Wrapup** Ausgew&auml;hlte Themen der Vorlesung | :warning: [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
 
 <!-- 
+| :dvd: Mi: 09.06., 09:00 | Vorlesung 8-1 | [Integration 2 1/3]({{< relref "omi-8/#81" >}}) |
+| :dvd: Fr: 11.06., 09:00 | Vorlesung 8-2 | [Integration 2 2/3]({{< relref "omi-8/#82" >}}) |
 | :boom: :microphone: Mi: 02.06., 10:30 | Sprechstunde | [BBB](https://meet.gwdg.de/b/jan-0re-pom-tbr) |
 | :boom: :dvd: Fr: 07.05., 09:00 | Vorlesung 4-2 | [Taylor- und Potenzreihen 2/2]({{< relref "omi-4/#4-2-taylor-reihe-potenzreihe-taylor-reihe" >}}) |
 |  Mi: 30.04., **10:15** | Live und interaktive Vorlesung zu Folgen und Funktionen | [:scroll: hier gibts den Aufschrieb](files/wb-folgen--diffbarkeit.jpg) |
@@ -44,13 +48,11 @@ Informatik* im Sommersemester 2021 an der OVGU.
 | :dvd: Fr: 07.05., 9:00 | Vorlesung 4-2 | [Differenzierbarkeit 1 2/2]({{< relref "omi-3/#3-2-houmlhere-ableitungen-konvex-konkav-extrema" >}}) |
 -->
 
+
 <!--
-
 {{% callout warning %}}
-
-**Feedback** Runde: Liebe Student'innen, bitte nehmt euch diese 2 mal 5 Minuten
-f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
-
+Freitag, 25.06., wiederhole ich die live-Vorlesung zum Komplex *Gruppen, Ringe, K&ouml;rper*. Und zwar im BBB -- damit Ihr direkt nachfragen k&ouml;nnt -- und schon um 14:00. (Ein Wrapup lohnt sich nicht so richtig, weil die Tonqualit&auml;t vom Mittwoch zu schlecht war.
+{{% /callout %}}
 1. Die offizielle Evaluation der Vorlesung. Dieses mal auch mit ein paar Fragen
    dazu, wie sich die online Lehre so macht. Anmeldung unter
    [evaluation.ovgu.de](https://evaluation.ovgu.de/) mit der Losung *UPFNQ*.
@@ -64,7 +66,6 @@ f&uuml;r euer anonymes Feedback (man kann es auch in weniger Zeit schaffen).
    aussehen sollen. Die [Umfrage](https://forms.gle/d7bUP5ys61yRkSev6) ist bei
    *google forms* und anonym und ohne Anmeldung. 
 
-{{% /callout %}}
 -->
 
 # Links

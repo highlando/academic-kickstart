@@ -31,8 +31,10 @@ Hier gibt es die (links zu den) Materialien zur Vorlesung *DAEs* im Sommersemest
 | Datum | Event | Link |
 | ------- | ---------- | ---- |
 | :boom: Di: 15.06., 12:30 | &Uuml;bungsblatt 4 ist da  | [&Uuml;bungen]({{< relref "#uumlbungsblaumltter" >}})  |
-| :boom: Mi: 16.06., 9:00 | Vorlesung 5-2 | [*Basics on Numerical Approximation of DAEs*] |
-| :hourglass: Fr: 18.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| Di: 23.06., 09:00 | Vorlesung 5-3 | [*Consistency and Convergence for LTI DAEs*]({{< relref "daes-5/#52" >}}) |
+| :hourglass: Fr: 25.06., 15:00 | Wrap Up | [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :hourglass: Fr: 02.07., 15:00 | Vorlesung | *RKM for nonlinear index-1/2 systems* [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
+| :hourglass: Fr: 09.07., 15:00 | Vorlesung | *BDF schemes and software* [BBB-1](https://bigblue.math.uni-magdeburg.de/b/jan-heq-7qj) |
 
 <!--
 | :boom: Mi: 15.06., 9:00 | Vorlesung 5 | [*Basics on Numerical Approximation of DAEs*]({{< relref "daes-5/#50" >}}) |
