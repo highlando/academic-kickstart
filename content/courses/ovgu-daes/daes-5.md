@@ -108,5 +108,16 @@ by comparing the computed value of $x_N\approx x(3)$ to the actual value $x(3)=\
 
  * [Whiteboard Notes](../files/lecture-53.jpg)
 
+# RKM/BDF for (Nonlinear) Semi-explicit DAEs of Index 1/2
+
+ * [Whiteboard Notes](../files/RKM-index-2-BDF.pdf)
+ * [Link to the list of Theorems and Software](https://www.janheiland.de/script-daes/numerical-analysis-and-software-overview.html)
+
+# Numerical Methods for Index Reduction
+
+ 1. For unstructured systems -- use the derivative array but compute the projections *on the fly*.
+ 2. For structured systems like multibody systems (like the [pendulum](https://www.janheiland.de/script-daes/introduction.html#the-pendulum) -- differentiate the relevant parts, add these equations to the system, and make the system square again by introducing new variables.
+
+ * [Whiteboard Notes](../files/Numerical-Index-Reduction.pdf)
 
 [^1]: feel free to use an explicit method of a not so high order.
